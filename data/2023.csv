@@ -1,0 +1,128 @@
+season,competitionId,name,location,country,startDate,endDate,weapon,gender,hasResults
+2023,1092,2023 Summer Universiade,Chengdu,china,03-08-2023,03-08-2023,epee,men,0
+2023,1094,2023 Summer Universiade,Chengdu,china,04-08-2023,04-08-2023,foil,men,0
+2023,1096,2023 Summer Universiade,Chengdu,china,02-08-2023,02-08-2023,sabre,men,0
+2023,244,World Championships,Milan,italy,24-07-2023,27-07-2023,foil,men,1
+2023,242,World Championships,Milan,italy,23-07-2023,26-07-2023,epee,men,1
+2023,246,World Championships,Milan,italy,22-07-2023,25-07-2023,sabre,men,1
+2023,739,European Games,Krakow,poland,27-06-2023,27-06-2023,epee,men,1
+2023,741,European Games,Krakow,poland,26-06-2023,26-06-2023,foil,men,1
+2023,585,Championnats d'Afrique,Cairo,egypt,19-06-2023,19-06-2023,epee,men,1
+2023,587,Championnats d'Afrique,Cairo,egypt,21-06-2023,21-06-2023,foil,men,1
+2023,589,Championnats d'Afrique,Cairo,egypt,20-06-2023,20-06-2023,sabre,men,1
+2023,743,European Games,Krakow,poland,25-06-2023,25-06-2023,sabre,men,1
+2023,1012,Championnats Asiatiques,Wuxi,china,19-06-2023,19-06-2023,foil,men,1
+2023,798,Championnats Panaméricains,Lima,peru,15-06-2023,15-06-2023,foil,men,1
+2023,799,Championnats Panaméricains,Lima,peru,16-06-2023,16-06-2023,epee,men,1
+2023,802,Championnats Panaméricains,Lima,peru,17-06-2023,17-06-2023,sabre,men,1
+2023,1449,Championnats d'Europe,Plovdiv,bulgaria,16-06-2023,16-06-2023,epee,men,1
+2023,1451,Championnats d'Europe,Plovdiv,bulgaria,18-06-2023,18-06-2023,foil,men,1
+2023,1453,Championnats d'Europe,Plovdiv,bulgaria,17-06-2023,17-06-2023,sabre,men,1
+2023,1010,Championnats Asiatiques,Wuxi,china,18-06-2023,18-06-2023,epee,men,1
+2023,1015,Championnats Asiatiques,Wuxi,china,17-06-2023,17-06-2023,sabre,men,1
+2023,111,Coupe du Monde,Istanbul,türkiye,19-05-2023,20-05-2023,epee,men,1
+2023,145,Grand Prix,Shanghai,china,20-05-2023,21-05-2023,foil,men,1
+2023,474,Villa de Madrid,Madrid,spain,12-05-2023,13-05-2023,sabre,men,1
+2023,147,Coupe du Monde,Acapulco,mexico,05-05-2023,06-05-2023,foil,men,1
+2023,113, Epee Grand Prix,Cali,colombia,05-05-2023,07-05-2023,epee,men,1
+2023,165,Grand Prix,Seoul,korea,27-04-2023,29-04-2023,sabre,men,1
+2023,160,Coupe du Monde,Budapest,hungary,24-03-2023,25-03-2023,sabre,men,1
+2023,104,Coupe du Monde,Buenos Aires,argentina,24-03-2023,25-03-2023,epee,men,1
+2023,140,Grand Prix,Busan,korea,18-03-2023,19-03-2023,foil,men,1
+2023,112,WESTEND Grand Prix,Budapest,hungary,10-03-2023,12-03-2023,epee,men,1
+2023,156,Trophée Luxardo,Padua,italy,02-03-2023,03-03-2023,sabre,men,1
+2023,138,Coupe du Monde,Cairo,egypt,23-02-2023,25-02-2023,foil,men,1
+2023,98,Coupe du Monde,Heidenheim,germany,23-02-2023,24-02-2023,epee,men,1
+2023,134,Grand Prix,Turin,italy,11-02-2023,12-02-2023,foil,men,1
+2023,163,Coupe du Monde,Warsaw,poland,10-02-2023,11-02-2023,sabre,men,1
+2023,387,Grand Prix du Qatar,Doha,qatar,28-01-2023,29-01-2023,epee,men,1
+2023,142,Coupe du Monde,Paris,france,12-01-2023,14-01-2023,foil,men,1
+2023,1432,Grand Prix,Tunis,tunisia,13-01-2023,15-01-2023,sabre,men,1
+2023,158,GRAND PRIX NUOMA ,Orléans,france,08-12-2022,10-12-2022,sabre,men,1
+2023,135,Coupe du Monde,Tokyo,japan,09-12-2022,10-12-2022,foil,men,1
+2023,108,Coupe du Monde,Vancouver,canada,09-12-2022,10-12-2022,epee,men,1
+2023,1410,Coupe du Monde,Alger,algeria,10-11-2022,12-11-2022,sabre,men,1
+2023,385,Coupe du Monde,Berne,switzerland,11-11-2022,12-11-2022,epee,men,1
+2023,1406,Coupe du Monde,Bonn,germany,11-11-2022,12-11-2022,foil,men,1
+2023,1387,Tournoi Satellite,Barcelone,spain,29-10-2022,29-10-2022,foil,men,1
+2023,796,Tournoi Satellite,Oslo,norway,29-10-2022,29-10-2022,epee,men,1
+2023,1399,Tournoi Satellite,Antalya,türkiye,22-10-2022,22-10-2022,sabre,men,1
+2023,1022,Tournoi satellite,Dublin,ireland,22-10-2022,22-10-2022,epee,men,1
+2023,392,Tournoi Satellite,Zagreb,croatia,22-10-2022,22-10-2022,foil,men,1
+2023,1331,Tournoi Satelite,Amstelveen,netherlands,15-10-2022,15-10-2022,foil,men,1
+2023,176,Tournoi Satellite,Split,croatia,16-10-2022,16-10-2022,epee,men,1
+2023,1330,"Tournoi Satellite, Trekanten International",Copenhague,denmark,08-10-2022,08-10-2022,foil,men,1
+2023,394,Tournoi satellite,San-Jose,costa rica,09-10-2022,09-10-2022,epee,men,1
+2023,184,Tournoi satellite,Gand,belgium,02-10-2022,02-10-2022,sabre,men,1
+2023,554,Tournoi Satelite,Genève,switzerland,01-10-2022,01-10-2022,epee,men,1
+2023,1280,Tournoi satellite,Monterrey,mexico,02-10-2022,02-10-2022,foil,men,1
+2023,1219,Tournoi satellite,Bucarest,romania,24-09-2022,24-09-2022,foil,men,1
+2023,172,Tournoi satellite,Sofia,bulgaria,24-09-2022,24-09-2022,sabre,men,1
+2023,656,Tournoi satellite ,Turku,finland,24-09-2022,24-09-2022,epee,men,1
+2023,171,Tournoi Satellite,Stockholm,sweden,17-09-2022,17-09-2022,epee,men,1
+2023,398,Tournoi satellite,Bratislava,slovakia,10-09-2022,10-09-2022,foil,men,1
+2023,178,Tournoi Satellite,Lagos,nigeria,10-09-2022,10-09-2022,epee,men,1
+2023,174,Tournoi Satellite,Belgrade,serbia,03-09-2022,03-09-2022,epee,men,1
+2023,1317,Tournoi satellite,Isfahan,iran,03-09-2022,03-09-2022,sabre,men,1
+2023,1091,2023 Summer Universiade,Chengdu,china,02-08-2023,02-08-2023,epee,women,0
+2023,1093,2023 Summer Universiade,Chengdu,china,03-08-2023,03-08-2023,foil,women,0
+2023,1095,2023 Summer Universiade,Chengdu,china,04-08-2023,04-08-2023,sabre,women,0
+2023,245,World Championships,Milan,italy,24-07-2023,27-07-2023,sabre,women,1
+2023,241,World Championships,Milan,italy,22-07-2023,25-07-2023,epee,women,1
+2023,243,World Championships,Milan,italy,23-07-2023,26-07-2023,foil,women,1
+2023,738,European Games,Krakow,poland,26-06-2023,26-06-2023,epee,women,1
+2023,742,European Games,Krakow,poland,27-06-2023,27-06-2023,sabre,women,1
+2023,584,Championnats d'Afrique,Cairo,egypt,20-06-2023,20-06-2023,epee,women,1
+2023,586,Championnats d'Afrique,Cairo,egypt,19-06-2023,19-06-2023,foil,women,1
+2023,588,Championnats d'Afrique,Cairo,egypt,21-06-2023,21-06-2023,sabre,women,1
+2023,740,European Games,Krakow,poland,25-06-2023,25-06-2023,foil,women,1
+2023,1011,Championnats Asiatiques,Wuxi,china,19-06-2023,19-06-2023,sabre,women,1
+2023,797,Championnats Panaméricains,Lima,peru,15-06-2023,15-06-2023,epee,women,1
+2023,800,Championnats Panaméricains,Lima,peru,17-06-2023,17-06-2023,foil,women,1
+2023,801,Championnats Panaméricains,Lima,peru,16-06-2023,16-06-2023,sabre,women,1
+2023,1448,Championnats d'Europe,Plovdiv,bulgaria,17-06-2023,17-06-2023,epee,women,1
+2023,1450,Championnats d'Europe,Plovdiv,bulgaria,16-06-2023,16-06-2023,foil,women,1
+2023,1452,Championnats d'Europe,Plovdiv,bulgaria,18-06-2023,18-06-2023,sabre,women,1
+2023,1013,Championnats Asiatiques,Wuxi,china,17-06-2023,17-06-2023,epee,women,1
+2023,1014,Championnats Asiatiques,Wuxi,china,18-06-2023,18-06-2023,foil,women,1
+2023,127,Coupe du Monde,Tbilisi,georgia,02-06-2023,03-06-2023,foil,women,1
+2023,451,Coupe du Monde,Fujairah,united arab emirates,19-05-2023,20-05-2023,epee,women,1
+2023,457,Grand Prix,Shanghai,china,19-05-2023,21-05-2023,foil,women,1
+2023,471,Coupe du Monde,Batumi,georgia,12-05-2023,13-05-2023,sabre,women,1
+2023,95,Epee Grand Prix,Cali,colombia,06-05-2023,07-05-2023,epee,women,1
+2023,122,Coupe du Monde,Plovdiv,bulgaria,05-05-2023,06-05-2023,foil,women,1
+2023,468,Grand Prix,Seoul,korea,28-04-2023,29-04-2023,sabre,women,1
+2023,92,Coupe du Monde,Nanjing,china,24-03-2023,25-03-2023,epee,women,1
+2023,121,Grand Prix,Busan,korea,17-03-2023,19-03-2023,foil,women,1
+2023,151,Coupe du Monde,Sint-Niklaas ,belgium,17-03-2023,18-03-2023,sabre,women,1
+2023,449,WESTEND Grand Prix,Budapest,hungary,10-03-2023,12-03-2023,epee,women,1
+2023,469,Coupe du Monde,Athènes,greece,03-03-2023,04-03-2023,sabre,women,1
+2023,129,Coupe du Monde ,Cairo,egypt,24-02-2023,25-02-2023,foil,women,1
+2023,85,Coupe du Monde,Barcelone,spain,10-02-2023,11-02-2023,epee,women,1
+2023,470,Coupe du Monde,Tashkent,uzbekistan,10-02-2023,11-02-2023,sabre,women,1
+2023,458,Grand Prix,Turin,italy,10-02-2023,12-02-2023,foil,women,1
+2023,79,Grand Prix du Qatar,Doha,qatar,27-01-2023,29-01-2023,epee,women,1
+2023,118,Coupe du Monde,Paris,france,12-01-2023,14-01-2023,foil,women,1
+2023,1431,Grand Prix,Tunis,tunisia,14-01-2023,15-01-2023,sabre,women,1
+2023,125,Coupe du monde,Belgrade,serbia,09-12-2022,10-12-2022,foil,women,1
+2023,152,GRAND PRIX NUOMA ,Orléans,france,09-12-2022,10-12-2022,sabre,women,1
+2023,97,Coupe du Monde ,Vancouver,canada,08-12-2022,10-12-2022,epee,women,1
+2023,1408,Coupe du Monde,Alger,algeria,10-11-2022,12-11-2022,sabre,women,1
+2023,80,Coupe du Monde,Tallin,estonia,11-11-2022,12-11-2022,epee,women,1
+2023,1391,Tournoi Satellite,Barcelone,spain,29-10-2022,29-10-2022,foil,women,1
+2023,393,Tournoi Satellite,Oslo,norway,30-10-2022,30-10-2022,epee,women,1
+2023,1227,Tournoi satellite,Antalya,türkiye,22-10-2022,22-10-2022,sabre,women,1
+2023,1385,Tournoi satellite,Antalya,türkiye,23-10-2022,23-10-2022,foil,women,1
+2023,1377,Tournoi Satelite,Singapore,singapore,16-10-2022,16-10-2022,foil,women,1
+2023,520,Tournoi satellite,Split,croatia,15-10-2022,15-10-2022,epee,women,1
+2023,1356,"Tournoi Satellite, Trekanten International",Copenhague,denmark,09-10-2022,09-10-2022,foil,women,1
+2023,1388,Tournoi Satellite,San-Jose,costa rica,08-10-2022,08-10-2022,epee,women,1
+2023,485,Tournoi satellite,Gand,belgium,02-10-2022,02-10-2022,sabre,women,1
+2023,553,Tournoi satellite,Genève,switzerland,02-10-2022,02-10-2022,epee,women,1
+2023,1230,Tournoi satellite,Bucarest,romania,25-09-2022,25-09-2022,foil,women,1
+2023,1319,Tournoi satellite,Sofia,bulgaria,25-09-2022,25-09-2022,sabre,women,1
+2023,486,Tournoi Satellite,Turku,finland,24-09-2022,24-09-2022,epee,women,1
+2023,175,Tournoi satellite,Stockholm,sweden,18-09-2022,18-09-2022,epee,women,1
+2023,655,Tournoi Satelite,Bratislava,slovakia,11-09-2022,11-09-2022,epee,women,1
+2023,1218,Tournoi satellite,Bratislava,slovakia,10-09-2022,10-09-2022,foil,women,1
+2023,173,Tournoi Satellite,Belgrade,serbia,03-09-2022,03-09-2022,epee,women,1

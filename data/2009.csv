@@ -1,0 +1,147 @@
+season,competitionId,name,location,country,startDate,endDate,weapon,gender,hasResults
+2009,242,Championnats du Monde,Antalya,türkiye,01-10-2009,04-10-2009,epee,men,1
+2009,244,Championnats du Monde,Antalya,türkiye,30-09-2009,03-10-2009,foil,men,1
+2009,246,Championnats du Monde,Antalya,türkiye,02-10-2009,05-10-2009,sabre,men,1
+2009,974,IX Juegos Deportivos Centroamericanos,San Pedro Sula,honduras,15-08-2009,21-08-2009,epee,men,0
+2009,976,IX Juegos Deportivos Centroamericanos,San Pedro Sula,honduras,15-08-2009,21-08-2009,foil,men,0
+2009,978,IX Juegos Deportivos Centroamericanos,San pedro Sula,honduras,15-08-2009,21-08-2009,sabre,men,0
+2009,585,Championnats d'Afrique,Dakar,senegal,07-08-2009,07-08-2009,epee,men,1
+2009,587,Championnats d'Afrique,Dakar,senegal,06-08-2009,06-08-2009,foil,men,1
+2009,589,Championnats d'Afrique,Dakar,senegal,07-08-2009,07-08-2009,sabre,men,1
+2009,739,Championnats d'Europe,Plovdiv,bulgaria,13-07-2009,19-07-2009,epee,men,1
+2009,741,Championnats d'Europe,Plovdiv,bulgaria,13-07-2009,19-07-2009,foil,men,1
+2009,743,Championnats d'Europe,Plovdiv,bulgaria,13-07-2009,19-07-2009,sabre,men,1
+2009,905,Universiade,Belgrade,serbia,02-07-2009,07-07-2009,epee,men,0
+2009,907,Universiade,Belgrade,serbia,02-07-2009,07-07-2009,foil,men,0
+2009,909,Universiade,Belgrade,serbia,02-07-2009,07-07-2009,sabre,men,0
+2009,798,Championnats Panaméricains,San Salvador,el salvador,02-07-2009,09-07-2009,foil,men,1
+2009,799,Championnats Panaméricains,San Salvador,el salvador,02-07-2009,09-07-2009,epee,men,1
+2009,802,Championnats Panaméricains,San Salvador,el salvador,02-07-2009,09-07-2009,sabre,men,1
+2009,111,Jockey Club Argentino,Buenos Aires,argentina,20-06-2009,21-06-2009,epee,men,1
+2009,474,Coupe du Monde,Dallas,usa,19-06-2009,20-06-2009,sabre,men,1
+2009,106,Coupe du Monde,Bogota,colombia,12-06-2009,13-06-2009,epee,men,1
+2009,146,Copa del Mundo,Estado Vargas,venezuela,12-06-2009,13-06-2009,foil,men,1
+2009,476,Copa del Mundo,Estado Vargas,venezuela,14-06-2009,15-06-2009,sabre,men,1
+2009,186,Cole Cup,Newcastle,great britain,13-06-2009,14-06-2009,sabre,men,1
+2009,147,Copa Villa La Habana,La Havane,cuba,04-06-2009,05-06-2009,foil,men,1
+2009,185,Tournoi satellite sabre masculin,Reykjavik,iceland,06-06-2009,07-06-2009,sabre,men,1
+2009,105,Epée internationale,Montréal,canada,29-05-2009,30-05-2009,epee,men,1
+2009,463,Epée internationale,Montréal,canada,30-05-2009,31-05-2009,foil,men,1
+2009,163,Trophée Luxardo,Padoue,italy,29-05-2009,30-05-2009,sabre,men,1
+2009,134,Fleuret de St-Petersbourg,St-Petersbourg,russia,25-05-2009,26-05-2009,foil,men,1
+2009,184,Tournoi satellite sabre masculin,Helsinki,finland,23-05-2009,23-05-2009,sabre,men,1
+2009,164,Villa de Madrid,Madrid,spain,23-05-2009,24-05-2009,sabre,men,1
+2009,138,SK Trophée Séoul,Séoul,korea,18-05-2009,19-05-2009,foil,men,1
+2009,793,Tournoi satellite,Split,croatia,23-05-2009,24-05-2009,epee,men,1
+2009,521,Challenge Australia,Sydney,australia,23-05-2009,24-05-2009,epee,men,1
+2009,165,Sabre de Wolodyjowski,Varsovie,poland,15-05-2009,16-05-2009,sabre,men,1
+2009,656,Tournoi satellite,Istanbul,türkiye,09-05-2009,10-05-2009,epee,men,1
+2009,104,Challenge Monal,Paris,france,09-05-2009,10-05-2009,epee,men,1
+2009,145,Prince Takamado WC,Tokyo,japan,08-05-2009,09-05-2009,foil,men,1
+2009,139,Coupe du Monde,Shanghai,china,01-05-2009,02-05-2009,foil,men,1
+2009,398,Tournoi satellite fleuret masculin,Copenhague,denmark,28-03-2009,28-03-2009,foil,men,1
+2009,108,Heidenheimer Pokal,Heidenheim,germany,27-03-2009,28-03-2009,epee,men,1
+2009,143,Coupe du Monde Cidade de Espinho,Espinho,portugal,14-03-2009,15-03-2009,foil,men,1
+2009,475,Coupe du Monde,Tunis,tunisia,13-03-2009,14-03-2009,sabre,men,1
+2009,809,Arnold Schwarzenegger C. Sports Festival,Colombus (Ohio),usa,07-03-2009,08-03-2009,epee,men,1
+2009,112,Challenge Bernadotte Stockholm,Stockholm,sweden,06-03-2009,07-03-2009,epee,men,1
+2009,113,Grand Prix de Berne,Berne,switzerland,28-02-2009,01-03-2009,epee,men,1
+2009,142,Löwe von Bonn,Bonn,germany,28-02-2009,01-03-2009,foil,men,1
+2009,162,Glaive D’Asparoukh,Plovdiv,bulgaria,27-02-2009,28-02-2009,sabre,men,1
+2009,156,Sabre de Moscou,Moscow,russia,12-02-2009,13-02-2009,sabre,men,1
+2009,180,Tournoi satellite sabre masculin,Orebro,sweden,14-02-2009,15-02-2009,sabre,men,1
+2009,98,Glaive de Tallin,Tallin,estonia,14-02-2009,15-02-2009,epee,men,1
+2009,140,Coupe Ville de Venise,Venise,italy,13-02-2009,14-02-2009,foil,men,1
+2009,158,Coupe Gerevich-Kovacs-Karpati,Budapest,hungary,06-02-2009,07-02-2009,sabre,men,1
+2009,99,Coupe du Monde Cidade de Lisboa,Lisbonne,portugal,07-02-2009,08-02-2009,epee,men,1
+2009,394,SAF Pokalen,Stockholm,sweden,07-02-2009,07-02-2009,epee,men,1
+2009,160,Coupe Akropolis,Athènes,greece,31-01-2009,01-02-2009,sabre,men,1
+2009,137,Tournoi Ciudad de A Coruña,La Coruña,spain,31-01-2009,01-02-2009,foil,men,1
+2009,109,Trophée Carroccio,Legnano,italy,30-01-2009,31-01-2009,epee,men,1
+2009,387,Grand Prix du Qatar 2009,Doha,qatar,23-01-2009,24-01-2009,epee,men,1
+2009,135,Challenge International de Paris,Paris,france,23-01-2009,24-01-2009,foil,men,1
+2009,132,Copenhagen Cup,Copenhague,denmark,17-01-2009,18-01-2009,foil,men,1
+2009,179,Tournoi satellite sabre masculin,Copenhague,denmark,17-01-2009,18-01-2009,sabre,men,1
+2009,519,Coupe du Monde,Istanbul,türkiye,17-01-2009,18-01-2009,sabre,men,1
+2009,385,CM Cheikh Fahed Al-Ahmed Al-Soubah,Koweit City,kuwait,16-01-2009,17-01-2009,epee,men,1
+2009,116,Coupe du Monde,Kish Island,iran,10-01-2009,11-01-2009,epee,men,1
+2009,168,Coupe du Monde,Kish Island,iran,10-01-2009,11-01-2009,sabre,men,1
+2009,796,Tournoi satellite,Dublin,ireland,29-11-2008,29-11-2008,epee,men,1
+2009,172,Tournoi satellite sabre masculin,Amsterdam,netherlands,15-11-2008,16-11-2008,sabre,men,1
+2009,392,Tournoi satellite fleuret masculin,Amsterdam,netherlands,15-11-2008,16-11-2008,foil,men,1
+2009,171,Tournoi satellite épée masculine,Arhus,denmark,15-11-2008,16-11-2008,epee,men,1
+2009,176,Tournoi satellite épée masculine,Oslo,norway,08-11-2008,09-11-2008,epee,men,1
+2009,178,Tournoi satellite épée masculine,Copenhague,denmark,25-10-2008,25-10-2008,epee,men,1
+2009,960,Aphrodite Cup 2008,Nicosia,cyprus,25-10-2008,25-10-2008,epee,men,0
+2009,182,Tournoi satellite sabre masculin,Gand,belgium,18-10-2008,19-10-2008,sabre,men,1
+2009,391,Leon Paul satellite fleuret masculin,Londres,great britain,19-10-2008,19-10-2008,foil,men,1
+2009,174,"Kupittaa tournament, épée masculine",Turku,finland,18-10-2008,18-10-2008,epee,men,1
+2009,554,51 Trophy of Belgrade,Belgrade,serbia,12-10-2008,12-10-2008,epee,men,1
+2009,241,Championnats du Monde,Antalya,türkiye,02-10-2009,05-10-2009,epee,women,1
+2009,243,Championnats du Monde,Antalya,türkiye,01-10-2009,04-10-2009,foil,women,1
+2009,245,Championnats du Monde,Antalya,türkiye,30-09-2009,03-10-2009,sabre,women,1
+2009,973,IX Juegos Deportivos Centroamericanos,San Pedro Sula,honduras,15-08-2009,21-08-2009,epee,women,0
+2009,975,IX Juegos Deportivos Centroamericanos,San Pedro Sula,honduras,15-08-2009,21-08-2009,foil,women,0
+2009,977,IX Juegos Deportivos Centroamericanos,San Pedro Sula,honduras,15-08-2009,21-08-2009,sabre,women,0
+2009,584,Championnats d'Afrique,Dakar,senegal,06-08-2009,06-08-2009,epee,women,1
+2009,586,Championnats d'Afrique,Dakar,senegal,07-08-2009,07-08-2009,foil,women,1
+2009,588,Championnats d'Afrique,Dakar,senegal,06-08-2009,06-08-2009,sabre,women,1
+2009,738,Championnats d'Europe,Plovdiv,bulgaria,13-07-2009,19-07-2009,epee,women,1
+2009,740,Championnats d'Europe,Plovdiv,bulgaria,13-07-2009,19-07-2009,foil,women,1
+2009,742,Championnats d'Europe,Plovdiv,bulgaria,13-07-2009,19-07-2009,sabre,women,1
+2009,904,Universiade,Belgrade,serbia,02-07-2009,07-07-2009,epee,women,0
+2009,906,Universiade,Belgrade,serbia,02-07-2009,07-07-2009,foil,women,0
+2009,908,Universiade,Belgrade,serbia,02-07-2009,07-07-2009,sabre,women,0
+2009,797,Championnats Panaméricains,San Salvador,el salvador,02-07-2009,09-07-2009,epee,women,1
+2009,800,Championnats Panaméricains,San Salvador,el salvador,02-07-2009,09-07-2009,foil,women,1
+2009,801,Championnats Panaméricains,San Salvador,el salvador,02-07-2009,09-07-2009,sabre,women,1
+2009,130,Coupe du Monde,Dallas,usa,21-06-2009,22-06-2009,foil,women,1
+2009,471,Coupe du Monde,Dallas,usa,20-06-2009,21-06-2009,sabre,women,1
+2009,131,Tournoi Nancy Uranga,La Havane,cuba,08-06-2009,09-06-2009,foil,women,1
+2009,155,Coupe du Monde,La Havane,cuba,11-06-2009,12-06-2009,sabre,women,1
+2009,485,Cole Cup,Newcastle,great britain,13-06-2009,14-06-2009,sabre,women,1
+2009,486,Cole Cup,Newcastle,great britain,13-06-2009,14-06-2009,epee,women,1
+2009,95,Coupe du Monde,La Havane,cuba,06-06-2009,07-06-2009,epee,women,1
+2009,484,Tournoi satellite sabre féminin,Reykjavik,iceland,06-06-2009,07-06-2009,sabre,women,1
+2009,451,Epée internationale,Montréal,canada,29-05-2009,30-05-2009,epee,women,1
+2009,676,Coupe du Monde,Tianjin,china,29-05-2009,30-05-2009,sabre,women,1
+2009,652,Tournoi satellite sabre féminin,Baku,azerbaijan,23-05-2009,23-05-2009,sabre,women,1
+2009,520,Tournoi satellite epee feminine,Split,croatia,23-05-2009,24-05-2009,epee,women,1
+2009,118,Fleuret de St-Petersbourg,St-Petersbourg,russia,22-05-2009,23-05-2009,foil,women,1
+2009,97,Challenge Australia,Sydney,australia,23-05-2009,24-05-2009,epee,women,1
+2009,522,Candidature A,Koblenz,germany,16-05-2009,17-05-2009,sabre,women,1
+2009,449,Tournoi international,Nankin,china,15-05-2009,16-05-2009,epee,women,1
+2009,121,SK Trophée Séoul,Séoul,korea,15-05-2009,16-05-2009,foil,women,1
+2009,470,Challenge Yves Brasseur,Gand,belgium,09-05-2009,10-05-2009,sabre,women,1
+2009,655,Tournoi satellite,Istanbul,türkiye,09-05-2009,10-05-2009,epee,women,1
+2009,122,Coupe du Monde,Shanghai,china,04-05-2009,05-05-2009,foil,women,1
+2009,469,Coupe du Monde,Klagenfurt,austria,02-05-2009,03-05-2009,sabre,women,1
+2009,397,Tournoi satellite fleuret féminin,Copenhague,denmark,29-03-2009,29-03-2009,foil,women,1
+2009,85,Souvenir J. Nowara,Luxembourg,luxembourg,28-03-2009,29-03-2009,epee,women,1
+2009,518,Challenge Jeanty,Marseille,france,27-03-2009,28-03-2009,foil,women,1
+2009,516,Epee de Moscow Region,Lobnya,russia,21-03-2009,22-03-2009,epee,women,1
+2009,129,Coupe du Monde,Turin,italy,21-03-2009,22-03-2009,foil,women,1
+2009,125,Cup Eximbank,Budapest,hungary,14-03-2009,15-03-2009,foil,women,1
+2009,447,Coupe du Monde,Florina,greece,14-03-2009,15-03-2009,epee,women,1
+2009,151,Tournoi international,Foggia,italy,13-03-2009,14-03-2009,sabre,women,1
+2009,82,Würth Cup,Tauberbischofsheim,germany,07-03-2009,08-03-2009,epee,women,1
+2009,458,The Artus Court PKO BP,Gdansk,poland,27-02-2009,28-02-2009,foil,women,1
+2009,689,Coupe du Monde,V.Leganés-Madrid,spain,28-02-2009,01-03-2009,sabre,women,1
+2009,127,Cup der Sparkasse Leipzig,Leipzig,germany,21-02-2009,22-02-2009,foil,women,1
+2009,86,Challenge international de St-Maur,Saint-Maur,france,20-02-2009,21-02-2009,epee,women,1
+2009,92,Ciudad de Barcelona,Barcelone,spain,14-02-2009,15-02-2009,epee,women,1
+2009,149,Sabre de Moscou,Moscow,russia,15-02-2009,16-02-2009,sabre,women,1
+2009,152,Trophée BNP-Paribas,Orléans,france,06-02-2009,07-02-2009,sabre,women,1
+2009,517,Tournoi international,Rome,italy,06-02-2009,07-02-2009,epee,women,1
+2009,393,SAF Pokalen,Stockholm,sweden,08-02-2009,08-02-2009,epee,women,1
+2009,627,Star Cup Belgrade,Zrenjanin,serbia,07-02-2009,08-02-2009,foil,women,1
+2009,467,England Cup,Londres,great britain,31-01-2009,01-02-2009,sabre,women,1
+2009,124,Coupe du Monde,Salzbourg,austria,31-01-2009,01-02-2009,foil,women,1
+2009,80,Grand Prix,Doha,qatar,24-01-2009,25-01-2009,epee,women,1
+2009,79,Westend Cup,Budapeste,hungary,16-01-2009,17-01-2009,epee,women,1
+2009,170,Tournoi satellite épée féminine,Arhus,denmark,15-11-2008,16-11-2008,epee,women,1
+2009,175,Tournoi satellite épée féminine,Oslo,norway,08-11-2008,09-11-2008,epee,women,1
+2009,177,Tournoi satellite épée féminine,Copenhague,denmark,26-10-2008,26-10-2008,epee,women,1
+2009,916,Aphrodite Cup 2008,Nicosia,cyprus,25-10-2008,25-10-2008,epee,women,0
+2009,173,"Kupittaa tournament, épée féminine",Turku,finland,18-10-2008,18-10-2008,epee,women,1
+2009,553,51 Trophy of Belgrade,Belgrade,serbia,12-10-2008,13-10-2008,epee,women,1

@@ -1,0 +1,153 @@
+season,competitionId,name,location,country,startDate,endDate,weapon,gender,hasResults
+2004,242,Jeux Olympiques,Athenes,greece,17-08-2004,17-08-2004,epee,men,1
+2004,244,Jeux Olympiques,Athenes,greece,16-08-2004,16-08-2004,foil,men,1
+2004,246,Jeux Olympiques,Athenes,greece,14-08-2004,14-08-2004,sabre,men,1
+2004,168,Coupe du Monde,Teheran,iran,19-07-2004,20-07-2004,sabre,men,1
+2004,116,Coupe du Monde,Teheran,iran,17-07-2004,18-07-2004,epee,men,1
+2004,148,Coupe du Monde,Teheran,iran,18-07-2004,19-07-2004,foil,men,1
+2004,111,Coupe du Monde,Buenos Aires,argentina,03-07-2004,04-07-2004,epee,men,1
+2004,290,Championnats d'Europe seniors,Copenhague,denmark,30-06-2004,30-06-2004,epee,men,0
+2004,292,Championnats d'Europe seniors,Copenhague,denmark,29-06-2004,29-06-2004,foil,men,0
+2004,294,Championnats d'Europe seniors,Copenhague,denmark,02-07-2004,02-07-2004,sabre,men,0
+2004,146,Copa Venezuela,Ile de Margarita,venezuela,03-07-2004,04-07-2004,foil,men,1
+2004,115,Coupe du Monde Gigante,Carolina,puerto rico,26-06-2004,27-06-2004,epee,men,1
+2004,147,Copa Villa La Habana,La Havane,cuba,21-06-2004,22-06-2004,foil,men,1
+2004,167,Coupe du Monde,La Havane,cuba,24-06-2004,25-06-2004,sabre,men,1
+2004,114,Tournoi Ramon Fonst,La Havane,cuba,18-06-2004,19-06-2004,epee,men,1
+2004,186,Tournoi satellite sabre masculin,Newcastle,great britain,19-06-2004,20-06-2004,sabre,men,1
+2004,166,Coupe du Monde,"New York City, NY",usa,11-06-2004,12-06-2004,sabre,men,1
+2004,185,Tournoi satellite sabre masculin,Reykjavik,iceland,12-06-2004,13-06-2004,sabre,men,1
+2004,184,Tournoi satellite sabre masculin,Helsinki,finland,29-05-2004,30-05-2004,sabre,men,1
+2004,161,Challenge International de Nancy,Nancy,france,29-05-2004,30-05-2004,sabre,men,1
+2004,112,Challenge Bernadotte,Stockholm,sweden,29-05-2004,30-05-2004,epee,men,1
+2004,163,Trophée Luxardo,Padoue,italy,21-05-2004,22-05-2004,sabre,men,1
+2004,143,Espinho,Espinho,portugal,14-05-2004,15-05-2004,foil,men,1
+2004,110,Coupe du Monde,Innsbruck,austria,15-05-2004,16-05-2004,epee,men,1
+2004,165,Sabre de Wolodyjowski,Varsovie,poland,15-05-2004,16-05-2004,sabre,men,1
+2004,142,Löwe von Bonn,Bonn,germany,08-05-2004,09-05-2004,foil,men,1
+2004,109,Trophée Carroccio,Legnano,italy,08-05-2004,09-05-2004,epee,men,1
+2004,164,Villa de Madrid,Madrid,spain,07-05-2004,08-05-2004,sabre,men,1
+2004,108,Heidenheimer Pokal,Heidenheim,germany,30-04-2004,01-05-2004,epee,men,1
+2004,401,Championnats Asiatiques,Manille,philippines,21-04-2004,26-04-2004,epee,men,0
+2004,403,Championnats Asiatiques,Manille,philippines,21-04-2004,26-04-2004,foil,men,0
+2004,405,Championnats Asiatiques,Manille,philippines,21-04-2004,26-04-2004,sabre,men,0
+2004,430,Ch. qualification JO zone Asie,Manille,philippines,19-04-2004,20-04-2004,epee,men,0
+2004,432,Ch. qualification JO zone Asie,Manille,philippines,19-04-2004,20-04-2004,foil,men,0
+2004,434,Ch. qualification JO zone Asie,Manille,philippines,19-04-2004,20-04-2004,sabre,men,0
+2004,423,Qualification olympique Amérique,Rio de Janeiro,brazil,25-04-2004,26-04-2004,epee,men,0
+2004,425,Qualification olympique Amérique,Rio de Janeiro,brazil,25-04-2004,26-04-2004,sabre,men,0
+2004,427,Qualification Olympique Amérique,Rio de Janeiro,brazil,25-04-2004,26-04-2004,foil,men,0
+2004,435,Ch. qualification JO zone Afrique,Tunis,tunisia,21-04-2004,21-04-2004,foil,men,0
+2004,437,Ch. qualification JO zone Afriwue,Tunis,tunisia,21-04-2004,21-04-2004,sabre,men,0
+2004,439,Ch. qualification JO zone Afrique,Tunis,tunisia,22-04-2004,22-04-2004,epee,men,0
+2004,407,Ch. qualification JO zone Europe,Gand,belgium,17-04-2004,17-04-2004,epee,men,0
+2004,409,Ch. qualification JO zone Europe,Gand,belgium,17-04-2004,17-04-2004,foil,men,0
+2004,411,Ch. qualification JO zone Europe,Gand,belgium,17-04-2004,17-04-2004,sabre,men,0
+2004,106,Coupe du Monde,Bogota,colombia,27-03-2004,28-03-2004,epee,men,1
+2004,162,Glaive D’Asparoukh,Plovdiv,bulgaria,27-03-2004,28-03-2004,sabre,men,1
+2004,134,Fleuret de St-Petersbourg,St-Petersburg,russia,27-03-2004,28-03-2004,foil,men,1
+2004,398,Tournoi satellite fleuret masculin,Copenhague sat,denmark,20-03-2004,21-03-2004,foil,men,1
+2004,145,Fencing WC,Fukui,japan,20-03-2004,21-03-2004,foil,men,1
+2004,156,Sabre de Moscou,Moscow,russia,20-03-2004,21-03-2004,sabre,men,1
+2004,105,Epée Internationale,Vancouver,canada,19-03-2004,20-03-2004,epee,men,1
+2004,160,Coupe Akropolis,Athenes,greece,12-03-2004,13-03-2004,sabre,men,1
+2004,181,Tournoi satellite sabre masculin,Edinburgh,great britain,13-03-2004,14-03-2004,sabre,men,1
+2004,396,Tournoi satellite épée masculine,Edinburgh,great britain,13-03-2004,14-03-2004,epee,men,1
+2004,104,Challenge R. Monal,Paris,france,12-03-2004,13-03-2004,epee,men,1
+2004,169,Coupe du Monde,Bangkok,thailand,06-03-2004,07-03-2004,sabre,men,1
+2004,113,Grand Prix de Berne,Berne,switzerland,06-03-2004,07-03-2004,epee,men,1
+2004,139,Coupe du Monde,Shanghai,china,07-03-2004,08-03-2004,foil,men,1
+2004,102,Epee Club Trophy,Londres,great britain,28-02-2004,29-02-2004,epee,men,1
+2004,138,2004 SK Trophée Séoul,Seoul,korea,28-02-2004,29-02-2004,foil,men,1
+2004,101,Challenge Tokaj Express,Budapest,hungary,21-02-2004,22-02-2004,epee,men,1
+2004,180,Tournoi satellite sabre masculin,Orebro,sweden,21-02-2004,22-02-2004,sabre,men,1
+2004,159,Grand Prix de Bonn,Bonn,germany,14-02-2004,15-02-2004,sabre,men,1
+2004,103,Grand Prix de Slovaquie,Bratislava,slovakia,14-02-2004,15-02-2004,epee,men,1
+2004,137,Tournoi Ciudad de A Coruña,La Coruna,spain,13-02-2004,14-02-2004,foil,men,1
+2004,394,Tournoi satellite épée masculine,Stockholm,sweden,14-02-2004,15-02-2004,epee,men,1
+2004,100,Tournoi Ciudad de Barcelona,Barcelone,spain,07-02-2004,08-02-2004,epee,men,1
+2004,141,Coupe du Monde,Zalaegerszeg,hungary,07-02-2004,08-02-2004,foil,men,1
+2004,158,Coupe Gerevich-Kovacs-Karpati,Budapest,hungary,31-01-2004,01-02-2004,sabre,men,1
+2004,99,Vitalis Cidade de Lisboa,Lisbonne,portugal,31-01-2004,01-02-2004,epee,men,1
+2004,140,Coupe Ville de Venise,Venise,italy,31-01-2004,01-02-2004,foil,men,1
+2004,157,Corble Cup,Londres,great britain,24-01-2004,25-01-2004,sabre,men,1
+2004,135,C.I.P. Souvenir Rommel Paris,Paris,france,24-01-2004,25-01-2004,foil,men,1
+2004,98,Glaive de Tallin,Tallin,estonia,24-01-2004,25-01-2004,epee,men,1
+2004,390,Coupe du Monde de Jordanie,Aqaba,jordan,15-01-2004,16-01-2004,foil,men,1
+2004,387,Coupe du Monde Qatar 2004,Doha,qatar,10-01-2004,11-01-2004,epee,men,1
+2004,176,Tournoi satellite épée masculine,Oslo,norway,13-12-2003,14-12-2003,epee,men,1
+2004,385,CM Cheikh Fahed Al-Ahmed Al-Soubah,Koweit City,kuwait,05-12-2003,06-12-2003,epee,men,1
+2004,133,Championnat international d’Autriche,Vienne,austria,06-12-2003,07-12-2003,foil,men,1
+2004,132,Copenhagen Cup,Copenhague,denmark,22-11-2003,23-11-2003,foil,men,1
+2004,179,Tournoi satellite sabre masculin,Copenhague,denmark,22-11-2003,23-11-2003,sabre,men,1
+2004,172,Tournoi satellite sabre masculin,Amsterdam,netherlands,15-11-2003,16-11-2003,sabre,men,1
+2004,392,Tournoi satellite fleuret masculin,Amsterdam,netherlands,15-11-2003,16-11-2003,foil,men,1
+2004,178,Tournoi satellite épée masculine,Copenhague,denmark,25-10-2003,26-10-2003,epee,men,1
+2004,182,Tournoi satellite sabre masculin,Gand,belgium,25-10-2003,26-10-2003,sabre,men,1
+2004,391,Leon Paul satellite fleuret masculin,Londres,great britain,26-10-2003,26-10-2003,foil,men,1
+2004,171,Tournoi satellite épée masculine,Arhus,denmark,13-10-2003,14-10-2003,epee,men,1
+2004,174,Tournoi satellite épée masculine,Turku,finland,11-10-2003,12-10-2003,epee,men,1
+2004,243,Jeux Olympiques,Athenes,greece,18-08-2004,18-08-2004,foil,women,1
+2004,245,Jeux Olympiques,Athenes,greece,17-08-2004,17-08-2004,sabre,women,1
+2004,241,Jeux Olympiques,Athenes,greece,15-08-2004,15-08-2004,epee,women,1
+2004,128,Coupe Buenos Aires,Buenos Aires,argentina,03-07-2004,04-07-2004,foil,women,1
+2004,289,Championnats d'Europe seniors,Copenhague,denmark,29-06-2004,29-06-2004,epee,women,0
+2004,291,Championnats d'Europe seniors,Copenhague,denmark,02-07-2004,02-07-2004,foil,women,0
+2004,293,Championnats d'Europe seniors,Copenhague,denmark,30-06-2004,30-06-2004,sabre,women,0
+2004,96,Coupe du Monde Gigante,Carolina,puerto rico,26-06-2004,27-06-2004,epee,women,1
+2004,131,Tournoi Nancy Uranga,La Havane,cuba,21-06-2004,22-06-2004,foil,women,1
+2004,155,Coupe du Monde,La Havane,cuba,24-06-2004,25-06-2004,sabre,women,1
+2004,95,Coupe du Monde,La Havane,cuba,18-06-2004,19-06-2004,epee,women,1
+2004,130,Coupe du Monde,"New York City, NY",usa,12-06-2004,13-06-2004,foil,women,1
+2004,154,Coupe du Monde,"New York City, NY",usa,12-06-2004,13-06-2004,sabre,women,1
+2004,93,Challenge Jean Coibion,Welkenraedt,belgium,12-06-2004,13-06-2004,epee,women,1
+2004,153,Coupe du Monde,Tauberbischofsheim,germany,05-06-2004,06-06-2004,sabre,women,1
+2004,125,Coupe Eximbank,Budapest,hungary,29-05-2004,30-05-2004,foil,women,1
+2004,92,Tournoi international de Malaga,Malaga,spain,21-05-2004,22-05-2004,epee,women,1
+2004,152,Coupe du Monde,Orleans,france,21-05-2004,22-05-2004,sabre,women,1
+2004,91,Trophée Citta di Legnano,Legnano,italy,14-05-2004,15-05-2004,epee,women,1
+2004,127,Cup der Sparkasse Leipzig,Leipzig,germany,15-05-2004,16-05-2004,foil,women,1
+2004,126,Souvenir Jeanty,Marseille,france,30-04-2004,01-05-2004,foil,women,1
+2004,89,Coupe du Monde,Moedling,austria,01-05-2004,02-05-2004,epee,women,1
+2004,400,Championnats Asiatiques,Manille,philippines,21-04-2004,26-04-2004,epee,women,0
+2004,402,Championnats Asiatiques,Manille,philippines,21-04-2004,26-04-2004,foil,women,0
+2004,404,Championnats Asiatiques,Manille,philippines,21-04-2004,26-04-2004,sabre,women,0
+2004,429,Ch. qualification JO zone Asie,Manille,philippines,19-04-2004,20-04-2004,epee,women,0
+2004,431,Ch. qualification JO zone Asie,Manille,philippines,19-04-2004,20-04-2004,foil,women,0
+2004,433,Ch. qualification JO zone Asie,Manille,philippines,19-04-2004,20-04-2004,sabre,women,0
+2004,424,Qualification olympique Amérique,Rio de Janeiro,brazil,25-04-2004,26-04-2004,foil,women,0
+2004,426,Qualification Olympique Amérique,Rio de janeiro,brazil,25-04-2004,26-04-2004,epee,women,0
+2004,428,Qualification Olympique Amérique,Rio de Janeiro,brazil,25-04-2004,26-04-2004,sabre,women,0
+2004,436,Ch. qualification JO zone Afrique,Tunis,tunisia,21-04-2004,21-04-2004,epee,women,0
+2004,438,Ch. qualification JO zone Afrique,Tunis,tunisia,22-04-2004,22-04-2004,foil,women,0
+2004,440,Ch. qualification JO zone Afrique,Tunis,tunisia,22-04-2004,22-04-2004,sabre,women,0
+2004,406,Ch. qualification JO zone Europe,Gand,belgium,17-04-2004,17-04-2004,epee,women,0
+2004,408,Ch. qualification JO zone Europe,Gand,belgium,17-04-2004,17-04-2004,foil,women,0
+2004,410,Ch. qualification JO zone Europe,Gand,belgium,17-04-2004,17-04-2004,sabre,women,0
+2004,84,Costa Do Estoril,Estoril,portugal,27-03-2004,28-03-2004,epee,women,1
+2004,151,Tournoi international,Lamezia Terme,italy,26-03-2004,27-03-2004,sabre,women,1
+2004,118,Fleuret de St-Petersbourg,St-Petersburg,russia,27-03-2004,28-03-2004,foil,women,1
+2004,397,Tournoi satellite fleuret féminin,Copenhague,denmark,20-03-2004,21-03-2004,foil,women,1
+2004,129,Fencing WC,Fukui,japan,20-03-2004,21-03-2004,foil,women,1
+2004,149,Sabre de Moscou,Moscow,russia,20-03-2004,21-03-2004,sabre,women,1
+2004,123,Coupe d’Athènes,Athenes,greece,13-03-2004,14-03-2004,foil,women,1
+2004,395,Tournoi satellite épée féminine,Edinburgh,great britain,13-03-2004,14-03-2004,epee,women,1
+2004,85,Challenge J. Nowara,Luxembourg,luxembourg,06-03-2004,07-03-2004,epee,women,1
+2004,122,Coupe du Monde,Shanghai,china,06-03-2004,07-03-2004,foil,women,1
+2004,150,Coupe du Monde,Budapest,hungary,28-02-2004,29-02-2004,sabre,women,1
+2004,83,Coupe J.M. Rektor,Katowice,poland,28-02-2004,29-02-2004,epee,women,1
+2004,121,2004 SK Trophée Séoul,Seoul,korea,28-02-2004,29-02-2004,foil,women,1
+2004,124,Coupe du Monde,Salzbourg,austria,21-02-2004,22-02-2004,foil,women,1
+2004,82,Würth Cup,Tauberbischofsheim,germany,21-02-2004,22-02-2004,epee,women,1
+2004,81,Ipswich Cup,Londres,great britain,14-02-2004,15-02-2004,epee,women,1
+2004,393,Tournoi satellite épée féminine,Stockholm,sweden,14-02-2004,15-02-2004,epee,women,1
+2004,86,Tournoi de Saint Maur,Saint-Maur,france,07-02-2004,08-02-2004,epee,women,1
+2004,120,Trophée Esperia,Come,italy,31-01-2004,01-02-2004,foil,women,1
+2004,80,Prague d’Or,Prague,czechia,31-01-2004,01-02-2004,epee,women,1
+2004,79,Coupe Martini,Budapest,hungary,24-01-2004,25-01-2004,epee,women,1
+2004,388,Coupe du Monde de Jordanie,Aqaba,jordan,17-01-2004,18-01-2004,foil,women,1
+2004,87,Coupe de Göteborg,Goteborg,sweden,17-01-2004,18-01-2004,epee,women,1
+2004,175,Tournoi satellite épée féminine,Oslo,norway,13-12-2003,14-12-2003,epee,women,1
+2004,177,Tournoi satellite épée féminine,Copenhague,denmark,25-10-2003,26-10-2003,epee,women,1
+2004,170,Tournoi satellite épée féminine,Arhus,denmark,13-10-2003,14-10-2003,epee,women,1
+2004,173,Tournoi satellite épée féminine,Turku,finland,11-10-2003,12-10-2003,epee,women,1

@@ -1,0 +1,37 @@
+season,competitionId,name,location,country,startDate,endDate,weapon,gender,hasResults
+2021,244,Jeux Olympiques,Tokyo,japan,26-07-2021,26-07-2021,foil,men,1
+2021,242,Jeux Olympiques,Tokyo,japan,25-07-2021,25-07-2021,epee,men,1
+2021,246,Jeux Olympiques,Tokyo,japan,24-07-2021,24-07-2021,sabre,men,1
+2021,1072,Championnats de qualification panaméricains,San-Jose,costa rica,01-05-2021,01-05-2021,epee,men,1
+2021,1074,Championnats de qualification panaméricains,San-Jose,costa rica,02-05-2021,02-05-2021,foil,men,1
+2021,1076,Championnats de qualification panaméricains,San-Jose,costa rica,01-05-2021,01-05-2021,sabre,men,1
+2021,1068,Championnats de qualification Asie-Océanie,Tashkent,uzbekistan,26-04-2021,26-04-2021,foil,men,1
+2021,1060,Championnats de qualification - Afrique,Le Caire,egypt,23-04-2021,23-04-2021,epee,men,1
+2021,1062,Championnats de qualification - Afrique,Le Caire,egypt,23-04-2021,23-04-2021,foil,men,1
+2021,1064,Championnats de qualification - Afrique,Le Caire,egypt,23-04-2021,23-04-2021,sabre,men,1
+2021,1078,Championnats de qualification européens,Madrid,spain,25-04-2021,25-04-2021,epee,men,1
+2021,1080,Championnats de qualification européens,Madrid,spain,24-04-2021,24-04-2021,foil,men,1
+2021,1082,Championnats de qualification européens,Madrid,spain,24-04-2021,24-04-2021,sabre,men,1
+2021,1066,Championnats de qualification Asie-Oceanie,Tashkent,uzbekistan,25-04-2021,25-04-2021,epee,men,1
+2021,1070,Championnats de qualification Asie-Océanie,Tashkent,uzbekistan,25-04-2021,25-04-2021,sabre,men,1
+2021,140,Grand Prix,Doha,qatar,26-03-2021,28-03-2021,foil,men,1
+2021,104,Coupe du Monde,Kazan,russia,19-03-2021,21-03-2021,epee,men,1
+2021,160,Coupe du Monde,Budapest,hungary,11-03-2021,13-03-2021,sabre,men,1
+2021,245,Jeux Olympiques,Tokyo,japan,26-07-2021,26-07-2021,sabre,women,1
+2021,241,Jeux Olympiques,Tokyo,japan,24-07-2021,24-07-2021,epee,women,1
+2021,243,Jeux Olympiques,Tokyo,japan,25-07-2021,25-07-2021,foil,women,1
+2021,1071,Championnats de qualification panaméricains,San-Jose,costa rica,02-05-2021,02-05-2021,epee,women,1
+2021,1073,Championnats de qualification panaméricains,San-Jose,costa rica,01-05-2021,01-05-2021,foil,women,1
+2021,1075,Championnats de qualification panaméricains,San-Jose,costa rica,02-05-2021,02-05-2021,sabre,women,1
+2021,1065,Championnats de qualification Asie-Oceanie,Tashkent,uzbekistan,26-04-2021,26-04-2021,epee,women,1
+2021,1069,Championnats de qualification Asie-Océanie,Tashkent,uzbekistan,26-04-2021,26-04-2021,sabre,women,1
+2021,1059,Championnats de qualification - Afrique,Le Caire,egypt,23-04-2021,23-04-2021,epee,women,1
+2021,1061,Championnats de qualification - Afrique,Le Caire,egypt,23-04-2021,23-04-2021,foil,women,1
+2021,1063,Championnats de qualification - Afrique,Le Caire,egypt,23-04-2021,23-04-2021,sabre,women,1
+2021,1077,Championnats de qualification européens,Madrid,spain,24-04-2021,24-04-2021,epee,women,1
+2021,1079,Championnats de qualification européens,Madrid,spain,25-04-2021,25-04-2021,foil,women,1
+2021,1081,Championnats de qualification européens,Madrid,spain,25-04-2021,25-04-2021,sabre,women,1
+2021,1067,Championnats de qualification Asie-Océanie,Tashkent,uzbekistan,25-04-2021,25-04-2021,foil,women,1
+2021,121,Grand Prix,Doha,qatar,26-03-2021,28-03-2021,foil,women,1
+2021,92,Coupe du Monde,Kazan,russia,20-03-2021,21-03-2021,epee,women,1
+2021,151,Coupe du Monde,Budapest,hungary,12-03-2021,13-03-2021,sabre,women,1

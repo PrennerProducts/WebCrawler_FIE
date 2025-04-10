@@ -1,0 +1,127 @@
+season,competitionId,name,location,country,startDate,endDate,weapon,gender,hasResults
+2013,242,Championnats du Monde,Budapest,hungary,06-08-2013,08-08-2013,epee,men,1
+2013,244,Championnats du Monde,Budapest,hungary,06-08-2013,09-08-2013,foil,men,1
+2013,246,Championnats du Monde,Budapest,hungary,05-08-2013,07-08-2013,sabre,men,1
+2013,1092,2013 Summer Universiade,Kazan,russia,07-07-2013,12-07-2013,epee,men,0
+2013,1094,2013 Summer Universiade,Kazan,russia,07-07-2013,12-07-2013,foil,men,0
+2013,1096,2013 Summer Universiade,Kazan,russia,07-07-2013,12-07-2013,sabre,men,0
+2013,585,Championnats d'Afrique,Cape Town,south africa,27-06-2013,27-06-2013,epee,men,1
+2013,587,Championnats d'Afrique,Cape Town,south africa,26-06-2013,26-06-2013,foil,men,1
+2013,589,Championnats d'Afrique,Cape Town,south africa,25-06-2013,25-06-2013,sabre,men,1
+2013,798,Championnats Panaméricains,Cartagena,colombia,17-06-2013,17-06-2013,foil,men,1
+2013,802,Championnats Panaméricains,Cartagena,colombia,18-06-2013,18-06-2013,sabre,men,1
+2013,1139,Jeux méditerranéens,Mersin,türkiye,22-06-2013,22-06-2013,epee,men,0
+2013,1143,Jeux méditerranéens,Mersin,türkiye,23-06-2013,23-06-2013,foil,men,0
+2013,1144,Jeux méditerranéens,Mersin,türkiye,23-06-2013,23-06-2013,sabre,men,0
+2013,799,Championnats Panaméricains,Cartagena,colombia,16-06-2013,16-06-2013,epee,men,1
+2013,739,Championnats d'Europe,Zagreb,croatia,16-06-2013,21-06-2013,epee,men,1
+2013,741,Championnats d'Europe,Zagreb,croatia,16-06-2013,21-06-2013,foil,men,1
+2013,743,Championnats d'Europe,Zagreb,croatia,16-06-2013,21-06-2013,sabre,men,1
+2013,1010,Championnats asiatiques,Shanghai,china,04-06-2013,09-06-2013,epee,men,1
+2013,1012,Championnats asiatiques,Shanghai,china,04-06-2013,09-06-2013,foil,men,1
+2013,1015,Championnats asiatiques,Shanghai,china,04-06-2013,09-06-2013,sabre,men,1
+2013,111,Jockey Club Argentino,Buenos Aires,argentina,24-05-2013,25-05-2013,epee,men,1
+2013,147,Copa Villa La Habana,La Havane,cuba,24-05-2013,25-05-2013,foil,men,1
+2013,793,Tournoi satellite,Split,croatia,18-05-2013,19-05-2013,epee,men,1
+2013,165,Sabre de Wolodyjowski,Varsovie,poland,18-05-2013,19-05-2013,sabre,men,1
+2013,113,TISSOT Grand Prix de Berne,Berne,switzerland,11-05-2013,12-05-2013,epee,men,1
+2013,398,Tournoi satellite fleuret masculin,Copenhague,denmark,11-05-2013,11-05-2013,foil,men,1
+2013,185,Tournoi satellite sabre masculin,Reykjavik,iceland,12-05-2013,12-05-2013,sabre,men,1
+2013,474,Absolute Fencing Korfanty World Cup,Chicago,usa,03-05-2013,04-05-2013,sabre,men,1
+2013,104,Challenge Réseau Ferré de France – Trophée Monal,Paris,france,03-05-2013,04-05-2013,epee,men,1
+2013,145,Prince Takamado WC,Tokyo,japan,04-05-2013,05-05-2013,foil,men,1
+2013,160,Coupe Akropolis,Athènes,greece,26-04-2013,27-04-2013,sabre,men,1
+2013,186,Cole Cup,Newcastle,great britain,27-04-2013,28-04-2013,sabre,men,1
+2013,138,SK Trophée Séoul,Séoul,korea,26-04-2013,27-04-2013,foil,men,1
+2013,142,Löwe von Bonn,Bonn,germany,22-03-2013,23-03-2013,foil,men,1
+2013,156,Sabre de Moscou,Moscow,russia,22-03-2013,23-03-2013,sabre,men,1
+2013,112,Vancouver Grand Prix - Absolute Fencing,Vancouver - British Columbia,canada,23-03-2013,24-03-2013,epee,men,1
+2013,184,Tournoi satellite sabre masculin,Helsinki,finland,16-03-2013,16-03-2013,sabre,men,1
+2013,98,Glaive de Tallin,Tallin,estonia,15-03-2013,16-03-2013,epee,men,1
+2013,140,Coupe Ville de Venise,Venise,italy,16-03-2013,17-03-2013,foil,men,1
+2013,158,Gerevich-Kovacs-Karpati Grand Prix for the Mol Cup,Budapest,hungary,09-03-2013,10-03-2013,sabre,men,1
+2013,1151,Juegos Centroamericanos 2013,San José,costa rica,04-03-2013,04-03-2013,epee,men,0
+2013,1153,Juegos Centroamericanos 2013,San José,costa rica,05-03-2013,05-03-2013,foil,men,0
+2013,1156,Juegos Centroamericanos 2013,San José,costa rica,06-03-2013,06-03-2013,sabre,men,0
+2013,134,Fleuret de St-Petersbourg,St-Petersbourg,russia,04-03-2013,05-03-2013,foil,men,1
+2013,1022,Int. Hapoel games,Ashkelon,israel,23-02-2013,23-02-2013,epee,men,1
+2013,137,Tournoi Ciudad de A Coruña,La Coruña,spain,22-02-2013,23-02-2013,foil,men,1
+2013,108,Heidenheimer Pokal,Heidenheim,germany,15-02-2013,16-02-2013,epee,men,1
+2013,163,Trophée Luxardo,Padoue,italy,15-02-2013,16-02-2013,sabre,men,1
+2013,164,Villa de Madrid,Madrid,spain,08-02-2013,09-02-2013,sabre,men,1
+2013,385,Coupe du monde,Legnano,italy,25-01-2013,26-01-2013,epee,men,1
+2013,135,Challenge International de Paris,Paris,france,25-01-2013,26-01-2013,foil,men,1
+2013,387,Grand Prix du Qatar 2013,Doha,qatar,18-01-2013,19-01-2013,epee,men,1
+2013,162,Glaive D’Asparoukh,Plovdiv,bulgaria,19-01-2013,20-01-2013,sabre,men,1
+2013,394,SAF Pokalen,Stockholm,sweden,12-01-2013,12-01-2013,epee,men,1
+2013,796,Tournoi satellite,Dublin,ireland,08-12-2012,08-12-2012,epee,men,1
+2013,554,Belgrade Trophy,Belgrade,serbia,01-12-2012,01-12-2012,epee,men,1
+2013,391,Leon Paul satellite fleuret masculin,Londres,great britain,02-12-2012,02-12-2012,foil,men,1
+2013,176,Tournoi satellite épée masculine,Oslo,norway,24-11-2012,24-11-2012,epee,men,1
+2013,656,Tournoi satellite,Antalya,türkiye,17-11-2012,18-11-2012,epee,men,1
+2013,172,Tournoi satellite sabre masculin,Amsterdam,netherlands,10-11-2012,11-11-2012,sabre,men,1
+2013,392,Tournoi satellite fleuret masculin,Amsterdam,netherlands,10-11-2012,11-11-2012,foil,men,1
+2013,171,Tournoi satellite épée masculine,Arhus,denmark,10-11-2012,11-11-2012,epee,men,1
+2013,178,Tournoi satellite épée masculine,Copenhague,denmark,27-10-2012,28-10-2012,epee,men,1
+2013,182,Tournoi satellite sabre masculin,Gand,belgium,20-10-2012,21-10-2012,sabre,men,1
+2013,174,"Kupittaa tournament, épée masculine",Turku,finland,13-10-2012,13-10-2012,epee,men,1
+2013,241,Championnats du Monde,Budapest,hungary,05-08-2013,08-08-2013,epee,women,1
+2013,243,Championnats du Monde,Budapest,hungary,05-08-2013,07-08-2013,foil,women,1
+2013,245,Championnats du Monde,Budapest,hungary,06-08-2013,09-08-2013,sabre,women,1
+2013,1091,2013 Summer Universiade,Kazan,russia,07-07-2013,12-07-2013,epee,women,0
+2013,1093,2013 Summer Universiade,Kazan,russia,07-07-2013,12-07-2013,foil,women,0
+2013,1095,2013 Summer Universiade,Kazan,russia,07-07-2013,12-07-2013,sabre,women,0
+2013,584,Championnats d'Afrique,Cape Town,south africa,26-06-2013,26-06-2013,epee,women,1
+2013,586,Championnats d'Afrique,Cape Town,south africa,25-06-2013,25-06-2013,foil,women,1
+2013,588,Championnats d'Afrique,Cape Town,south africa,27-06-2013,27-06-2013,sabre,women,1
+2013,797,Championnats Panaméricains,Cartagena,colombia,18-06-2013,18-06-2013,epee,women,1
+2013,801,Championnats Panaméricains,Cartagena,colombia,17-06-2013,17-06-2013,sabre,women,1
+2013,1140,Jeux méditerranéens,Mersin,türkiye,22-06-2013,22-06-2013,foil,women,0
+2013,1141,Jeux méditerranéens,Mersin,türkiye,22-06-2013,22-06-2013,sabre,women,0
+2013,1142,Jeux méditerranéens,Mersin,türkiye,23-06-2013,23-06-2013,epee,women,0
+2013,800,Championnats Panaméricains,Cartagena,colombia,16-06-2013,16-06-2013,foil,women,1
+2013,738,Championnats d'Europe,Zagreb,croatia,16-06-2013,21-06-2013,epee,women,1
+2013,740,Championnats d'Europe,Zagreb,croatia,16-06-2013,21-06-2013,foil,women,1
+2013,742,Championnats d'Europe,Zagreb,croatia,16-06-2013,21-06-2013,sabre,women,1
+2013,1011,Championnats asiatiques,Shanghai,china,04-06-2013,09-06-2013,sabre,women,1
+2013,1013,Championnats asiatiques,Shanghai,china,04-06-2013,09-06-2013,epee,women,1
+2013,1014,Championnats asiatiques,Shanghai,china,04-06-2013,09-06-2013,foil,women,1
+2013,95,Grand Prix,La Havane,cuba,23-05-2013,24-05-2013,epee,women,1
+2013,457,Grand Prix,Marseille,france,24-05-2013,25-05-2013,foil,women,1
+2013,676,Coupe du Monde,Tianjin,china,25-05-2013,26-05-2013,sabre,women,1
+2013,451,Epée internationale,Rio de Janeiro,brazil,17-05-2013,18-05-2013,epee,women,1
+2013,520,Tournoi satellite epee feminine,Split,croatia,18-05-2013,19-05-2013,epee,women,1
+2013,484,Tournoi satellite sabre féminin,Reykjavik,iceland,11-05-2013,11-05-2013,sabre,women,1
+2013,471,Absolute Fencing Korfanty World Cup,Chicago,usa,03-05-2013,04-05-2013,sabre,women,1
+2013,122,Coupe du Monde,Shanghai,china,03-05-2013,04-05-2013,foil,women,1
+2013,485,Cole Cup,Newcastle,great britain,27-04-2013,28-04-2013,sabre,women,1
+2013,486,Cole Cup,Newcastle,great britain,27-04-2013,28-04-2013,epee,women,1
+2013,121,SK Trophée Séoul,Séoul,korea,27-04-2013,28-04-2013,foil,women,1
+2013,449,Tournoi international,Xuzhou,china,27-04-2013,28-04-2013,epee,women,1
+2013,397,Tournoi satellite fleuret féminin,Copenhague,denmark,24-03-2013,24-03-2013,foil,women,1
+2013,468,Grand Prix,Moscow,russia,22-03-2013,23-03-2013,sabre,women,1
+2013,129,Coupe du Monde,Turin,italy,22-03-2013,23-03-2013,foil,women,1
+2013,151,Tournoi international,Antalya,türkiye,15-03-2013,16-03-2013,sabre,women,1
+2013,92,Ciudad de Barcelona,Barcelone,spain,08-03-2013,09-03-2013,epee,women,1
+2013,1152,Juegos Centroamericanos 2013,San José,costa rica,04-03-2013,04-03-2013,foil,women,0
+2013,1154,Juegos Centroamericanos 2013,San José,costa rica,05-03-2013,05-03-2013,sabre,women,0
+2013,1155,Juegos Centroamericanos 2013,San José,costa rica,06-03-2013,06-03-2013,epee,women,0
+2013,127,Reinhold-Würth-Cup,Tauberbischofsheim,germany,08-03-2013,09-03-2013,foil,women,1
+2013,469,Coupe du Monde,Bologne,italy,01-03-2013,02-03-2013,sabre,women,1
+2013,85,Coupe du Monde,St-Maur,france,01-03-2013,02-03-2013,epee,women,1
+2013,118,Fleuret de St-Petersbourg,St-Petersbourg,russia,01-03-2013,02-03-2013,foil,women,1
+2013,470,Challenge Yves Brasseur,Gand,belgium,22-02-2013,23-02-2013,sabre,women,1
+2013,125,Coupe du Monde,Budapest,hungary,08-02-2013,09-02-2013,foil,women,1
+2013,97,"Coupe du Monde ""Sparkassen-Weltcup""",Leipzig,germany,08-02-2013,09-02-2013,epee,women,1
+2013,79,"Westend Grand Prix ""in Memoriam Sakovics Jozsef""",Budapest,hungary,02-02-2013,03-02-2013,epee,women,1
+2013,458,The Artus Court PKO BP,Gdansk,poland,01-02-2013,02-02-2013,foil,women,1
+2013,152,Trophée BNP-Paribas,Orléans,france,01-02-2013,02-02-2013,sabre,women,1
+2013,467,Beazley Trophy,Londres,great britain,25-01-2013,26-01-2013,sabre,women,1
+2013,80,World Cup,Doha,qatar,19-01-2013,20-01-2013,epee,women,1
+2013,393,SAF Pokalen,Stockholm,sweden,13-01-2013,13-01-2013,epee,women,1
+2013,553,Belgrade Trophy,Belgrade,serbia,01-12-2012,01-12-2012,epee,women,1
+2013,175,Tournoi satellite épée féminine,Oslo,norway,25-11-2012,25-11-2012,epee,women,1
+2013,655,Tournoi satellite,Antalya,türkiye,17-11-2012,18-11-2012,epee,women,1
+2013,170,Tournoi satellite épée féminine,Arhus,denmark,10-11-2012,11-11-2012,epee,women,1
+2013,177,Tournoi satellite épée féminine,Copenhague,denmark,27-10-2012,28-10-2012,epee,women,1
+2013,173,"Kupittaa tournament, épée féminine",Turku,finland,14-10-2012,14-10-2012,epee,women,1

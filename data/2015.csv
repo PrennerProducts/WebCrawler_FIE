@@ -1,0 +1,157 @@
+season,competitionId,name,location,country,startDate,endDate,weapon,gender,hasResults
+2015,1306,Jeux africains,Brazaville,congo,02-09-2015,06-09-2015,epee,men,1
+2015,1308,Jeux africains,Brazaville,congo,02-09-2015,06-09-2015,foil,men,1
+2015,1310,Jeux africains,Brazaville,congo,02-09-2015,06-09-2015,sabre,men,1
+2015,1256,Jeux Panaméricains,Toronto,canada,20-07-2015,25-07-2015,epee,men,0
+2015,1258,Jeux Panaméricains,Toronto,canada,20-07-2015,25-07-2015,foil,men,0
+2015,1260,Jeux Panaméricains,Toronto,canada,20-07-2015,25-07-2015,sabre,men,0
+2015,242,Championnats du Monde,Moscow,russia,14-07-2015,15-07-2015,epee,men,1
+2015,244,Championnats du Monde,Moscow,russia,15-07-2015,16-07-2015,foil,men,1
+2015,246,Championnats du Monde,Moscow,russia,13-07-2015,14-07-2015,sabre,men,1
+2015,1094,2015 Summer Universiade,Gwangju,korea,06-07-2015,06-07-2015,foil,men,0
+2015,1092,2015 Summer Universiade,Gwangju,korea,05-07-2015,05-07-2015,epee,men,0
+2015,1096,2015 Summer Universiade,Gwangju,korea,04-07-2015,04-07-2015,sabre,men,0
+2015,1244,Jeux Européens,Baku,azerbaijan,24-06-2015,24-06-2015,epee,men,1
+2015,1246,Jeux Européens,Baku,azerbaijan,25-06-2015,25-06-2015,foil,men,1
+2015,1248,Jeux Européens,Baku,azerbaijan,23-06-2015,23-06-2015,sabre,men,1
+2015,1010,Championnats asiatiques,Singapore,singapore,25-06-2015,30-06-2015,epee,men,1
+2015,1012,Championnats asiatiques,Singapore,singapore,25-06-2015,30-06-2015,foil,men,1
+2015,1015,Championnats asiatiques,Singapore,singapore,25-06-2015,30-06-2015,sabre,men,1
+2015,585,Championnats d'Afrique,Le Caire,egypt,13-06-2015,13-06-2015,epee,men,1
+2015,587,Championnats d'Afrique,Le Caire,egypt,12-06-2015,12-06-2015,foil,men,1
+2015,589,Championnats d'Afrique,Le Caire,egypt,14-06-2015,14-06-2015,sabre,men,1
+2015,743,Championnats d'Europe,Montreux,switzerland,08-06-2015,08-06-2015,sabre,men,1
+2015,739,Championnats d'Europe,Montreux,switzerland,07-06-2015,07-06-2015,epee,men,1
+2015,741,Championnats d'Europe,Montreux,switzerland,05-06-2015,06-06-2015,foil,men,1
+2015,1042,South East Asian Games,Singapore,singapore,03-06-2015,07-06-2015,epee,men,0
+2015,1044,South East Asian Games,Singapore,singapore,03-06-2015,07-06-2015,foil,men,0
+2015,1046,South East Asian Games,Singapore,singapore,03-06-2015,07-06-2015,sabre,men,0
+2015,162,Moscow saber Grand Prix,Moscow,russia,29-05-2015,31-05-2015,sabre,men,1
+2015,185,Tournoi satellite sabre masculin,Reykjavik,iceland,24-05-2015,24-05-2015,sabre,men,1
+2015,113,Grand Prix,Rio de Janeiro,brazil,22-05-2015,23-05-2015,epee,men,1
+2015,145,Grand Prix,Shanghai,china,15-05-2015,17-05-2015,foil,men,1
+2015,1277,Tournoi satellite,Split,croatia,16-05-2015,17-05-2015,epee,men,1
+2015,1280,Tournoi satellite fleuret masculin,Copenhague,denmark,09-05-2015,09-05-2015,foil,men,1
+2015,474,Villa de Madrid,Madrid,spain,01-05-2015,02-05-2015,sabre,men,1
+2015,111,Challenge SNCF Réseau,Paris,france,01-05-2015,02-05-2015,epee,men,1
+2015,147,Fleuret de St-Petersbour,St-Petersbourg,russia,01-05-2015,02-05-2015,foil,men,1
+2015,186,Cole Cup,Londres,great britain,25-04-2015,25-04-2015,sabre,men,1
+2015,798,Championnats Panaméricains,Santiago,chile,17-04-2015,26-04-2015,foil,men,1
+2015,799,Championnats Panaméricains,Santiago,chile,17-04-2015,26-04-2015,epee,men,1
+2015,802,Championnats Panaméricains,Santiago,chile,17-04-2015,26-04-2015,sabre,men,1
+2015,165,Grand Prix,Séoul,korea,28-03-2015,29-03-2015,sabre,men,1
+2015,112,"Westend Grand Prix ""in Memoriam Vass Imre""",Budapest,hungary,20-03-2015,22-03-2015,epee,men,1
+2015,184,Tournoi satellite sabre masculin,Helsinki,finland,14-03-2015,15-03-2015,sabre,men,1
+2015,140,Grand Prix,La Havane,cuba,13-03-2015,15-03-2015,foil,men,1
+2015,793,Tournoi Satellite,Sofia,bulgaria,14-03-2015,15-03-2015,epee,men,1
+2015,1219,Tournoi satellite,Cancun,mexico,07-03-2015,08-03-2015,foil,men,1
+2015,160,Sabre de Wolodyjowski,Varsovie,poland,20-02-2015,21-02-2015,sabre,men,1
+2015,104,Coupe du Monde,Vancouver,canada,13-02-2015,14-02-2015,epee,men,1
+2015,138,Löwe von Bonn,Bonn,germany,06-02-2015,07-02-2015,foil,men,1
+2015,1181,Tournoi satellite,Busto Arsizio,italy,31-01-2015,31-01-2015,epee,men,1
+2015,156,Trophée Luxardo,Padoue,italy,30-01-2015,31-01-2015,sabre,men,1
+2015,98,Heidenheimer Pokal,Heidenheim,germany,22-01-2015,23-01-2015,epee,men,1
+2015,142,Challenge International de Paris,Paris,france,16-01-2015,17-01-2015,foil,men,1
+2015,172,Tournoi satellite,Istanbul,türkiye,10-01-2015,11-01-2015,sabre,men,1
+2015,398,Leon Paul satellite fleuret masculin,Londres,great britain,11-01-2015,11-01-2015,foil,men,1
+2015,1022,SAF Pokalen,Stockholm,sweden,10-01-2015,10-01-2015,epee,men,1
+2015,391,Tournoi satellite,Kocaeli,türkiye,13-12-2014,14-12-2014,foil,men,1
+2015,394,Tournoi satellite,Kocaeli,türkiye,13-12-2014,14-12-2014,epee,men,1
+2015,158,Absolute Fencing Gear New York Sabre Grand Prix,New York,usa,13-12-2014,14-12-2014,sabre,men,1
+2015,387,Grand Prix du Qatar 2015,Doha,qatar,05-12-2014,06-12-2014,epee,men,1
+2015,796,Tournoi satellite,Dublin,ireland,29-11-2014,29-11-2014,epee,men,1
+2015,134,Grand Prix,Turin,italy,28-11-2014,30-11-2014,foil,men,1
+2015,163,Coupe du Monde,Budapest,hungary,21-11-2014,22-11-2014,sabre,men,1
+2015,554,Tournoi satellite épée masculine,Oslo,norway,22-11-2014,22-11-2014,epee,men,1
+2015,392,Tournoi satellite fleuret masculin,Antalya,türkiye,15-11-2014,16-11-2014,foil,men,1
+2015,108,Glaive de Tallin,Tallin,estonia,14-11-2014,15-11-2014,epee,men,1
+2015,1232,Jeux centraméricains et caribéens,Veracruz,mexico,14-11-2014,30-11-2014,epee,men,0
+2015,1234,Jeux centraméricains et caribéens,Veracruz,mexico,14-11-2014,30-11-2014,foil,men,0
+2015,1236,Jeux centraméricains et caribéens,Veracruz,mexico,14-11-2014,30-11-2014,sabre,men,0
+2015,176,Tournoi satellite épée masculine,Copenhague,denmark,08-11-2014,08-11-2014,epee,men,1
+2015,137,Prince Takamodo WC,Tokyo,japan,07-11-2014,08-11-2014,foil,men,1
+2015,656,Tournoi satellite épée masculine,Arhus,denmark,01-11-2014,02-11-2014,epee,men,1
+2015,385,Coupe du Monde,Berne,switzerland,24-10-2014,25-10-2014,epee,men,1
+2015,135,Coupe du Monde,San Francisco,usa,17-10-2014,18-10-2014,foil,men,1
+2015,171,"Kupittaa tournament, épée masculine",Turku,finland,18-10-2014,18-10-2014,epee,men,1
+2015,178,Belgrade Trophy,Belgrade,serbia,11-10-2014,11-10-2014,epee,men,1
+2015,182,Tournoi satellite sabre masculin,Bursa,türkiye,11-10-2014,11-10-2014,sabre,men,1
+2015,174,Tournoi Satellite,Genève,switzerland,04-10-2014,04-10-2014,epee,men,1
+2015,1305,Jeux africains,Brazaville,congo,02-09-2015,06-09-2015,epee,women,1
+2015,1307,Jeux africains,Brazaville,congo,02-09-2015,06-09-2015,foil,women,1
+2015,1309,Jeux africains,Brazaville,congo,02-09-2015,06-09-2015,sabre,women,1
+2015,1255,Jeux Panaméricains,Toronto,canada,20-07-2015,25-07-2015,epee,women,0
+2015,1257,Jeux Panaméricains,Toronto,canada,20-07-2015,25-07-2015,foil,women,0
+2015,1259,Jeux Panaméricains,Toronto,canada,20-07-2015,25-07-2015,sabre,women,0
+2015,241,Championnats du Monde,Moscow,russia,14-07-2015,15-07-2015,epee,women,1
+2015,243,Championnats du Monde,Moscow,russia,15-07-2015,16-07-2015,foil,women,1
+2015,245,Championnats du Monde,Moscow,russia,13-07-2015,14-07-2015,sabre,women,1
+2015,1095,2015 Summer Universiade,Gwangju,korea,06-07-2015,06-07-2015,sabre,women,0
+2015,1091,2015 Summer Universiade,Gwangju,korea,04-07-2015,04-07-2015,epee,women,0
+2015,1093,2015 Summer Universiade,Gwangju,korea,05-07-2015,05-07-2015,foil,women,0
+2015,1243,Jeux Européens,Baku,azerbaijan,23-06-2015,23-06-2015,epee,women,1
+2015,1245,Jeux Européens,Baku,azerbaijan,24-06-2015,24-06-2015,foil,women,1
+2015,1247,Jeux Européens,Baku,azerbaijan,25-06-2015,25-06-2015,sabre,women,1
+2015,1011,Championnats asiatiques,Singapore,singapore,25-06-2015,30-06-2015,sabre,women,1
+2015,1013,Championnats asiatiques,Singapore,singapore,25-06-2015,30-06-2015,epee,women,1
+2015,1014,Championnats asiatiques,Singapore,singapore,25-06-2015,30-06-2015,foil,women,1
+2015,584,Championnats d'Afrique,Le Caire,egypt,12-06-2015,12-06-2015,epee,women,1
+2015,586,Championnats d'Afrique,Le Caire,egypt,14-06-2015,14-06-2015,foil,women,1
+2015,588,Championnats d'Afrique,Le Caire,egypt,13-06-2015,13-06-2015,sabre,women,1
+2015,740,Championnats d'Europe,Montreux,switzerland,08-06-2015,08-06-2015,foil,women,1
+2015,738,Championnats d'Europe,Montreux,switzerland,06-06-2015,06-06-2015,epee,women,1
+2015,742,Championnats d'Europe,Montreux,switzerland,07-06-2015,07-06-2015,sabre,women,1
+2015,1041,South East Asian Games,Singapore,singapore,03-06-2015,07-06-2015,epee,women,0
+2015,1043,South East Asian Games,Singapore,singapore,03-06-2015,07-06-2015,foil,women,0
+2015,1045,South East Asian Games,Singapore,singapore,03-06-2015,07-06-2015,sabre,women,0
+2015,676,Moscow saber Grand Prix,Moscow,russia,29-05-2015,31-05-2015,sabre,women,1
+2015,1279,Tournoi satellite sabre féminin,Reykjavik,iceland,23-05-2015,23-05-2015,sabre,women,1
+2015,95,Grand Prix,Rio de Janeiro,brazil,23-05-2015,24-05-2015,epee,women,1
+2015,457,Grand Prix,Shanghai,china,15-05-2015,16-05-2015,foil,women,1
+2015,1278,Tournoi satellite epee feminine,Split,croatia,16-05-2015,17-05-2015,epee,women,1
+2015,1281,Tournoi satellite fleuret féminin,Copenhague,denmark,10-05-2015,10-05-2015,foil,women,1
+2015,1221,Tournoi satellite,Maalot,israel,09-05-2015,09-05-2015,epee,women,1
+2015,471,Coupe du Monde,Beijing,china,01-05-2015,02-05-2015,sabre,women,1
+2015,451,Coupe du Monde,Johannesbourg,south africa,01-05-2015,02-05-2015,epee,women,1
+2015,122,Reinhold-Würth-Cup,Tauberbischofsheim,germany,01-05-2015,02-05-2015,foil,women,1
+2015,520,Cole Cup,Londres,great britain,26-04-2015,26-04-2015,epee,women,1
+2015,1227,Tournoi satellite,Londres,great britain,25-04-2015,25-04-2015,sabre,women,1
+2015,797,Championnats Panaméricains,Santiago,chile,17-04-2015,26-04-2015,epee,women,1
+2015,800,Championnats Panaméricains,Santiago,chile,17-04-2015,26-04-2015,foil,women,1
+2015,801,Championnats Panaméricains,Santiago,chile,17-04-2015,26-04-2015,sabre,women,1
+2015,468,Grand Prix,Séoul,korea,28-03-2015,29-03-2015,sabre,women,1
+2015,449,"Westend Grand Prix ""in Memoriam Sakovics Jozsef""",Budapest,hungary,20-03-2015,22-03-2015,epee,women,1
+2015,1226,Tournoi satellite,Rome,italy,22-03-2015,22-03-2015,sabre,women,1
+2015,121,Grand Prix,La Havane,cuba,13-03-2015,14-03-2015,foil,women,1
+2015,486,Tournoi satellite,Sofia,bulgaria,14-03-2015,15-03-2015,epee,women,1
+2015,151,Challenge Yves Brasseur,Gand,belgium,20-02-2015,21-02-2015,sabre,women,1
+2015,92,Coupe du Monde,Buenos Aires,argentina,13-02-2015,14-02-2015,epee,women,1
+2015,129,Coupe du Monde,Alger,algeria,06-02-2015,07-02-2015,foil,women,1
+2015,469,Coupe du Monde,Athènes,greece,30-01-2015,31-01-2015,sabre,women,1
+2015,85,Ciudad de Barcelona,Barcelone,spain,23-01-2015,24-01-2015,epee,women,1
+2015,127,The Artus Court PKO BP,Gdansk,poland,16-01-2015,17-01-2015,foil,women,1
+2015,1224,Tournoi satellite,Istanbul,türkiye,10-01-2015,11-01-2015,sabre,women,1
+2015,393,SAF Pokalen,Stockholm,sweden,11-01-2015,11-01-2015,epee,women,1
+2015,484,Tournoi satellite,Cancun,mexico,16-12-2014,17-12-2014,sabre,women,1
+2015,553,Tournoi satellite,Kocaeli,türkiye,13-12-2014,14-12-2014,epee,women,1
+2015,1230,Tournoi satellite,Kocaeli,türkiye,13-12-2014,14-12-2014,foil,women,1
+2015,152,Absolute Fencing Gear New York Sabre Grand Prix,New York,usa,13-12-2014,14-12-2014,sabre,women,1
+2015,79,Grand Prix du Qatar 2015,Doha,qatar,06-12-2014,07-12-2014,epee,women,1
+2015,458,Grand Prix,Turin,italy,28-11-2014,29-11-2014,foil,women,1
+2015,470,Trophée BNP-Paribas,Orléans,france,21-11-2014,22-11-2014,sabre,women,1
+2015,175,Tournoi satellite épée féminine,Oslo,norway,23-11-2014,23-11-2014,epee,women,1
+2015,1218,Tournoi satellite,Antalya,türkiye,15-11-2014,16-11-2014,foil,women,1
+2015,1231,Jeux centraméricains et caribéens,Veracruz,mexico,14-11-2014,30-11-2014,epee,women,0
+2015,1233,Jeux centraméricains et caribéens,Veracruz,mexico,14-11-2014,30-11-2014,foil,women,0
+2015,1235,Jeux centraméricains et caribéens,Veracruz,mexico,14-11-2014,30-11-2014,sabre,women,0
+2015,97,Tournoi International,Xuzhou,china,14-11-2014,15-11-2014,epee,women,1
+2015,655,Tournoi satellite épée féminine,Copenhague,denmark,09-11-2014,09-11-2014,epee,women,1
+2015,118,Coupe du Monde,St-Maur,france,07-11-2014,08-11-2014,foil,women,1
+2015,170,Tournoi satellite épée féminine,Arhus,denmark,01-11-2014,02-11-2014,epee,women,1
+2015,467,Coupe du monde,Margarita Island,venezuela,01-11-2014,01-11-2014,sabre,women,1
+2015,80,Coupe du Monde,Legnano,italy,24-10-2014,25-10-2014,epee,women,1
+2015,125,Coupe du Monde,Cancun,mexico,17-10-2014,18-10-2014,foil,women,1
+2015,397,Tournoi satellite,Cancun,mexico,15-10-2014,16-10-2014,foil,women,1
+2015,177,"Kupittaa tournament, épée féminine",Turku,finland,19-10-2014,19-10-2014,epee,women,1
+2015,173,Belgrade Trophy,Belgrade,serbia,11-10-2014,11-10-2014,epee,women,1
+2015,485,Tournoi satellite,Bursa,türkiye,12-10-2014,12-10-2014,sabre,women,1

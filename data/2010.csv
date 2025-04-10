@@ -1,0 +1,151 @@
+season,competitionId,name,location,country,startDate,endDate,weapon,gender,hasResults
+2010,242,Championnats du Monde,Paris,france,05-11-2010,08-11-2010,epee,men,1
+2010,244,Championnats du Monde,Paris,france,04-11-2010,07-11-2010,foil,men,1
+2010,246,Championnats du Monde,Paris,france,04-11-2010,06-11-2010,sabre,men,1
+2010,585,Championnats d'Afrique,Tunis,tunisia,25-09-2010,30-09-2010,epee,men,1
+2010,587,Championnats d'Afrique,Tunis,tunisia,25-09-2010,30-09-2010,foil,men,1
+2010,589,Championnats d'Afrique,Tunis,tunisia,25-09-2010,30-09-2010,sabre,men,1
+2010,798,Championnats Panaméricains,San José,costa rica,03-08-2010,03-08-2010,foil,men,1
+2010,799,Championnats Panaméricains,San José,costa rica,02-08-2010,02-08-2010,epee,men,1
+2010,802,Championnats Panaméricains,San José,costa rica,04-08-2010,04-08-2010,sabre,men,1
+2010,739,Championnats d'Europe,Leipzig,germany,16-07-2010,22-07-2010,epee,men,1
+2010,741,Championnats d'Europe,Leipzig,germany,16-07-2010,22-07-2010,foil,men,1
+2010,743,Championnats d'Europe,Leipzig,germany,16-07-2010,22-07-2010,sabre,men,1
+2010,962,Jeux Centraméricains et des Caraïbes,Mayaguez,puerto rico,18-07-2010,23-07-2010,epee,men,0
+2010,964,Jeux Centraméricains et des Caraïbes,Mayaguez,puerto rico,18-07-2010,23-07-2010,foil,men,0
+2010,966,Jeux Centraméricains et des Caraïbes,Mayaguez,puerto rico,18-07-2010,23-07-2010,sabre,men,0
+2010,1010,Championnats asiatiques,Séoul,korea,10-07-2010,10-07-2010,epee,men,1
+2010,1012,Championnats asiatiques,Séoul,korea,09-07-2010,09-07-2010,foil,men,1
+2010,1015,Championnats asiatiques,Séoul,korea,08-07-2010,08-07-2010,sabre,men,1
+2010,111,Jockey Club Argentino,Buenos Aires,argentina,26-06-2010,27-06-2010,epee,men,1
+2010,474,Coupe du Monde,New York,usa,18-06-2010,19-06-2010,sabre,men,1
+2010,146,Copa del Mundo,Isla de Margarita,venezuela,11-06-2010,12-06-2010,foil,men,1
+2010,476,Copa del Mundo,Isla de Margarita,venezuela,13-06-2010,14-06-2010,sabre,men,1
+2010,186,Cole Cup,Newcastle,great britain,12-06-2010,13-06-2010,sabre,men,1
+2010,115,Copa Mundial de Puerto Rico,Caguas,puerto rico,04-06-2010,05-06-2010,epee,men,1
+2010,147,Copa Villa La Habana,La Havane,cuba,03-06-2010,04-06-2010,foil,men,1
+2010,185,Tournoi satellite sabre masculin,Reykjavik,iceland,05-06-2010,06-06-2010,sabre,men,1
+2010,105,Epée internationale,Montréal,canada,28-05-2010,29-05-2010,epee,men,1
+2010,463,Epée internationale,Montréal,canada,29-05-2010,30-05-2010,foil,men,1
+2010,163,Trophée Luxardo,Padoue,italy,28-05-2010,29-05-2010,sabre,men,1
+2010,134,Fleuret de St-Petersbourg,St-Petersbourg,russia,24-05-2010,25-05-2010,foil,men,1
+2010,184,Tournoi satellite sabre masculin,Helsinki,finland,22-05-2010,22-05-2010,sabre,men,1
+2010,164,Villa de Madrid,Madrid,spain,22-05-2010,23-05-2010,sabre,men,1
+2010,793,St Duje s Cup,Split,croatia,22-05-2010,23-05-2010,epee,men,1
+2010,521,Challenge Australia,Sydney,australia,22-05-2010,23-05-2010,epee,men,1
+2010,145,Prince Takamado WC,Tokyo,japan,14-05-2010,15-05-2010,foil,men,1
+2010,165,Sabre de Wolodyjowski,Varsovie,poland,14-05-2010,15-05-2010,sabre,men,1
+2010,656,Tournoi satellite,Istanbul,türkiye,08-05-2010,09-05-2010,epee,men,1
+2010,104,Challenge Monal,Paris,france,07-05-2010,08-05-2010,epee,men,1
+2010,138,SK Trophée Séoul,Séoul,korea,09-05-2010,10-05-2010,foil,men,1
+2010,413,Coupe du Monde,Pattaya City,thailand,01-05-2010,02-05-2010,sabre,men,1
+2010,139,Coupe du Monde,Shanghai,china,30-04-2010,01-05-2010,foil,men,1
+2010,398,Tournoi satellite fleuret masculin,Copenhague,denmark,27-03-2010,27-03-2010,foil,men,1
+2010,108,Heidenheimer Pokal,Heidenheim,germany,26-03-2010,27-03-2010,epee,men,1
+2010,136,World Cup,Sharm El Sheikh,egypt,20-03-2010,21-03-2010,foil,men,1
+2010,491,Coupe du Monde,Tunis,tunisia,21-03-2010,22-03-2010,sabre,men,1
+2010,143,Coupe du Monde Cidade de Espinho,Espinho,portugal,13-03-2010,14-03-2010,foil,men,1
+2010,112,Challenge Bernadotte Stockholm,Stockholm,sweden,05-03-2010,06-03-2010,epee,men,1
+2010,113,Grand Prix de Berne,Berne,switzerland,27-02-2010,28-02-2010,epee,men,1
+2010,142,Löwe von Bonn,Bonn,germany,27-02-2010,28-02-2010,foil,men,1
+2010,162,Glaive D’Asparoukh,Plovdiv,bulgaria,26-02-2010,27-02-2010,sabre,men,1
+2010,140,Coupe Ville de Venise,Venise,italy,19-02-2010,20-02-2010,foil,men,1
+2010,156,Sabre de Moscou,Moscow,russia,12-02-2010,13-02-2010,sabre,men,1
+2010,180,Tournoi satellite sabre masculin,Orebro,sweden,13-02-2010,14-02-2010,sabre,men,1
+2010,98,Glaive de Tallin,Tallin,estonia,13-02-2010,14-02-2010,epee,men,1
+2010,158,Coupe Gerevich-Kovacs-Karpati,Budapest,hungary,05-02-2010,06-02-2010,sabre,men,1
+2010,137,Tournoi Ciudad de A Coruña,La Coruña,spain,06-02-2010,07-02-2010,foil,men,1
+2010,99,Coupe du Monde Cidade de Lisboa,Lisbonne,portugal,06-02-2010,07-02-2010,epee,men,1
+2010,394,SAF Pokalen,Stockholm,sweden,06-02-2010,06-02-2010,epee,men,1
+2010,160,Coupe Akropolis,Athènes,greece,30-01-2010,31-01-2010,sabre,men,1
+2010,109,Trophée Carroccio,Legnano,italy,29-01-2010,30-01-2010,epee,men,1
+2010,135,Challenge International de Paris,Paris,france,29-01-2010,30-01-2010,foil,men,1
+2010,387,Grand Prix du Qatar 2010,Doha,qatar,22-01-2010,23-01-2010,epee,men,1
+2010,132,Copenhagen Cup,Copenhague,denmark,16-01-2010,17-01-2010,foil,men,1
+2010,179,Tournoi satellite sabre masculin,Copenhague,denmark,16-01-2010,17-01-2010,sabre,men,1
+2010,519,Coupe du Monde,Istanbul,türkiye,16-01-2010,17-01-2010,sabre,men,1
+2010,116,Coupe du Monde,Kish Island,iran,09-01-2010,10-01-2010,epee,men,1
+2010,168,Coupe du Monde,Kish Island,iran,09-01-2010,10-01-2010,sabre,men,1
+2010,796,Tournoi satellite,Dublin,ireland,28-11-2009,28-11-2009,epee,men,1
+2010,960,Aphrodite Cup 2009,Nicosia,cyprus,21-11-2009,21-11-2009,epee,men,1
+2010,172,Tournoi satellite sabre masculin,Amsterdam,netherlands,14-11-2009,15-11-2009,sabre,men,1
+2010,392,Tournoi satellite fleuret masculin,Amsterdam,netherlands,14-11-2009,15-11-2009,foil,men,1
+2010,171,Tournoi satellite épée masculine,Arhus,denmark,14-11-2009,15-11-2009,epee,men,1
+2010,176,Tournoi satellite épée masculine,Oslo,norway,07-11-2009,07-11-2009,epee,men,1
+2010,178,Tournoi satellite épée masculine,Copenhague,denmark,24-10-2009,24-10-2009,epee,men,1
+2010,182,Tournoi satellite sabre masculin,Gand,belgium,24-10-2009,25-10-2009,sabre,men,1
+2010,391,Leon Paul satellite fleuret masculin,Londres,great britain,18-10-2009,18-10-2009,foil,men,1
+2010,174,"Kupittaa tournament, épée masculine",Turku,finland,17-10-2009,17-10-2009,epee,men,1
+2010,554,51 Trophy of Belgrade,Belgrade,serbia,11-10-2009,11-10-2009,epee,men,1
+2010,241,Championnats du Monde,Paris,france,04-11-2010,08-11-2010,epee,women,1
+2010,243,Championnats du Monde,Paris,france,05-11-2010,07-11-2010,foil,women,1
+2010,245,Championnats du Monde,Paris,france,05-11-2010,06-11-2010,sabre,women,1
+2010,584,Championnats d'Afrique,Tunis,tunisia,25-09-2010,30-09-2010,epee,women,1
+2010,586,Championnats d'Afrique,Tunis,tunisia,25-09-2010,30-09-2010,foil,women,1
+2010,588,Championnats d'Afrique,Tunis,tunisia,25-09-2010,30-09-2010,sabre,women,1
+2010,797,Championnats Panaméricains,San José,costa rica,04-08-2010,04-08-2010,epee,women,1
+2010,800,Championnats Panaméricains,San José,costa rica,02-08-2010,02-08-2010,foil,women,1
+2010,801,Championnats Panaméricains,San José,costa rica,03-08-2010,03-08-2010,sabre,women,1
+2010,738,Championnats d'Europe,Leipzig,germany,16-07-2010,22-07-2010,epee,women,1
+2010,740,Championnats d'Europe,Leipzig,germany,16-07-2010,22-07-2010,foil,women,1
+2010,742,Championnats d'Europe,Leipzig,germany,16-07-2010,22-07-2010,sabre,women,1
+2010,961,Jeux Centraméricains et des Caraïbes,Mayaguez,puerto rico,18-07-2010,23-07-2010,epee,women,0
+2010,963,Jeux Centraméricains et des Caraïbes,Mayaguez,puerto rico,18-07-2010,23-07-2010,foil,women,0
+2010,965,Jeux Centraméricains et des Caraïbes,Mayaguez,puerto rico,18-07-2010,23-07-2010,sabre,women,0
+2010,1011,Championnats asiatiques,Séoul,korea,10-07-2010,10-07-2010,sabre,women,1
+2010,1013,Championnats asiatiques,Séoul,korea,09-07-2010,09-07-2010,epee,women,1
+2010,1014,Championnats asiatiques,Séoul,korea,08-07-2010,08-07-2010,foil,women,1
+2010,130,Coupe du Monde,New York,usa,19-06-2010,20-06-2010,foil,women,1
+2010,471,Coupe du Monde,New York,usa,18-06-2010,19-06-2010,sabre,women,1
+2010,95,Coupe du Monde,La Havane,cuba,09-06-2010,10-06-2010,epee,women,1
+2010,131,Tournoi Nancy Uranga,La Havane,cuba,07-06-2010,08-06-2010,foil,women,1
+2010,485,Cole Cup,Newcastle,great britain,12-06-2010,13-06-2010,sabre,women,1
+2010,486,Cole Cup,Newcastle,great britain,12-06-2010,13-06-2010,epee,women,1
+2010,155,Coupe du Monde,La Havane,cuba,05-06-2010,06-06-2010,sabre,women,1
+2010,484,Tournoi satellite sabre féminin,Reykjavik,iceland,05-06-2010,06-06-2010,sabre,women,1
+2010,451,Epée internationale,Montréal,canada,28-05-2010,29-05-2010,epee,women,1
+2010,676,Coupe du Monde,Tianjin,china,28-05-2010,29-05-2010,sabre,women,1
+2010,652,Tournoi satellite sabre féminin,Baku,azerbaijan,22-05-2010,22-05-2010,sabre,women,1
+2010,520,St Duje s Cup,Split,croatia,22-05-2010,23-05-2010,epee,women,1
+2010,118,Fleuret de St-Petersbourg,St-Petersbourg,russia,21-05-2010,22-05-2010,foil,women,1
+2010,97,Challenge Australia,Sydney,australia,22-05-2010,23-05-2010,epee,women,1
+2010,522,Candidature A,Koblenz,germany,15-05-2010,16-05-2010,sabre,women,1
+2010,449,Tournoi international,Nankin,china,14-05-2010,15-05-2010,epee,women,1
+2010,470,Challenge Yves Brasseur,Gand,belgium,08-05-2010,09-05-2010,sabre,women,1
+2010,655,Tournoi satellite,Istanbul,türkiye,08-05-2010,09-05-2010,epee,women,1
+2010,121,SK Trophée Séoul,Séoul,korea,07-05-2010,08-05-2010,foil,women,1
+2010,122,Coupe du Monde,Shanghai,china,03-05-2010,04-05-2010,foil,women,1
+2010,464,Coupe du Monde,Pattaya City,thailand,01-05-2010,02-05-2010,sabre,women,1
+2010,469,Coupe du Monde,Klagenfurt,austria,24-04-2010,25-04-2010,sabre,women,1
+2010,397,Tournoi satellite fleuret féminin,Copenhague,denmark,28-03-2010,28-03-2010,foil,women,1
+2010,85,Souvenir J. Nowara,Luxembourg,luxembourg,27-03-2010,28-03-2010,epee,women,1
+2010,518,Challenge Jeanty,Marseille,france,26-03-2010,27-03-2010,foil,women,1
+2010,516,Epee de Moscow Region,Lobnya,russia,20-03-2010,21-03-2010,epee,women,1
+2010,457,World Cup,Sharm El Sheikh,egypt,19-03-2010,20-03-2010,foil,women,1
+2010,468,Coupe du Monde,Tunis,tunisia,19-03-2010,20-03-2010,sabre,women,1
+2010,125,Cup Eximbank,Budapest,hungary,13-03-2010,14-03-2010,foil,women,1
+2010,447,Coupe du Monde,Florina,greece,13-03-2010,14-03-2010,epee,women,1
+2010,151,Tournoi international,Lamezia Terme,italy,12-03-2010,13-03-2010,sabre,women,1
+2010,82,Würth Cup,Tauberbischofsheim,germany,06-03-2010,07-03-2010,epee,women,1
+2010,129,Coupe du Monde,Turin,italy,05-03-2010,06-03-2010,foil,women,1
+2010,458,The Artus Court PKO BP,Gdansk,poland,26-02-2010,27-02-2010,foil,women,1
+2010,689,Coupe du Monde,V.Leganés-Madrid,spain,27-02-2010,28-02-2010,sabre,women,1
+2010,150,Coupe UNICREDIT BANK,Budapest,hungary,20-02-2010,21-02-2010,sabre,women,1
+2010,127,Cup der Sparkasse Leipzig,Leipzig,germany,20-02-2010,21-02-2010,foil,women,1
+2010,86,Challenge international de St-Maur,Saint-Maur,france,19-02-2010,20-02-2010,epee,women,1
+2010,92,Ciudad de Barcelona,Barcelone,spain,13-02-2010,14-02-2010,epee,women,1
+2010,149,Sabre de Moscou,Moscow,russia,14-02-2010,15-02-2010,sabre,women,1
+2010,124,Coupe du Monde,Salzbourg,austria,13-02-2010,14-02-2010,foil,women,1
+2010,627,Star Cup Belgrade,Belgrade,serbia,06-02-2010,07-02-2010,foil,women,1
+2010,152,Trophée BNP-Paribas,Orléans,france,05-02-2010,06-02-2010,sabre,women,1
+2010,517,Tournoi international,Rome,italy,05-02-2010,06-02-2010,epee,women,1
+2010,393,SAF Pokalen,Stockholm,sweden,07-02-2010,07-02-2010,epee,women,1
+2010,467,England Cup,Londres,great britain,30-01-2010,31-01-2010,sabre,women,1
+2010,80,Grand Prix,Doha,qatar,23-01-2010,24-01-2010,epee,women,1
+2010,79,Westend Cup,Budapest,hungary,15-01-2010,16-01-2010,epee,women,1
+2010,916,Aphrodite Cup 2009,Nicosia,cyprus,21-11-2009,21-11-2009,epee,women,1
+2010,170,Tournoi satellite épée féminine,Arhus,denmark,14-11-2009,15-11-2009,epee,women,1
+2010,175,Tournoi satellite épée féminine,Oslo,norway,08-11-2009,08-11-2009,epee,women,1
+2010,177,Tournoi satellite épée féminine,Copenhague,denmark,25-10-2009,25-10-2009,epee,women,1
+2010,173,"Kupittaa tournament, épée féminine",Turku,finland,18-10-2009,18-10-2009,epee,women,1
+2010,553,51 Trophy of Belgrade,Belgrade,serbia,11-10-2009,11-10-2009,epee,women,1

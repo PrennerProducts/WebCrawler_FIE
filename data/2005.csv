@@ -1,0 +1,138 @@
+season,competitionId,name,location,country,startDate,endDate,weapon,gender,hasResults
+2005,244,Championnats du Monde,Leipzig,germany,10-10-2005,11-10-2005,foil,men,1
+2005,242,Championnats du Monde,Leipzig,germany,08-10-2005,09-10-2005,epee,men,1
+2005,246,Championnats du Monde,Leipzig,germany,09-10-2005,10-10-2005,sabre,men,1
+2005,415,Universiades,Izmir,türkiye,11-08-2005,19-08-2005,epee,men,0
+2005,417,Universiades,Izmir,türkiye,11-08-2005,19-08-2005,foil,men,0
+2005,419,Universiades,Izmir,türkiye,11-08-2005,19-08-2005,sabre,men,0
+2005,401,Championnats Asiatiques,Sabah,malaysia,25-07-2005,25-07-2005,epee,men,0
+2005,403,Championnats Asiatiques,Sabah,malaysia,27-07-2005,27-07-2005,foil,men,0
+2005,405,Championnats Asiatiques,Sabah,malaysia,26-07-2005,26-07-2005,sabre,men,0
+2005,116,Coupe du Monde,Téhéran,iran,16-07-2005,17-07-2005,epee,men,1
+2005,168,Grand Prix,Téhéran,iran,15-07-2005,16-07-2005,sabre,men,1
+2005,105,Epée Internationale,Vancouver,canada,08-07-2005,09-07-2005,epee,men,1
+2005,463,Coupe du Monde,Vancouver,canada,09-07-2005,10-07-2005,foil,men,1
+2005,146,Copa Venezuela,Carabobo,venezuela,02-07-2005,03-07-2005,foil,men,1
+2005,115,Copa Mundial de Puerto Rico,Carolina,puerto rico,02-07-2005,03-07-2005,epee,men,1
+2005,290,Championnats d'Europe seniors,Zalaegerszeg,hungary,27-06-2005,03-07-2005,epee,men,0
+2005,292,Championnats d'Europe seniors,Zalaegerszeg,hungary,27-06-2005,03-07-2005,foil,men,0
+2005,294,Championnats d'Europe seniors,Zalaegerszeg,hungary,27-06-2005,03-07-2005,sabre,men,0
+2005,504,Jeux Méditerranéens,Almeria,spain,25-06-2005,27-06-2005,epee,men,0
+2005,507,Jeux Méditerranéens,Almeria,spain,25-06-2005,27-06-2005,foil,men,0
+2005,508,Jeux Méditerranéens,Almeria,spain,25-06-2005,27-06-2005,sabre,men,0
+2005,106,Coupe du Monde,Bogota,colombia,24-06-2005,25-06-2005,epee,men,1
+2005,147,Copa Villa La Habana,La Havane,cuba,24-06-2005,25-06-2005,foil,men,1
+2005,162,Glaive D’Asparoukh,Sofia,bulgaria,25-06-2005,26-06-2005,sabre,men,1
+2005,111,Jockey Club Argentino,Buenos Aires,argentina,18-06-2005,19-06-2005,epee,men,1
+2005,186,Tournoi satellite sabre masculin,Newcastle,great britain,18-06-2005,19-06-2005,sabre,men,1
+2005,476,Grand Prix,Barquisimeto,venezuela,10-06-2005,11-06-2005,sabre,men,1
+2005,185,Tournoi satellite sabre masculin,Reykjavik,iceland,11-06-2005,12-06-2005,sabre,men,1
+2005,99,Coupe Vitalis Lisboa,Lisbonne,portugal,04-06-2005,05-06-2005,epee,men,1
+2005,474,Candidature A,Santiago,chile,03-06-2005,04-06-2005,sabre,men,1
+2005,184,Tournoi satellite sabre masculin,Helsinki,finland,29-05-2005,29-05-2005,sabre,men,1
+2005,475,Grand Prix,Thies,senegal,27-05-2005,28-05-2005,sabre,men,1
+2005,163,Trophée Luxardo,Padoue,italy,20-05-2005,21-05-2005,sabre,men,1
+2005,98,Glaive de Tallin,Tallin,estonia,21-05-2005,22-05-2005,epee,men,1
+2005,143,Coupe d'Espinho,Espinho,portugal,14-05-2005,15-05-2005,foil,men,1
+2005,165,Sabre de Wolodyjowski,Varsovie,poland,13-05-2005,14-05-2005,sabre,men,1
+2005,142,Löwe von Bonn,Bonn,germany,07-05-2005,08-05-2005,foil,men,1
+2005,109,Trophée Carroccio,Legnano,italy,06-05-2005,07-05-2005,epee,men,1
+2005,164,Villa de Madrid,Madrid,spain,06-05-2005,07-05-2005,sabre,men,1
+2005,491,Candidature A,Alger,algeria,30-04-2005,01-05-2005,sabre,men,1
+2005,108,Heidenheimer Pokal,Heidenheim,germany,29-04-2005,30-04-2005,epee,men,1
+2005,134,Fleuret de St-Petersbourg,St-Petersbourg,russia,25-03-2005,26-03-2005,foil,men,1
+2005,398,Tournoi satellite fleuret masculin,Copenhague,denmark,19-03-2005,20-03-2005,foil,men,1
+2005,136,World Cup,Le Caire,egypt,18-03-2005,19-03-2005,foil,men,1
+2005,156,Sabre de Moscou,Moscow,russia,18-03-2005,19-03-2005,sabre,men,1
+2005,104,Challenge R. Monal,Paris,france,18-03-2005,19-03-2005,epee,men,1
+2005,160,Coupe Akropolis,Athènes,greece,12-03-2005,13-03-2005,sabre,men,1
+2005,181,Tournoi satellite sabre masculin,Edinburgh,great britain,12-03-2005,13-03-2005,sabre,men,1
+2005,396,Tournoi satellite épée masculine,Edinburgh,great britain,12-03-2005,13-03-2005,epee,men,1
+2005,112,Challenge Bernadotte,Stockholm,sweden,11-03-2005,12-03-2005,epee,men,1
+2005,145,Fencing WC,Tokyo,japan,12-03-2005,13-03-2005,foil,men,1
+2005,113,Grand Prix de Berne,Berne,switzerland,05-03-2005,06-03-2005,epee,men,1
+2005,139,Coupe du Monde,Shanghai,china,04-03-2005,05-03-2005,foil,men,1
+2005,482,Tournoi satellite sabre masculin,Bonn,germany,26-02-2005,26-02-2005,sabre,men,1
+2005,138,2005 SK Trophée Séoul,Séoul,korea,26-02-2005,27-02-2005,foil,men,1
+2005,413,Coupe du Monde,Séoul,korea,25-02-2005,26-02-2005,sabre,men,1
+2005,180,Tournoi satellite sabre masculin,Orebro,sweden,19-02-2005,20-02-2005,sabre,men,1
+2005,169,Coupe du Monde,Bangkok,thailand,11-02-2005,12-02-2005,sabre,men,1
+2005,394,Tournoi satellite épée masculine,Stockholm 2005,sweden,12-02-2005,13-02-2005,epee,men,1
+2005,158,Coupe Gerevich-Kovacs-Karpati,Budapest,hungary,04-02-2005,05-02-2005,sabre,men,1
+2005,137,Tournoi Ciudad de A Coruña,La Coruña,spain,04-02-2005,05-02-2005,foil,men,1
+2005,140,Coupe Ville de Venise,Venise,italy,28-01-2005,29-01-2005,foil,men,1
+2005,135,C.I.P. Souvenir Rommel Paris,Paris,france,21-01-2005,22-01-2005,foil,men,1
+2005,132,Copenhagen Cup,Copenhague,denmark,15-01-2005,16-01-2005,foil,men,1
+2005,179,Tournoi satellite sabre masculin,Copenhague,denmark,15-01-2005,16-01-2005,sabre,men,1
+2005,387,Grand Prix du Qatar 2005,Doha,qatar,15-01-2005,16-01-2005,epee,men,1
+2005,385,CM Cheikh Fahed Al-Ahmed Al-Soubah,Koweit City,kuwait,07-01-2005,08-01-2005,epee,men,1
+2005,176,Tournoi satellite épée masculine,Oslo,norway,13-11-2004,14-11-2004,epee,men,1
+2005,178,Tournoi satellite épée masculine,Copenhague,denmark,23-10-2004,24-10-2004,epee,men,1
+2005,182,Tournoi satellite sabre masculin,Gand,belgium,23-10-2004,24-10-2004,sabre,men,1
+2005,391,Leon Paul satellite fleuret masculin,Londres,great britain,24-10-2004,24-10-2004,foil,men,1
+2005,174,Tournoi satellite épée masculine,Turku,finland,09-10-2004,10-10-2004,epee,men,1
+2005,172,Tournoi satellite sabre masculin,Amsterdam,netherlands,02-10-2004,03-10-2004,sabre,men,1
+2005,392,Tournoi satellite fleuret masculin,Amsterdam,netherlands,02-10-2004,03-10-2004,foil,men,1
+2005,171,Tournoi satellite épée masculine,Arhus,denmark,11-09-2004,12-09-2004,epee,men,1
+2005,245,Championnats du Monde,Leipzig,germany,10-10-2005,11-10-2005,sabre,women,1
+2005,241,Championnats du Monde,Leipzig,germany,09-10-2005,10-10-2005,epee,women,1
+2005,243,Championnats du Monde,Leipzig,germany,08-10-2005,09-10-2005,foil,women,1
+2005,414,Universiades,Izmir,türkiye,11-08-2005,19-08-2005,epee,women,0
+2005,416,Universiades,Izmir,türkiye,11-08-2005,19-08-2005,foil,women,0
+2005,418,Universiades,Izmir,türkiye,11-08-2005,19-08-2005,sabre,women,0
+2005,400,Championnats Asiatiques,Sabah,malaysia,26-07-2005,26-07-2005,epee,women,0
+2005,402,Championnats Asiatiques,Sabah,malaysia,25-07-2005,25-07-2005,foil,women,0
+2005,404,Championnats Asiatiques,Sabah,malaysia,27-07-2005,27-07-2005,sabre,women,0
+2005,451,Candidature A,Vancouver,canada,08-07-2005,09-07-2005,epee,women,1
+2005,471,Candidature A,Vancouver,canada,09-07-2005,10-07-2005,sabre,women,1
+2005,289,Championnats d'Europe seniors,Zalaegerszeg,hungary,27-06-2005,03-07-2005,epee,women,0
+2005,291,Championnats d'Europe seniors,Zalaegerszeg,hungary,27-06-2005,03-07-2005,foil,women,0
+2005,293,Championnats d'Europe seniors,Zalaegerszeg,hungary,27-06-2005,03-07-2005,sabre,women,0
+2005,505,Jeux Méditerranéens,Almeria,spain,25-06-2005,27-06-2005,epee,women,0
+2005,506,Jeux Méditerranéens,Almeria,spain,25-06-2005,27-06-2005,foil,women,0
+2005,131,Tournoi Nancy Uranga,La Havane,cuba,25-06-2005,26-06-2005,foil,women,1
+2005,155,Coupe du Monde,La Havane,cuba,24-06-2005,25-06-2005,sabre,women,1
+2005,95,Coupe du Monde,La Havane,cuba,17-06-2005,18-06-2005,epee,women,1
+2005,130,Grand Prix,Las Vegas,usa,17-06-2005,18-06-2005,foil,women,1
+2005,154,Grand Prix,Las Vegas,usa,17-06-2005,18-06-2005,sabre,women,1
+2005,485,Tournoi satellite sabre féminin,Newcastle,great britain,18-06-2005,19-06-2005,sabre,women,1
+2005,486,Tournoi satellite épée féminine,Newcastle,great britain,18-06-2005,19-06-2005,epee,women,1
+2005,484,Tournoi satellite sabre féminin,Reykjavik,iceland,11-06-2005,12-06-2005,sabre,women,1
+2005,92,Ciudad de Barcelona,Barcelone,spain,03-06-2005,04-06-2005,epee,women,1
+2005,487,Candidature A,Bucarest,romania,04-06-2005,05-06-2005,foil,women,1
+2005,469,Coupe du Monde,Klagenfurt,austria,04-06-2005,05-06-2005,sabre,women,1
+2005,125,Coupe Eximbank,Budapest,hungary,28-05-2005,29-05-2005,foil,women,1
+2005,483,Tournoi satellite épée féminine,Estoril,portugal,28-05-2005,28-05-2005,epee,women,1
+2005,97,Challenge Australia,Sydney,australia,21-05-2005,22-05-2005,epee,women,1
+2005,127,Cup der Sparkasse Leipzig,Leipzig,germany,14-05-2005,15-05-2005,foil,women,1
+2005,449,Tournoi international,Nankin,china,13-05-2005,14-05-2005,epee,women,1
+2005,470,Challenge Jean Coibion,Welkenraedt,belgium,14-05-2005,15-05-2005,sabre,women,1
+2005,464,Candidature A,Hanoi,vietnam,07-05-2005,08-05-2005,sabre,women,1
+2005,124,Coupe du Monde,Salzbourg,austria,07-05-2005,08-05-2005,foil,women,1
+2005,468,Grand Prix,Alger,algeria,30-04-2005,01-05-2005,sabre,women,1
+2005,458,The Artus Court PKO BP,Gdansk,poland,29-04-2005,30-04-2005,foil,women,1
+2005,152,Coupe du Monde,Orléans,france,25-03-2005,26-03-2005,sabre,women,1
+2005,118,Fleuret de St-Petersbourg,St-Petersbourg,russia,25-03-2005,26-03-2005,foil,women,1
+2005,397,Tournoi satellite fleuret féminin,Copenhague,denmark,19-03-2005,20-03-2005,foil,women,1
+2005,457,World Cup,Le Caire,egypt,18-03-2005,19-03-2005,foil,women,1
+2005,149,Sabre de Moscou,Moscow,russia,18-03-2005,19-03-2005,sabre,women,1
+2005,447,Coupe d'Athènes,Athènes,greece,12-03-2005,13-03-2005,epee,women,1
+2005,395,Tournoi satellite épée féminine,Edinburgh,great britain,12-03-2005,13-03-2005,epee,women,1
+2005,481,Tournoi satellite sabre féminin,Edinburgh,great britain,12-03-2005,13-03-2005,sabre,women,1
+2005,151,Tournoi international,Foggia,italy,11-03-2005,12-03-2005,sabre,women,1
+2005,129,Fencing WC,Tokyo,japan,11-03-2005,12-03-2005,foil,women,1
+2005,467,Coupe du Monde,Londres,great britain,05-03-2005,06-03-2005,sabre,women,1
+2005,85,Challenge J. Nowara,Luxembourg,luxembourg,05-03-2005,06-03-2005,epee,women,1
+2005,122,Coupe du Monde,Shanghai,china,05-03-2005,06-03-2005,foil,women,1
+2005,150,Coupe du Monde,Budapest,hungary,26-02-2005,27-02-2005,sabre,women,1
+2005,121,2005 SK Trophée Séoul,Séoul,korea,25-02-2005,26-02-2005,foil,women,1
+2005,82,Würth Cup,Tauberbischofsheim,germany,18-02-2005,19-02-2005,epee,women,1
+2005,465,Candidature A,Bangkok,thailand,12-02-2005,13-02-2005,sabre,women,1
+2005,393,Tournoi satellite épée féminine,Stockholm,sweden,12-02-2005,13-02-2005,epee,women,1
+2005,86,Challenge internationale de Saint Maur,Saint-Maur,france,05-02-2005,06-02-2005,epee,women,1
+2005,80,Prague d’Or,Prague,czechia,29-01-2005,30-01-2005,epee,women,1
+2005,79,Westend Cup,Budapest,hungary,21-01-2005,22-01-2005,epee,women,1
+2005,175,Tournoi satellite épée féminine,Oslo,norway,13-11-2004,14-11-2004,epee,women,1
+2005,177,Tournoi satellite épée féminine,Copenhague,denmark,23-10-2004,24-10-2004,epee,women,1
+2005,173,Tournoi satellite épée féminine,Turku,finland,09-10-2004,10-10-2004,epee,women,1
+2005,170,Tournoi satellite épée féminine,Arhus,denmark,11-09-2004,12-09-2004,epee,women,1

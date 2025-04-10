@@ -1,0 +1,149 @@
+season,competitionId,name,location,country,startDate,endDate,weapon,gender,hasResults
+2012,242,JO,Londres,great britain,01-08-2012,01-08-2012,epee,men,1
+2012,244,JO,Londres,great britain,31-07-2012,31-07-2012,foil,men,1
+2012,246,JO,Londres,great britain,29-07-2012,29-07-2012,sabre,men,1
+2012,111,Jockey Club Argentino,Buenos Aires,argentina,29-06-2012,30-06-2012,epee,men,1
+2012,147,Copa Villa La Habana,La Havane,cuba,29-06-2012,30-06-2012,foil,men,1
+2012,474,Korfanty Cup,Chicago,usa,22-06-2012,23-06-2012,sabre,men,1
+2012,798,Championnats Panaméricains,Cancun,mexico,16-06-2012,16-06-2012,foil,men,1
+2012,799,Championnats Panaméricains,Cancun,mexico,17-06-2012,17-06-2012,epee,men,1
+2012,802,Championnats Panaméricains,Cancun,mexico,15-06-2012,15-06-2012,sabre,men,1
+2012,739,Championnats d'Europe,Legnano,italy,15-06-2012,20-06-2012,epee,men,1
+2012,741,Championnats d'Europe,Legnano,italy,15-06-2012,20-06-2012,foil,men,1
+2012,743,Championnats d'Europe,Legnano,italy,15-06-2012,20-06-2012,sabre,men,1
+2012,186,Cole Cup,Newcastle,great britain,16-06-2012,17-06-2012,sabre,men,1
+2012,113,Grand Prix de Berne,Berne,switzerland,02-06-2012,03-06-2012,epee,men,1
+2012,185,Tournoi satellite sabre masculin,Reykjavik,iceland,02-06-2012,03-06-2012,sabre,men,1
+2012,134,Fleuret de St-Petersbourg,St-Petersbourg,russia,01-06-2012,02-06-2012,foil,men,1
+2012,165,Sabre de Wolodyjowski,Varsovie,poland,02-06-2012,03-06-2012,sabre,men,1
+2012,960,Aphrodite Cup,Limassol,cyprus,26-05-2012,26-05-2012,epee,men,1
+2012,138,SK Trophée Séoul,Séoul,korea,18-05-2012,19-05-2012,foil,men,1
+2012,793,St  Duje's Cup,Split,croatia,19-05-2012,20-05-2012,epee,men,1
+2012,164,Villa de Madrid,Madrid,spain,11-05-2012,12-05-2012,sabre,men,1
+2012,112,Challenge Bernadotte Stockholm,Stockholm,sweden,12-05-2012,13-05-2012,epee,men,1
+2012,656,Tournoi satellite,Antalya,türkiye,05-05-2012,06-05-2012,epee,men,1
+2012,160,Coupe Akropolis,Athènes,greece,27-04-2012,28-04-2012,sabre,men,1
+2012,108,Heidenheimer Pokal,Heidenheim,germany,27-04-2012,28-04-2012,epee,men,1
+2012,145,Prince Takamado WC,Wakayama,japan,28-04-2012,29-04-2012,foil,men,1
+2012,1078,Champ. de qualification-Europe,Bratislava,slovakia,21-04-2012,22-04-2012,epee,men,0
+2012,1080,Champ. de qualification-Europe,Bratislava,slovakia,21-04-2012,22-04-2012,foil,men,0
+2012,1082,Champ. de qualification-Europe,Bratislava,slovakia,21-04-2012,22-04-2012,sabre,men,0
+2012,585,Championnats d'Afrique,Casablanca,morocco,20-04-2012,25-04-2012,epee,men,1
+2012,587,Championnats d'Afrique,Casablanca,morocco,20-04-2012,25-04-2012,foil,men,1
+2012,589,Championnats d'Afrique,Casablanca,morocco,20-04-2012,25-04-2012,sabre,men,1
+2012,1060,Champ. de qualification - Afrique,Casablanca,morocco,19-04-2012,19-04-2012,epee,men,0
+2012,1062,Champ. de qualification - Afrique,Casablanca,morocco,19-04-2012,19-04-2012,foil,men,0
+2012,1064,Champ. de qualification - Afrique,Casablanca,morocco,19-04-2012,19-04-2012,sabre,men,0
+2012,1072,Champ. de qualification- Amérique,Santiago,chile,20-04-2012,22-04-2012,epee,men,0
+2012,1074,Champ. de qualification- Amérique,Santiago,chile,20-04-2012,22-04-2012,foil,men,0
+2012,1076,Champ. de qualification- Amérique,Santiago,chile,20-04-2012,22-04-2012,sabre,men,0
+2012,1010,Championnats asiatiques,Wakayama,japan,22-04-2012,27-04-2012,epee,men,1
+2012,1012,Championnats asiatiques,Wakayama,japan,22-04-2012,27-04-2012,foil,men,1
+2012,1015,Championnats asiatiques,Wakayama,japan,22-04-2012,27-04-2012,sabre,men,1
+2012,1066,Champ. de qualification - Asie-Océanie,Wakayama,japan,21-04-2012,21-04-2012,epee,men,0
+2012,1068,Champ. de qualification - Asie-Océanie,Wakayama,japan,21-04-2012,21-04-2012,foil,men,0
+2012,1070,Champ. de qualification - Asie-Océanie,Wakayama,japan,20-04-2012,20-04-2012,sabre,men,0
+2012,398,Tournoi satellite fleuret masculin,Copenhague,denmark,24-03-2012,24-03-2012,foil,men,1
+2012,142,Löwe von Bonn,Bonn,germany,16-03-2012,17-03-2012,foil,men,1
+2012,184,Tournoi satellite sabre masculin,Helsinki,finland,17-03-2012,17-03-2012,sabre,men,1
+2012,156,Sabre de Moscou,Moscow,russia,16-03-2012,17-03-2012,sabre,men,1
+2012,104,"Challenge réseau ferré de France, trophée Monal",Paris,france,16-03-2012,17-03-2012,epee,men,1
+2012,158,Gerevich-Kovacs-Karpati Grand Prix for the Mol Cup,Budapest,hungary,03-03-2012,04-03-2012,sabre,men,1
+2012,98,Glaive de Tallin,Tallin,estonia,02-03-2012,03-03-2012,epee,men,1
+2012,140,Coupe Ville de Venise,Venise,italy,03-03-2012,04-03-2012,foil,men,1
+2012,1022,Int. Hapoel games,Ashkelon,israel,24-02-2012,25-02-2012,epee,men,1
+2012,137,Tournoi Ciudad de A Coruña,La Coruña,spain,17-02-2012,18-02-2012,foil,men,1
+2012,163,Trophée Luxardo,Padoue,italy,17-02-2012,18-02-2012,sabre,men,1
+2012,387,Grand Prix du Qatar 2012,Doha,qatar,10-02-2012,11-02-2012,epee,men,1
+2012,180,Tournoi satellite sabre masculin,Orebro,sweden,11-02-2012,12-02-2012,sabre,men,1
+2012,162,Glaive D’Asparoukh,Plovdiv,bulgaria,04-02-2012,05-02-2012,sabre,men,1
+2012,385,Coupe du monde,Legnano,italy,27-01-2012,28-01-2012,epee,men,1
+2012,135,Challenge International de Paris,Paris,france,27-01-2012,28-01-2012,foil,men,1
+2012,394,SAF Pokalen,Stockholm,sweden,21-01-2012,21-01-2012,epee,men,1
+2012,179,Tournoi satellite sabre masculin,Copenhague,denmark,14-01-2012,15-01-2012,sabre,men,1
+2012,1048,Jeux des Pays Arabophones,Doha,qatar,19-12-2011,19-12-2011,sabre,men,0
+2012,1051,Jeux des Pays Arabophones,Doha,qatar,20-12-2011,20-12-2011,epee,men,0
+2012,1047,Jeux des Pays Arabophones,Doha,qatar,18-12-2011,18-12-2011,foil,men,0
+2012,554,Belgrade Trophy,Belgrade,serbia,11-12-2011,11-12-2011,epee,men,1
+2012,796,Tournoi satellite,Dublin,ireland,03-12-2011,03-12-2011,epee,men,1
+2012,391,Leon Paul satellite fleuret masculin,Londres,great britain,04-12-2011,04-12-2011,foil,men,1
+2012,1083,Test event - Individuel,Londres,great britain,26-11-2011,26-11-2011,foil,men,0
+2012,176,Tournoi satellite épée masculine,Oslo,norway,26-11-2011,26-11-2011,epee,men,1
+2012,172,Tournoi satellite sabre masculin,Amsterdam,netherlands,12-11-2011,13-11-2011,sabre,men,1
+2012,392,Tournoi satellite fleuret masculin,Amsterdam,netherlands,12-11-2011,13-11-2011,foil,men,1
+2012,171,Tournoi satellite épée masculine,Arhus,denmark,12-11-2011,13-11-2011,epee,men,1
+2012,1042,26th South East Asian Games,Palembang,indonesia,11-11-2011,23-11-2011,epee,men,0
+2012,1044,26th South East Asian Games,Palembang,indonesia,11-11-2011,23-11-2011,foil,men,0
+2012,1046,26th South East Asian Games,Palembang,indonesia,11-11-2011,23-11-2011,sabre,men,0
+2012,178,Tournoi satellite épée masculine,Copenhague,denmark,29-10-2011,30-10-2011,epee,men,1
+2012,182,Tournoi satellite sabre masculin,Gand,belgium,22-10-2011,23-10-2011,sabre,men,1
+2012,174,"Kupittaa tournament, épée masculine",Turku,finland,22-10-2011,22-10-2011,epee,men,1
+2012,241,JO,Londres,great britain,30-07-2012,30-07-2012,epee,women,1
+2012,245,JO,Londres,great britain,01-08-2012,01-08-2012,sabre,women,1
+2012,243,JO,Londres,great britain,28-07-2012,28-07-2012,foil,women,1
+2012,97,Coupe du Monde,Leipzig,germany,29-06-2012,30-06-2012,epee,women,1
+2012,471,Korfanty Cup,Chicago,usa,22-06-2012,23-06-2012,sabre,women,1
+2012,797,Championnats Panaméricains,Cancun,mexico,15-06-2012,15-06-2012,epee,women,1
+2012,800,Championnats Panaméricains,Cancun,mexico,17-06-2012,17-06-2012,foil,women,1
+2012,801,Championnats Panaméricains,Cancun,mexico,16-06-2012,16-06-2012,sabre,women,1
+2012,738,Championnats d'Europe,Legnano,italy,15-06-2012,20-06-2012,epee,women,1
+2012,740,Championnats d'Europe,Legnano,italy,15-06-2012,20-06-2012,foil,women,1
+2012,742,Championnats d'Europe,Legnano,italy,15-06-2012,20-06-2012,sabre,women,1
+2012,485,Cole Cup,Newcastle,great britain,16-06-2012,17-06-2012,sabre,women,1
+2012,486,Cole Cup,Newcastle,great britain,16-06-2012,17-06-2012,epee,women,1
+2012,470,Challenge Yves Brasseur,Gand,belgium,08-06-2012,09-06-2012,sabre,women,1
+2012,449,Tournoi international,Nankin,china,09-06-2012,10-06-2012,epee,women,1
+2012,484,Tournoi satellite sabre féminin,Reykjavik,iceland,02-06-2012,03-06-2012,sabre,women,1
+2012,118,Fleuret de St-Petersbourg,St-Petersbourg,russia,03-06-2012,04-06-2012,foil,women,1
+2012,95,Grand Prix,La Havane,cuba,19-05-2012,20-05-2012,epee,women,1
+2012,121,SK Trophée Séoul,Séoul,korea,19-05-2012,20-05-2012,foil,women,1
+2012,520,St  Duje's Cup,Split,croatia,19-05-2012,20-05-2012,epee,women,1
+2012,676,Coupe du Monde,Tianjin,china,19-05-2012,20-05-2012,sabre,women,1
+2012,655,Tournoi satellite,Antalya,türkiye,05-05-2012,06-05-2012,epee,women,1
+2012,469,Coupe du Monde,Bologne,italy,04-05-2012,05-05-2012,sabre,women,1
+2012,451,Epée internationale,Rio de Janeiro,brazil,04-05-2012,05-05-2012,epee,women,1
+2012,122,Coupe du Monde,Shanghai,china,04-05-2012,05-05-2012,foil,women,1
+2012,457,Grand Prix,Marseille,france,28-04-2012,29-04-2012,foil,women,1
+2012,1077,Champ. de qualification-Europe,Bratislava,slovakia,21-04-2012,22-04-2012,epee,women,0
+2012,1079,Champ. de qualification-Europe,Bratislava,slovakia,21-04-2012,22-04-2012,foil,women,0
+2012,1081,Champ. de qualification-Europe,Bratislava,slovakia,21-04-2012,22-04-2012,sabre,women,0
+2012,584,Championnats d'Afrique,Casablanca,morocco,20-04-2012,25-04-2012,epee,women,1
+2012,586,Championnats d'Afrique,Casablanca,morocco,20-04-2012,25-04-2012,foil,women,1
+2012,588,Championnats d'Afrique,Casablanca,morocco,20-04-2012,25-04-2012,sabre,women,1
+2012,1059,Champ. de qualification - Afrique,Casablanca,morocco,19-04-2012,19-04-2012,epee,women,0
+2012,1061,Champ. de qualification - Afrique,Casablanca,morocco,19-04-2012,19-04-2012,foil,women,0
+2012,1063,Champ. de qualification - Afrique,Casablanca,morocco,19-04-2012,19-04-2012,sabre,women,0
+2012,1071,Champ. de qualification- Amérique,Santiago,chile,20-04-2012,22-04-2012,epee,women,0
+2012,1073,Champ. de qualification- Amérique,Santiago,chile,20-04-2012,22-04-2012,foil,women,0
+2012,1075,Champ. de qualification- Amérique,Santiago,chile,20-04-2012,22-04-2012,sabre,women,0
+2012,1011,Championnats asiatiques,Wakayama,japan,22-04-2012,27-04-2012,sabre,women,1
+2012,1013,Championnats asiatiques,Wakayama,japan,22-04-2012,27-04-2012,epee,women,1
+2012,1014,Championnats asiatiques,Wakayama,japan,22-04-2012,27-04-2012,foil,women,1
+2012,1065,Champ. de qualification - Asie-Océanie,Wakayama,japan,20-04-2012,20-04-2012,epee,women,0
+2012,1067,Champ. de qualification - Asie-Océanie,Wakayama,japan,20-04-2012,20-04-2012,foil,women,0
+2012,1069,Champ. de qualification - Asie-Océanie,Wakayama,japan,21-04-2012,21-04-2012,sabre,women,0
+2012,125,Coupe du Monde,Budapest,hungary,23-03-2012,24-03-2012,foil,women,1
+2012,397,Tournoi satellite fleuret féminin,Copenhague,denmark,25-03-2012,25-03-2012,foil,women,1
+2012,85,Coupe du Monde,St-Maur,france,23-03-2012,24-03-2012,epee,women,1
+2012,468,Coupe du Monde,Moscow,russia,16-03-2012,17-03-2012,sabre,women,1
+2012,151,Tournoi international,Antalya,türkiye,09-03-2012,10-03-2012,sabre,women,1
+2012,92,Ciudad de Barcelona,Barcelone,spain,09-03-2012,10-03-2012,epee,women,1
+2012,129,Coupe du Monde,Turin,italy,09-03-2012,10-03-2012,foil,women,1
+2012,79,"Westend Grand Prix ""in Memoriam Sakovics Jozsef""",Budapest,hungary,25-02-2012,26-02-2012,epee,women,1
+2012,458,The Artus Court PKO BP,Gdansk,poland,24-02-2012,25-02-2012,foil,women,1
+2012,467,England Trophy,Londres,great britain,24-02-2012,25-02-2012,sabre,women,1
+2012,80,Grand Prix,Doha,qatar,11-02-2012,12-02-2012,epee,women,1
+2012,152,Trophée BNP-Paribas,Orléans,france,10-02-2012,11-02-2012,sabre,women,1
+2012,127,Reinhold-Würth-Cup,Tauberbischofsheim,germany,10-02-2012,11-02-2012,foil,women,1
+2012,393,SAF Pokalen,Stockholm,sweden,22-01-2012,22-01-2012,epee,women,1
+2012,1049,Jeux des Pays Arabophones,Doha,qatar,19-12-2011,19-12-2011,epee,women,0
+2012,1050,Jeux des Pays Arabophones,Doha,qatar,20-12-2011,20-12-2011,foil,women,0
+2012,1058,Jeux des Pays Arabophones,Doha,qatar,18-12-2011,18-12-2011,sabre,women,0
+2012,553,Belgrade Trophy,Belgrade,serbia,11-12-2011,11-12-2011,epee,women,1
+2012,175,Tournoi satellite épée féminine,Oslo,norway,27-11-2011,27-11-2011,epee,women,1
+2012,170,Tournoi satellite épée féminine,Arhus,denmark,12-11-2011,13-11-2011,epee,women,1
+2012,1041,26th South East Asian Games,Palembang,indonesia,11-11-2011,23-11-2011,epee,women,0
+2012,1043,26th South East Asian Games,Palembang,indonesia,11-11-2011,23-11-2011,foil,women,0
+2012,1045,26th South East Asian Games,Palembang,indonesia,11-11-2011,23-11-2011,sabre,women,0
+2012,177,Tournoi satellite épée féminine,Copenhague,denmark,29-10-2011,30-10-2011,epee,women,1
+2012,173,"Kupittaa tournament, épée féminine",Turku,finland,23-10-2011,23-10-2011,epee,women,1

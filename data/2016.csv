@@ -1,0 +1,140 @@
+season,competitionId,name,location,country,startDate,endDate,weapon,gender,hasResults
+2016,242,Jeux Olympiques,Rio de Janeiro,brazil,09-08-2016,09-08-2016,epee,men,1
+2016,246,Jeux Olympiques,Rio de Janeiro,brazil,10-08-2016,10-08-2016,sabre,men,1
+2016,244,Jeux Olympiques,Rio de Janeiro,brazil,07-08-2016,07-08-2016,foil,men,1
+2016,798,Championnats Panaméricains,Panama,panama,21-06-2016,21-06-2016,foil,men,1
+2016,799,Championnats Panaméricains,Panama,panama,22-06-2016,22-06-2016,epee,men,1
+2016,802,Championnats Panaméricains,Panama,panama,23-06-2016,23-06-2016,sabre,men,1
+2016,739,Championnats d'Europe,TORUN,poland,21-06-2016,21-06-2016,epee,men,1
+2016,741,Championnats d'Europe,TORUN,poland,20-06-2016,20-06-2016,foil,men,1
+2016,743,Championnats d'Europe,TORUN,poland,22-06-2016,22-06-2016,sabre,men,1
+2016,145,Grand Prix,Shanghai,china,03-06-2016,05-06-2016,foil,men,1
+2016,162,Sabre de Moscou,Moscow,russia,27-05-2016,28-05-2016,sabre,men,1
+2016,111,Challenge SNCF Réseau,Paris,france,20-05-2016,21-05-2016,epee,men,1
+2016,1317,Tournoi satellite sabre masculin,Reykjavik,iceland,22-05-2016,22-05-2016,sabre,men,1
+2016,474,Villa de Madrid,Madrid,spain,13-05-2016,14-05-2016,sabre,men,1
+2016,1022,St Duje Cup,Split,croatia,14-05-2016,15-05-2016,epee,men,1
+2016,147,Fleuret de St-Petersbourg,St-Petersbourg,russia,13-05-2016,14-05-2016,foil,men,1
+2016,1280,Trekanten International,Copenhague,denmark,07-05-2016,07-05-2016,foil,men,1
+2016,185,Cole Cup,Londres,great britain,07-05-2016,07-05-2016,sabre,men,1
+2016,113,Grand Prix - test event,Rio de Janeiro,brazil,22-04-2016,24-04-2016,epee,men,1
+2016,585,Championnats d'Afrique,Alger,algeria,15-04-2016,19-04-2016,epee,men,1
+2016,587,Championnats d'Afrique,Alger,algeria,15-04-2016,19-04-2016,foil,men,1
+2016,589,Championnats d'Afrique,Alger,algeria,15-04-2016,19-04-2016,sabre,men,1
+2016,1060,Championnats de qualification - Afrique,Alger,algeria,14-04-2016,14-04-2016,epee,men,1
+2016,1062,Championnats de qualification - Afrique,Alger,algeria,14-04-2016,14-04-2016,foil,men,1
+2016,1064,Championnats de qualification- Afrique,Alger,algeria,14-04-2016,14-04-2016,sabre,men,1
+2016,1078,Championnats de qualification européens,Prague,czechia,16-04-2016,16-04-2016,epee,men,1
+2016,1080,Championnats de qualification européens,Prague,czechia,17-04-2016,17-04-2016,foil,men,1
+2016,1082,Championnats de qualification européens,Prague,czechia,16-04-2016,16-04-2016,sabre,men,1
+2016,1072,Championnats de qualifications panaméricains,San-Jose,costa rica,16-04-2016,16-04-2016,epee,men,1
+2016,1074,Championnats de qualifications panaméricains,San-Jose,costa rica,17-04-2016,17-04-2016,foil,men,1
+2016,1076,Championnats de qualification panaméricains,San-Jose,costa rica,15-04-2016,15-04-2016,sabre,men,1
+2016,1010,Championnats asiatiques,Wuxi,china,13-04-2016,18-04-2016,epee,men,1
+2016,1012,Championnats asiatiques,Wuxi,china,13-04-2016,18-04-2016,foil,men,1
+2016,1015,Championnats asiatiques,Wuxi,china,13-04-2016,18-04-2016,sabre,men,1
+2016,1066,Championnats de qualification Asie-Océanie,Wuxi,china,12-04-2016,12-04-2016,epee,men,1
+2016,1068,Championnats de qualification Asie-Océanie,Wuxi,china,12-04-2016,12-04-2016,foil,men,1
+2016,1070,Championnats de qualification Asie-Océanie,Wuxi,china,11-04-2016,11-04-2016,sabre,men,1
+2016,165,Grand Prix,Seoul,korea,25-03-2016,26-03-2016,sabre,men,1
+2016,112,WESTEND Grand Prix,Budapest,hungary,18-03-2016,20-03-2016,epee,men,1
+2016,186,Normann Jørgensen Cup,Copenhague,denmark,12-03-2016,12-03-2016,sabre,men,1
+2016,140,Grand Prix,La Havane,cuba,11-03-2016,13-03-2016,foil,men,1
+2016,394,Tournoi satellite,Sofia,bulgaria,12-03-2016,13-03-2016,epee,men,1
+2016,1219,Tournoi satellite,Cancun,mexico,05-03-2016,06-03-2016,foil,men,1
+2016,160,Sabre de Wolodyjowski,Varsovie,poland,19-02-2016,20-02-2016,sabre,men,1
+2016,104,Coupe du Monde,Vancouver,canada,12-02-2016,13-02-2016,epee,men,1
+2016,138,Löwe von Bonn,Bonn,germany,05-02-2016,06-02-2016,foil,men,1
+2016,156,Trophée Luxardo,Padoue,italy,29-01-2016,30-01-2016,sabre,men,1
+2016,98,Heidenheimer Pokal,Heidenheim,germany,21-01-2016,22-01-2016,epee,men,1
+2016,142,Challenge International de Paris,Paris,france,15-01-2016,16-01-2016,foil,men,1
+2016,184,Tournoi satellite sabre masculin,Istanbul,türkiye,09-01-2016,10-01-2016,sabre,men,1
+2016,398,Leon Paul satellite fleuret masculin,Londres,great britain,10-01-2016,10-01-2016,foil,men,1
+2016,796,SAF-Pokalen,Stockholm,sweden,09-01-2016,09-01-2016,epee,men,1
+2016,158,Absolute Fencing Gear Sabre Grand Prix,Boston,usa,12-12-2015,13-12-2015,sabre,men,1
+2016,391,Tournoi satellite,Kocaeli,türkiye,12-12-2015,13-12-2015,foil,men,1
+2016,387,Grand Prix du Qatar 2015,Doha,qatar,04-12-2015,05-12-2015,epee,men,1
+2016,554,Tournoi satellite épée masculine,Dublin,ireland,28-11-2015,28-11-2015,epee,men,1
+2016,134,Grand Prix,Turin,italy,27-11-2015,29-11-2015,foil,men,1
+2016,392,Tournoi satellite fleuret masculin,Ankara,türkiye,14-11-2015,15-11-2015,foil,men,1
+2016,108,Glaive de Tallin,Tallin,estonia,13-11-2015,14-11-2015,epee,men,1
+2016,172,Tournoi satellite,Amsterdam,netherlands,08-11-2015,08-11-2015,sabre,men,1
+2016,176,Tournoi satellite épée masculine,Copenhague,denmark,07-11-2015,07-11-2015,epee,men,1
+2016,137,Prince Takamodo WC,Tokyo,japan,06-11-2015,07-11-2015,foil,men,1
+2016,163,Coupe du Monde,Budapest,hungary,30-10-2015,31-10-2015,sabre,men,1
+2016,656,Tournoi satellite épée masculine,Oslo,norway,31-10-2015,31-10-2015,epee,men,1
+2016,385,Coupe du Monde,Berne,switzerland,23-10-2015,24-10-2015,epee,men,1
+2016,182,Tournoi satellite sabre masculin,Gand,belgium,18-10-2015,18-10-2015,sabre,men,1
+2016,135,Coupe du Monde,San José,usa,16-10-2015,17-10-2015,foil,men,1
+2016,171,"Kupittaa tournament, épée masculine",Turku,finland,17-10-2015,17-10-2015,epee,men,1
+2016,178,Belgrade Trophy,Belgrade,serbia,10-10-2015,10-10-2015,epee,men,1
+2016,164,Coupe du Monde,Tbilisi,georgia,09-10-2015,10-10-2015,sabre,men,1
+2016,174,Tournoi Satellite,Genève,switzerland,03-10-2015,03-10-2015,epee,men,1
+2016,243,Jeux Olympiques,Rio de Janeiro,brazil,10-08-2016,10-08-2016,foil,women,1
+2016,245,Jeux Olympiques,Rio de Janeiro,brazil,08-08-2016,08-08-2016,sabre,women,1
+2016,241,Jeux Olympiques,Rio de Janeiro,brazil,06-08-2016,06-08-2016,epee,women,1
+2016,797,Championnats Panaméricains,Panama,panama,21-06-2016,21-06-2016,epee,women,1
+2016,800,Championnats Panaméricains,Panama,panama,23-06-2016,23-06-2016,foil,women,1
+2016,801,Championnats Panaméricains,Panama,panama,22-06-2016,22-06-2016,sabre,women,1
+2016,738,Championnats d'Europe,TORUN,poland,22-06-2016,22-06-2016,epee,women,1
+2016,740,Championnats d'Europe,TORUN,poland,21-06-2016,21-06-2016,foil,women,1
+2016,742,Championnats d'Europe,TORUN,poland,20-06-2016,20-06-2016,sabre,women,1
+2016,457,Grand Prix,Shanghai,china,03-06-2016,04-06-2016,foil,women,1
+2016,676,Grand Prix,Moscow,russia,28-05-2016,29-05-2016,sabre,women,1
+2016,451,Coupe du Monde,Legnano,italy,20-05-2016,21-05-2016,epee,women,1
+2016,1226,Tournoi satellite sabre féminin,Reykjavik,iceland,21-05-2016,21-05-2016,sabre,women,1
+2016,122,Reinhold-Würth-Cup,Tauberbischofsheim,germany,20-05-2016,21-05-2016,foil,women,1
+2016,471,Coupe du Monde,Foshan,china,13-05-2016,14-05-2016,sabre,women,1
+2016,486,St Duje' s Cup,Split,croatia,14-05-2016,15-05-2016,epee,women,1
+2016,1281,Trekanten International,Copenhague,denmark,08-05-2016,08-05-2016,foil,women,1
+2016,393,Cole Cup,Londres,great britain,08-05-2016,08-05-2016,epee,women,1
+2016,1224,Tournoi satellite,Londres,great britain,07-05-2016,07-05-2016,sabre,women,1
+2016,95,Grand Prix - test event,Rio de Janeiro,brazil,22-04-2016,23-04-2016,epee,women,1
+2016,584,Championnats d'Afrique,Alger,algeria,15-04-2016,19-04-2016,epee,women,1
+2016,586,Championnats d'Afrique,Alger,algeria,15-04-2016,19-04-2016,foil,women,1
+2016,588,Championnats d'Afrique,Alger,algeria,15-04-2016,19-04-2016,sabre,women,1
+2016,1059,Championnats de qualification - Afrique,Alger,algeria,14-04-2016,14-04-2016,epee,women,1
+2016,1061,Championnats de qualification - Afrique,Alger,algeria,14-04-2016,14-04-2016,foil,women,1
+2016,1063,Championnats de qualification - Afrique,Alger,algeria,14-04-2016,14-04-2016,sabre,women,1
+2016,1077,Championnats de qualification européens,Prague,czechia,17-04-2016,17-04-2016,epee,women,1
+2016,1079,Championnats de qualification européens,Prague,czechia,16-04-2016,16-04-2016,foil,women,1
+2016,1081,Championnats de qualification européens,Prague,czechia,17-04-2016,17-04-2016,sabre,women,1
+2016,1071,Championnats de qualification panaméricains,San-Jose,costa rica,17-04-2016,17-04-2016,epee,women,1
+2016,1073,Championnats de qualifications panaméricains,San-Jose,costa rica,15-04-2016,15-04-2016,foil,women,1
+2016,1075,Championnats de qualification panaméricains,San-Jose,costa rica,16-04-2016,16-04-2016,sabre,women,1
+2016,1011,Championnats asiatiques,Wuxi,china,13-04-2016,18-04-2016,sabre,women,1
+2016,1013,Championnats asiatiques,Wuxi,china,13-04-2016,18-04-2016,epee,women,1
+2016,1014,Championnats asiatiques,Wuxi,china,13-04-2016,18-04-2016,foil,women,1
+2016,1065,Championnats de qualification Asie-Océanie,Wuxi,china,11-04-2016,11-04-2016,epee,women,1
+2016,1067,Championnats de qualification Asie-Océanie,Wuxi,china,11-04-2016,11-04-2016,foil,women,1
+2016,1069,Championnats de qualification Asie-Océanie,Wuxi,china,12-04-2016,12-04-2016,sabre,women,1
+2016,468,Grand Prix,Seoul,korea,25-03-2016,26-03-2016,sabre,women,1
+2016,449,WESTEND Grand Prix,Budapest,hungary,18-03-2016,20-03-2016,epee,women,1
+2016,484,Tournoi satellite,Rome,italy,19-03-2016,19-03-2016,sabre,women,1
+2016,121,Grand Prix,La Havane,cuba,11-03-2016,12-03-2016,foil,women,1
+2016,553,Tournoi satellite,Sofia,bulgaria,12-03-2016,13-03-2016,epee,women,1
+2016,151,Coupe du Monde,Sint-Niklaas ,belgium,19-02-2016,20-02-2016,sabre,women,1
+2016,92,Coupe du Monde,Buenos Aires,argentina,12-02-2016,13-02-2016,epee,women,1
+2016,129,Coupe du Monde,Alger,algeria,05-02-2016,06-02-2016,foil,women,1
+2016,469,Coupe du Monde,Athènes,greece,29-01-2016,30-01-2016,sabre,women,1
+2016,85,Ciudad de Barcelona,Barcelone,spain,22-01-2016,23-01-2016,epee,women,1
+2016,127,The Artus Court PKO BP,Gdansk,poland,15-01-2016,16-01-2016,foil,women,1
+2016,485,Tournoi satellite,Istanbul,türkiye,09-01-2016,10-01-2016,sabre,women,1
+2016,175,Rehbinder Prize,Stockholm,sweden,10-01-2016,10-01-2016,epee,women,1
+2016,1319,Tournoi satellite,Cancun,mexico,15-12-2015,16-12-2015,sabre,women,1
+2016,152,Absolute Fencing Gear Sabre Grand Prix,Boston,usa,12-12-2015,13-12-2015,sabre,women,1
+2016,1230,Tournoi satellite,Kocaeli,türkiye,12-12-2015,13-12-2015,foil,women,1
+2016,79,Grand Prix du Qatar 2015,Doha,qatar,05-12-2015,06-12-2015,epee,women,1
+2016,458,Grand Prix,Turin,italy,27-11-2015,28-11-2015,foil,women,1
+2016,1218,Tournoi satellite,Ankara,türkiye,14-11-2015,15-11-2015,foil,women,1
+2016,97,Tournoi International,Nanjing,china,13-11-2015,14-11-2015,epee,women,1
+2016,655,Tournoi satellite épée féminine,Copenhague,denmark,08-11-2015,08-11-2015,epee,women,1
+2016,118,Coupe du Monde,St-Maur,france,06-11-2015,07-11-2015,foil,women,1
+2016,470,Trophée BNP-Paribas,Orléans,france,30-10-2015,31-10-2015,sabre,women,1
+2016,170,Tournoi satellite épée féminine,Oslo,norway,01-11-2015,01-11-2015,epee,women,1
+2016,80,Coupe du Monde,Legnano,italy,23-10-2015,24-10-2015,epee,women,1
+2016,125,Coupe du Monde,Cancun,mexico,16-10-2015,17-10-2015,foil,women,1
+2016,397,Tournoi satellite,Cancun,mexico,13-10-2015,14-10-2015,foil,women,1
+2016,177,"Kupittaa tournament, épée féminine",Turku,finland,18-10-2015,18-10-2015,epee,women,1
+2016,173,Belgrade Trophy,Belgrade,serbia,10-10-2015,10-10-2015,epee,women,1
+2016,467,Coupe du monde,Caracas,venezuela,09-10-2015,10-10-2015,sabre,women,1

@@ -1,0 +1,181 @@
+season,competitionId,name,location,country,startDate,endDate,weapon,gender,hasResults
+2007,242,Championnats du Monde,St-Petersbourg,russia,02-10-2007,03-10-2007,epee,men,1
+2007,246,Championnats du Monde,St-Petersbourg,russia,01-10-2007,02-10-2007,sabre,men,1
+2007,244,Championnats du Monde,St-Petersbourg,russia,29-09-2007,30-09-2007,foil,men,1
+2007,656,Tournoi satellite,Istanbul,türkiye,22-09-2007,23-09-2007,epee,men,1
+2007,798,Championnats Panaméricains,Montreal,canada,27-08-2007,27-08-2007,foil,men,1
+2007,799,Championnats Panaméricains,Montreal,canada,28-08-2007,28-08-2007,epee,men,1
+2007,802,Championnats Panaméricains,Montreal,canada,29-08-2007,29-08-2007,sabre,men,1
+2007,782,Championnats asiatiques seniors,Nantong,china,22-08-2007,27-08-2007,epee,men,1
+2007,784,Championnats asiatiques seniors,Nantong,china,22-08-2007,27-08-2007,foil,men,1
+2007,786,Championnats asiatiques seniors,Nantong,china,22-08-2007,25-08-2007,sabre,men,1
+2007,846,The 24th Universiade Bangkok 2007,Bangkok,thailand,13-08-2007,13-08-2007,sabre,men,0
+2007,841,The 24th Universiade Bangkok 2007,Bangkok,thailand,11-08-2007,11-08-2007,epee,men,0
+2007,843,The 24th Universiade Bangkok 2007,Bangkok,thailand,12-08-2007,12-08-2007,foil,men,0
+2007,585,Jeux Africains,Alger,algeria,13-07-2007,13-07-2007,epee,men,1
+2007,587,Jeux Africains,Alger,algeria,12-07-2007,12-07-2007,foil,men,1
+2007,589,Jeux Africains,Alger,algeria,14-07-2007,14-07-2007,sabre,men,1
+2007,641,Jeux Panaméricains,Rio de Janeiro,brazil,14-07-2007,21-07-2007,epee,men,0
+2007,643,Jeux Panaméricains,Rio de Janeiro,brazil,14-07-2007,21-07-2007,foil,men,0
+2007,645,Jeux Panaméricains,Rio de Janeiro,brazil,14-07-2007,21-07-2007,sabre,men,0
+2007,739,Championnats d'Europe,Gand,belgium,02-07-2007,07-07-2007,epee,men,1
+2007,741,Championnats d'Europe,Gand,belgium,02-07-2007,07-07-2007,foil,men,1
+2007,743,Championnats d'Europe,Gand,belgium,02-07-2007,07-07-2007,sabre,men,1
+2007,111,Jockey Club Argentino,Buenos Aires,argentina,23-06-2007,24-06-2007,epee,men,1
+2007,474,Coupe du Monde,Las Vegas,usa,23-06-2007,24-06-2007,sabre,men,1
+2007,186,Cole Cup,Newcastle,great britain,23-06-2007,24-06-2007,sabre,men,1
+2007,106,Coupe du Monde,Bogota,colombia,15-06-2007,16-06-2007,epee,men,1
+2007,146,Copa Virgen Del Valle Aniversario I.N.D,Isla de Margarita,venezuela,15-06-2007,16-06-2007,foil,men,1
+2007,476,Copa Virgen Del Valle Aniversario I.N.D,Isla de Margarita,venezuela,15-06-2007,16-06-2007,sabre,men,1
+2007,115,Copa Mundial de Puerto Rico,Caguas,puerto rico,08-06-2007,09-06-2007,epee,men,1
+2007,147,Copa Villa La Habana,La Havane,cuba,10-06-2007,11-06-2007,foil,men,1
+2007,185,Tournoi satellite sabre masculin,Reykjavik,iceland,09-06-2007,10-06-2007,sabre,men,1
+2007,105,Epée internationale,Montréal,canada,01-06-2007,02-06-2007,epee,men,1
+2007,463,Epée internationale,Montréal,canada,31-05-2007,01-06-2007,foil,men,1
+2007,163,Trophée Luxardo,Padoue,italy,01-06-2007,02-06-2007,sabre,men,1
+2007,184,Tournoi satellite sabre masculin,Helsinki,finland,26-05-2007,26-05-2007,sabre,men,1
+2007,136,Grand Prix,Le Caire,egypt,25-05-2007,26-05-2007,foil,men,1
+2007,164,Villa de Madrid,Madrid,spain,25-05-2007,26-05-2007,sabre,men,1
+2007,521,Challenge Australia,Sydney,australia,26-05-2007,27-05-2007,epee,men,1
+2007,145,Prince Takamado WC,Tokyo,japan,19-05-2007,20-05-2007,foil,men,1
+2007,165,Sabre de Wolodyjowski,Varsovie,poland,19-05-2007,20-05-2007,sabre,men,1
+2007,104,Challenge Monal,Paris,france,11-05-2007,12-05-2007,epee,men,1
+2007,139,Coupe du Monde,Shanghai,china,11-05-2007,12-05-2007,foil,men,1
+2007,413,Coupe du Monde,Bangkok,thailand,04-05-2007,05-05-2007,sabre,men,1
+2007,138,SK Trophée Séoul,Séoul,korea,05-05-2007,06-05-2007,foil,men,1
+2007,491,Coupe du Monde,Alger,algeria,23-03-2007,24-03-2007,sabre,men,1
+2007,398,Tournoi satellite fleuret masculin,Copenhague,denmark,24-03-2007,25-03-2007,foil,men,1
+2007,108,Heidenheimer Pokal,Heidenheim,germany,23-03-2007,24-03-2007,epee,men,1
+2007,140,Coupe Ville de Venise,Venise,italy,23-03-2007,24-03-2007,foil,men,1
+2007,143,Coupe du Monde Cidade de Espinho,Espinho,portugal,17-03-2007,18-03-2007,foil,men,1
+2007,475,Coupe du Monde,Tunis,tunisia,16-03-2007,17-03-2007,sabre,men,1
+2007,181,Scottish international,Edinburgh,great britain,10-03-2007,11-03-2007,sabre,men,1
+2007,396,Scottish international,Edinburgh,great britain,10-03-2007,11-03-2007,epee,men,1
+2007,134,Fleuret de St-Petersbourg,St-Petersbourg,russia,09-03-2007,10-03-2007,foil,men,1
+2007,112,Challenge Bernadotte Stockholm GP,Stockholm,sweden,09-03-2007,10-03-2007,epee,men,1
+2007,113,Grand Prix de Berne,Berne,switzerland,03-03-2007,04-03-2007,epee,men,1
+2007,142,Löwe von Bonn,Bonn,germany,03-03-2007,04-03-2007,foil,men,1
+2007,162,Glaive D’Asparoukh,Plovdiv,bulgaria,02-03-2007,03-03-2007,sabre,men,1
+2007,156,Sabre de Moscou,Moscow,russia,16-02-2007,17-02-2007,sabre,men,1
+2007,180,Tournoi satellite sabre masculin,Orebro,sweden,17-02-2007,18-02-2007,sabre,men,1
+2007,98,Glaive de Tallin,Tallin,estonia,17-02-2007,18-02-2007,epee,men,1
+2007,626,Star Cup Belgrade,Belgrade,serbia,10-02-2007,11-02-2007,foil,men,1
+2007,158,Coupe Gerevich-Kovacs-Karpati,Budapest,hungary,10-02-2007,11-02-2007,sabre,men,1
+2007,99,Coupe du Monde Cidade de Lisboa,Lisbonne,portugal,10-02-2007,11-02-2007,epee,men,1
+2007,394,SAF Pokalen,Stockholm,sweden,10-02-2007,11-02-2007,epee,men,1
+2007,160,Coupe Akropolis,Athènes,greece,02-02-2007,03-02-2007,sabre,men,1
+2007,137,Tournoi Ciudad de A Coruña,La Coruña,spain,03-02-2007,04-02-2007,foil,men,1
+2007,109,Trophée Carroccio,Legnano,italy,02-02-2007,03-02-2007,epee,men,1
+2007,385,CM Cheikh Fahed Al-Ahmed Al-Soubah,Koweit City,kuwait,26-01-2007,27-01-2007,epee,men,1
+2007,135,Challenge International de Paris,Paris,france,26-01-2007,27-01-2007,foil,men,1
+2007,387,Grand Prix du Qatar 2007,Doha,qatar,19-01-2007,20-01-2007,epee,men,1
+2007,519,Coupe du Monde,Istanbul,türkiye,20-01-2007,21-01-2007,sabre,men,1
+2007,132,Copenhagen Cup,Copenhague,denmark,13-01-2007,14-01-2007,foil,men,1
+2007,179,Tournoi satellite sabre masculin,Copenhague,denmark,13-01-2007,14-01-2007,sabre,men,1
+2007,116,Coupe du Monde,Kish Island,iran,12-01-2007,13-01-2007,epee,men,1
+2007,168,Coupe du Monde,Kish Island,iran,12-01-2007,13-01-2007,sabre,men,1
+2007,615,Jeux Asiatiques,Doha,qatar,01-12-2006,15-12-2006,epee,men,0
+2007,617,Jeux Asiatiques,Doha,qatar,01-12-2006,15-12-2006,foil,men,0
+2007,619,Jeux Asiatiques,Doha,qatar,01-12-2006,15-12-2006,sabre,men,0
+2007,554,51 Trophy of Belgrade,Belgrade,serbia,25-11-2006,25-11-2006,epee,men,1
+2007,172,Tournoi satellite sabre masculin,Amsterdam,netherlands,18-11-2006,19-11-2006,sabre,men,1
+2007,392,Tournoi satellite fleuret masculin,Amsterdam,netherlands,18-11-2006,19-11-2006,foil,men,1
+2007,727,8ème Jeux Sudaméricains,Buenos Aires,argentina,10-11-2006,15-11-2006,epee,men,0
+2007,729,8ème Jeux Sudaméricains,Buenos Aires,argentina,10-11-2006,15-11-2006,foil,men,0
+2007,731,8ème Jeux Sudaméricains,Buenos Aires,argentina,10-11-2006,15-11-2006,sabre,men,0
+2007,176,Tournoi satellite épée masculine,Oslo,norway,11-11-2006,12-11-2006,epee,men,1
+2007,178,Tournoi satellite épée masculine,Copenhague,denmark,28-10-2006,29-10-2006,epee,men,1
+2007,715,Championnats Panaméricains,Valencia,venezuela,27-10-2006,27-10-2006,epee,men,1
+2007,717,Championnats Panaméricains,Valencia,venezuela,26-10-2006,26-10-2006,foil,men,1
+2007,719,Championnats Panaméricains,Valencia,venezuela,27-10-2006,27-10-2006,sabre,men,1
+2007,182,Tournoi satellite sabre masculin,Gand,belgium,21-10-2006,22-10-2006,sabre,men,1
+2007,391,Leon Paul satellite fleuret masculin,Londres,great britain,21-10-2006,22-10-2006,foil,men,1
+2007,174,Kupittaa tournament,Turku,finland,14-10-2006,14-10-2006,epee,men,1
+2007,171,Tournoi satellite épée masculine,Arhus,denmark,09-09-2006,10-09-2006,epee,men,1
+2007,243,Championnats du Monde,St-Petersbourg,russia,03-10-2007,04-10-2007,foil,women,1
+2007,241,Championnats du Monde,St-Petersbourg,russia,30-09-2007,01-10-2007,epee,women,1
+2007,245,Championnats du Monde,St-Petersbourg,russia,28-09-2007,29-09-2007,sabre,women,1
+2007,655,Tournoi satellite,Istanbul,türkiye,22-09-2007,23-09-2007,epee,women,1
+2007,797,Championnats Panaméricains,Montreal,canada,27-08-2007,27-08-2007,epee,women,1
+2007,800,Championnats Panaméricains,Montreal,canada,29-08-2007,29-08-2007,foil,women,1
+2007,801,Championnats Panaméricains,Montreal,canada,28-08-2007,28-08-2007,sabre,women,1
+2007,781,Championnats asiatiques seniors,Nantong,china,22-08-2007,27-08-2007,epee,women,1
+2007,783,Championnats asiatiques seniors,Nantong,china,22-08-2007,27-08-2007,foil,women,1
+2007,785,Championnats asiatiques seniors,Nantong,china,22-08-2007,27-08-2007,sabre,women,1
+2007,845,The 24th Universiade Bangkok 2007,Bangkok,thailand,13-08-2007,13-08-2007,foil,women,0
+2007,842,The 24th Universiade Bangkok 2007,Bangkok,thailand,11-08-2007,11-08-2007,sabre,women,0
+2007,844,The 24th Universiade Bangkok 2007,Bangkok,thailand,12-08-2007,12-08-2007,epee,women,0
+2007,584,Jeux Africains,Alger,algeria,12-07-2007,12-07-2007,epee,women,1
+2007,586,Jeux Africains,Alger,algeria,14-07-2007,14-07-2007,foil,women,1
+2007,588,Jeux Africains,Alger,algeria,13-07-2007,13-07-2007,sabre,women,1
+2007,640,Jeux Panaméricains,Rio de Janeiro,brazil,14-07-2007,21-07-2007,epee,women,0
+2007,642,Jeux Panaméricains,Rio de Janeiro,brazil,14-07-2007,21-07-2007,foil,women,0
+2007,644,Jeux Panaméricains,Rio de Janeiro,brazil,14-07-2007,21-07-2007,sabre,women,0
+2007,738,Championnats d'Europe,Gand,belgium,02-07-2007,07-07-2007,epee,women,1
+2007,740,Championnats d'Europe,Gand,belgium,02-07-2007,07-07-2007,foil,women,1
+2007,742,Championnats d'Europe,Gand,belgium,02-07-2007,07-07-2007,sabre,women,1
+2007,130,World Cup competition,Las Vegas,usa,22-06-2007,23-06-2007,foil,women,1
+2007,471,Coupe du Monde,Las Vegas,usa,22-06-2007,23-06-2007,sabre,women,1
+2007,485,Cole Cup,Newcastle,great britain,23-06-2007,24-06-2007,sabre,women,1
+2007,486,Cole Cup,Newcastle,great britain,23-06-2007,24-06-2007,epee,women,1
+2007,555,Cole Cup,Newcastle,great britain,23-06-2007,24-06-2007,foil,women,1
+2007,131,Tournoi Nancy Uranga,La Havane,cuba,13-06-2007,14-06-2007,foil,women,1
+2007,155,Coupe du Monde,La Havane,cuba,16-06-2007,17-06-2007,sabre,women,1
+2007,95,Coupe du Monde,La Havane,cuba,08-06-2007,09-06-2007,epee,women,1
+2007,484,Tournoi satellite sabre féminin,Reykjavik,iceland,09-06-2007,10-06-2007,sabre,women,1
+2007,128,Coupe Buenos Aires,Buenos Aires,argentina,01-06-2007,02-06-2007,foil,women,1
+2007,451,Epée internationale,Montréal,canada,01-06-2007,02-06-2007,epee,women,1
+2007,676,Coupe du Monde,Tianjin,china,01-06-2007,02-06-2007,sabre,women,1
+2007,464,Coupe du Monde,Hanoi,vietnam,25-05-2007,26-05-2007,sabre,women,1
+2007,652,Tournoi satellite sabre féminin,Helsinki,finland,26-05-2007,26-05-2007,sabre,women,1
+2007,457,World Cup,Le Caire,egypt,25-05-2007,26-05-2007,foil,women,1
+2007,97,Challenge Australia,Sydney,australia,26-05-2007,27-05-2007,epee,women,1
+2007,522,Candidature A,Koblenz,germany,19-05-2007,20-05-2007,sabre,women,1
+2007,449,Tournoi international,Nankin,china,18-05-2007,19-05-2007,epee,women,1
+2007,129,Prince Takamado WC,Tokyo,japan,18-05-2007,19-05-2007,foil,women,1
+2007,470,Challenge Yves Brasseur,Gand,belgium,12-05-2007,13-05-2007,sabre,women,1
+2007,122,Coupe du Monde,Shanghai,china,12-05-2007,13-05-2007,foil,women,1
+2007,469,Coupe du Monde,Klagenfurt,austria,05-05-2007,06-05-2007,sabre,women,1
+2007,121,SK Trophée Séoul,Séoul,korea,04-05-2007,05-05-2007,foil,women,1
+2007,520,Tournoi satellite epee feminine,Split,croatia,05-05-2007,06-05-2007,epee,women,1
+2007,468,Coupe du Monde,Alger,algeria,23-03-2007,24-03-2007,sabre,women,1
+2007,397,Tournoi satellite fleuret féminin,Copenhague,denmark,24-03-2007,25-03-2007,foil,women,1
+2007,85,Souvenir J. Nowara,Luxembourg,luxembourg,24-03-2007,25-03-2007,epee,women,1
+2007,518,Challenge Jeanty,Marseille,france,23-03-2007,24-03-2007,foil,women,1
+2007,125,Cup Eximbank,Budapest,hungary,17-03-2007,18-03-2007,foil,women,1
+2007,447,Coupe du Monde,Florina,greece,17-03-2007,18-03-2007,epee,women,1
+2007,151,Tournoi international,Foggia,italy,16-03-2007,17-03-2007,sabre,women,1
+2007,395,Scottish International,Edinburgh,great britain,10-03-2007,11-03-2007,epee,women,1
+2007,481,Tournoi satellite sabre féminin,Edinburgh,great britain,10-03-2007,11-03-2007,sabre,women,1
+2007,118,Fleuret de St-Petersbourg,St-Petersbourg,russia,09-03-2007,10-03-2007,foil,women,1
+2007,516,Epee de St-Petersbourg,St-Petersbourg,russia,10-03-2007,11-03-2007,epee,women,1
+2007,458,The Artus Court PKO BP,Gdansk,poland,02-03-2007,03-03-2007,foil,women,1
+2007,82,Würth Cup,Tauberbischofsheim,germany,03-03-2007,04-03-2007,epee,women,1
+2007,689,Coupe du Monde,V.Leganés-Madrid,spain,03-03-2007,04-03-2007,sabre,women,1
+2007,150,Coupe du Monde,Budapest,hungary,23-02-2007,24-02-2007,sabre,women,1
+2007,127,Cup der Sparkasse Leipzig,Leipzig,germany,24-02-2007,25-02-2007,foil,women,1
+2007,86,Challenge international de St-Maur,Saint-Maur,france,24-02-2007,25-02-2007,epee,women,1
+2007,92,Ciudad de Barcelona,Barcelone,spain,16-02-2007,17-02-2007,epee,women,1
+2007,149,Sabre de Moscou,Moscow,russia,16-02-2007,17-02-2007,sabre,women,1
+2007,124,Coupe du Monde,Salzbourg,austria,17-02-2007,18-02-2007,foil,women,1
+2007,627,Star Cup Belgrade,Belgrade,serbia,10-02-2007,11-02-2007,foil,women,1
+2007,152,Trophée BNP-Paribas,Orléans,france,09-02-2007,10-02-2007,sabre,women,1
+2007,517,Tournoi international,Rome,italy,09-02-2007,10-02-2007,epee,women,1
+2007,393,SAF Pokalen,Stockholm,sweden,10-02-2007,11-02-2007,epee,women,1
+2007,467,England Cup,Londres,great britain,03-02-2007,04-02-2007,sabre,women,1
+2007,80,Prague d’Or,Prague,czechia,27-01-2007,28-01-2007,epee,women,1
+2007,79,Westend Cup,Budapest,hungary,19-01-2007,20-01-2007,epee,women,1
+2007,614,Jeux Asiatiques,Doha,qatar,01-12-2006,15-12-2006,epee,women,0
+2007,616,Jeux Asiatiques,Doha,qatar,01-12-2006,15-12-2006,foil,women,0
+2007,618,Jeux Asiatiques,Doha,qatar,01-12-2006,15-12-2006,sabre,women,0
+2007,553,51 Trophy of Belgrade,Belgrade,serbia,25-11-2006,25-11-2006,epee,women,1
+2007,726,8ème Jeux Sudaméricains,Buenos Aires,argentina,10-11-2006,15-11-2006,epee,women,0
+2007,728,8ème Jeux Sudaméricains,Buenos Aires,argentina,10-11-2006,15-11-2006,foil,women,0
+2007,730,8ème Jeux Sudaméricains,Buenos Aires,argentina,10-11-2006,15-11-2006,sabre,women,0
+2007,175,Tournoi satellite épée féminine,Oslo,norway,11-11-2006,12-11-2006,epee,women,1
+2007,177,Tournoi satellite épée féminine,Copenhague,denmark,28-10-2006,29-10-2006,epee,women,1
+2007,714,Championnats Panaméricains,Valencia,venezuela,26-10-2006,26-10-2006,epee,women,1
+2007,716,Championnats Panaméricains,Valencia,venezuela,27-10-2006,27-10-2006,foil,women,1
+2007,718,Championnats Panaméricains,Valencia,venezuela,26-10-2006,26-10-2006,sabre,women,1
+2007,173,Kupitta tournament,Turku,finland,15-10-2006,15-10-2006,epee,women,1
+2007,170,Tournoi satellite épée féminine,Arhus,denmark,09-09-2006,10-09-2006,epee,women,1

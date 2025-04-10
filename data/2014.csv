@@ -1,0 +1,118 @@
+season,competitionId,name,location,country,startDate,endDate,weapon,gender,hasResults
+2014,1164,Jeux Asiatiques,Incheon,korea,20-09-2014,25-09-2014,epee,men,0
+2014,1168,Jeux Asiatiques,Incheon,korea,20-09-2014,25-09-2014,foil,men,0
+2014,1170,Jeux Asiatiques,Incheon,korea,20-09-2014,25-09-2014,sabre,men,0
+2014,242,Championnats du Monde,Kazan,russia,17-07-2014,20-07-2014,epee,men,1
+2014,244,Championnats du Monde,Kazan,russia,16-07-2014,19-07-2014,foil,men,1
+2014,246,Championnats du Monde,Kazan,russia,15-07-2014,18-07-2014,sabre,men,1
+2014,1010,Championnats asiatiques,Suwon City,korea,02-07-2014,07-07-2014,epee,men,1
+2014,1012,Championnats asiatiques,Suwon City,korea,02-07-2014,07-07-2014,foil,men,1
+2014,1015,Championnats asiatiques,Suwon City,korea,02-07-2014,07-07-2014,sabre,men,1
+2014,585,Championnats d'Afrique,Le Caire,egypt,21-06-2014,21-06-2014,epee,men,1
+2014,587,Championnats d'Afrique,Le Caire,egypt,20-06-2014,20-06-2014,foil,men,1
+2014,589,Championnats d'Afrique,Le Caire,egypt,22-06-2014,22-06-2014,sabre,men,1
+2014,799,Championnats Panaméricains,San José,costa rica,02-06-2014,02-06-2014,epee,men,1
+2014,802,Championnats Panaméricains,San José,costa rica,03-06-2014,03-06-2014,sabre,men,1
+2014,739,Championnats d'Europe,Strasbourg,france,07-06-2014,14-06-2014,epee,men,1
+2014,741,Championnats d'Europe,Strasbourg,france,07-06-2014,14-06-2014,foil,men,1
+2014,743,Championnats d'Europe,Strasbourg,france,07-06-2014,14-06-2014,sabre,men,1
+2014,798,Championnats Panaméricains,San José,costa rica,01-06-2014,01-06-2014,foil,men,1
+2014,111,Jockey Club Argentino,Buenos Aires,argentina,23-05-2014,24-05-2014,epee,men,1
+2014,147,Copa Villa La Habana,La Havane,cuba,23-05-2014,24-05-2014,foil,men,1
+2014,162,Glaive D’Asparoukh,Plovdiv,bulgaria,24-05-2014,25-05-2014,sabre,men,1
+2014,793,Tournoi satellite,Split,croatia,17-05-2014,18-05-2014,epee,men,1
+2014,165,Sabre de Wolodyjowski,Varsovie,poland,17-05-2014,18-05-2014,sabre,men,1
+2014,113,Grand Prix de Berne,Berne,switzerland,10-05-2014,11-05-2014,epee,men,1
+2014,398,Tournoi satellite fleuret masculin,Copenhague,denmark,10-05-2014,10-05-2014,foil,men,1
+2014,185,Tournoi satellite sabre masculin,Reykjavik,iceland,11-05-2014,11-05-2014,sabre,men,1
+2014,474,Absolute Fencing Korfanty World Cup,Chicago,usa,02-05-2014,03-05-2014,sabre,men,1
+2014,104,Challenge Réseau Ferré de France – trophée Monal,Paris,france,02-05-2014,03-05-2014,epee,men,1
+2014,145,Prince Takamado WC,Tokyo,japan,03-05-2014,04-05-2014,foil,men,1
+2014,160,Coupe Akropolis,Athènes,greece,25-04-2014,26-04-2014,sabre,men,1
+2014,138,SK Trophée Séoul,Séoul,korea,25-04-2014,26-04-2014,foil,men,1
+2014,142,Löwe von Bonn,Bonn,germany,21-03-2014,22-03-2014,foil,men,1
+2014,156,Sabre de Moscou,Moscow,russia,21-03-2014,22-03-2014,sabre,men,1
+2014,112,Victor Gantsevich Grand Prix,Vancouver - British Columbia,canada,22-03-2014,23-03-2014,epee,men,1
+2014,1022,Int. Hapoel games,Ashkelon,israel,15-03-2014,15-03-2014,epee,men,1
+2014,140,Coupe Ville de Venise,Venise,italy,15-03-2014,16-03-2014,foil,men,1
+2014,158,Gerevich-Kovacs-Karpati Grand Prix for the Mol Cup,Budapest,hungary,08-03-2014,09-03-2014,sabre,men,1
+2014,134,Fleuret de St-Petersbourg,St-Petersbourg,russia,01-03-2014,02-03-2014,foil,men,1
+2014,137,Tournoi Ciudad de A Coruña,La Coruña,spain,21-02-2014,22-02-2014,foil,men,1
+2014,98,Glaive de Tallin,Tallin,estonia,21-02-2014,22-02-2014,epee,men,1
+2014,108,Heidenheimer Pokal,Heidenheim,germany,14-02-2014,15-02-2014,epee,men,1
+2014,163,Trophée Luxardo,Padoue,italy,14-02-2014,15-02-2014,sabre,men,1
+2014,164,Villa de Madrid,Madrid,spain,07-02-2014,08-02-2014,sabre,men,1
+2014,385,Coupe du monde,Legnano,italy,24-01-2014,25-01-2014,epee,men,1
+2014,387,Grand Prix du Qatar 2014,Doha,qatar,16-01-2014,17-01-2014,epee,men,1
+2014,135,Challenge International de Paris,Paris,france,17-01-2014,18-01-2014,foil,men,1
+2014,394,SAF Pokalen,Stockholm,sweden,11-01-2014,11-01-2014,epee,men,1
+2014,184,Normann-Jørgensen Cup,Copenhague,denmark,04-01-2014,04-01-2014,sabre,men,1
+2014,796,Tournoi satellite,Dublin,ireland,07-12-2013,07-12-2013,epee,men,1
+2014,554,Belgrade Trophy,Belgrade,serbia,30-11-2013,30-11-2013,epee,men,1
+2014,391,Leon Paul satellite fleuret masculin,Londres,great britain,01-12-2013,01-12-2013,foil,men,1
+2014,176,Tournoi satellite épée masculine,Oslo,norway,23-11-2013,23-11-2013,epee,men,1
+2014,656,Tournoi satellite,Antalya,türkiye,16-11-2013,17-11-2013,epee,men,1
+2014,172,Tournoi satellite sabre masculin,Amsterdam,netherlands,09-11-2013,10-11-2013,sabre,men,1
+2014,392,Tournoi satellite fleuret masculin,Amsterdam,netherlands,09-11-2013,10-11-2013,foil,men,1
+2014,171,Tournoi satellite épée masculine,Arhus,denmark,09-11-2013,10-11-2013,epee,men,1
+2014,178,Tournoi satellite épée masculine,Copenhague,denmark,26-10-2013,27-10-2013,epee,men,1
+2014,1116,World Combat Games,St-Petersbourg,russia,24-10-2013,26-10-2013,epee,men,0
+2014,1118,World Combat Games,St-Petersbourg,russia,24-10-2013,26-10-2013,foil,men,0
+2014,1120,World Combat Games,St-Petersbourg,russia,24-10-2013,26-10-2013,sabre,men,0
+2014,182,Tournoi satellite sabre masculin,Gand,belgium,19-10-2013,20-10-2013,sabre,men,1
+2014,174,"Kupittaa tournament, épée masculine",Turku,finland,12-10-2013,12-10-2013,epee,men,1
+2014,1163,Jeux Asiatiques,Incheon,korea,20-09-2014,25-09-2014,epee,women,0
+2014,1167,Jeux Asiatiques,Incheon,korea,20-09-2014,25-09-2014,foil,women,0
+2014,1169,Jeux Asiatiques,Incheon,korea,20-09-2014,25-09-2014,sabre,women,0
+2014,241,Championnats du Monde,Kazan,russia,17-07-2014,20-07-2014,epee,women,1
+2014,243,Championnats du Monde,Kazan,russia,16-07-2014,19-07-2014,foil,women,1
+2014,245,Championnats du Monde,Kazan,russia,15-07-2014,18-07-2014,sabre,women,1
+2014,1011,Championnats asiatiques,Suwon City,korea,02-07-2014,07-07-2014,sabre,women,1
+2014,1013,Championnats asiatiques,Suwon City,korea,02-07-2014,07-07-2014,epee,women,1
+2014,1014,Championnats asiatiques,Suwon City,korea,02-07-2014,07-07-2014,foil,women,1
+2014,584,Championnats d'Afrique,Le Caire,egypt,20-06-2014,20-06-2014,epee,women,1
+2014,586,Championnats d'Afrique,Le Caire,egypt,22-06-2014,22-06-2014,foil,women,1
+2014,588,Championnats d'Afrique,Le Caire,egypt,21-06-2014,21-06-2014,sabre,women,1
+2014,800,Championnats Panaméricains,San José,costa rica,03-06-2014,03-06-2014,foil,women,1
+2014,801,Championnats Panaméricains,San José,costa rica,02-06-2014,02-06-2014,sabre,women,1
+2014,738,Championnats d'Europe,Strasbourg,france,07-06-2014,14-06-2014,epee,women,1
+2014,740,Championnats d'Europe,Strasbourg,france,07-06-2014,14-06-2014,foil,women,1
+2014,742,Championnats d'Europe,Strasbourg,france,07-06-2014,14-06-2014,sabre,women,1
+2014,797,Championnats Panaméricains,San José,costa rica,01-06-2014,01-06-2014,epee,women,1
+2014,676,Coupe du Monde,Beijing,china,24-05-2014,25-05-2014,sabre,women,1
+2014,95,Grand Prix,La Havane,cuba,22-05-2014,23-05-2014,epee,women,1
+2014,457,Grand Prix,Marseille,france,23-05-2014,24-05-2014,foil,women,1
+2014,451,Epée internationale,Rio de Janeiro,brazil,16-05-2014,17-05-2014,epee,women,1
+2014,520,Tournoi satellite epee feminine,Split,croatia,17-05-2014,18-05-2014,epee,women,1
+2014,397,Tournoi satellite fleuret féminin,Copenhague,denmark,11-05-2014,11-05-2014,foil,women,1
+2014,484,Tournoi satellite sabre féminin,Reykjavik,iceland,10-05-2014,10-05-2014,sabre,women,1
+2014,471,Absolute Fencing Korfanty World Cup,Chicago,usa,02-05-2014,03-05-2014,sabre,women,1
+2014,122,Coupe du Monde,Shanghai,china,02-05-2014,03-05-2014,foil,women,1
+2014,121,SK Trophée Séoul,Séoul,korea,26-04-2014,27-04-2014,foil,women,1
+2014,449,Tournoi international,Xuzhou,china,26-04-2014,27-04-2014,epee,women,1
+2014,468,Grand Prix,Moscow,russia,21-03-2014,22-03-2014,sabre,women,1
+2014,129,Coupe du Monde,Turin,italy,21-03-2014,22-03-2014,foil,women,1
+2014,151,Tournoi international,Antalya,türkiye,14-03-2014,15-03-2014,sabre,women,1
+2014,127,Reinhold-Würth-Cup,Tauberbischofsheim,germany,14-03-2014,15-03-2014,foil,women,1
+2014,92,Ciudad de Barcelona,Barcelone,spain,07-03-2014,08-03-2014,epee,women,1
+2014,469,Coupe du Monde,Bolzano,italy,28-02-2014,01-03-2014,sabre,women,1
+2014,85,Coupe du Monde,St-Maur,france,28-02-2014,01-03-2014,epee,women,1
+2014,118,Fleuret de St-Petersbourg,St-Petersbourg,russia,26-02-2014,27-02-2014,foil,women,1
+2014,470,Challenge Yves Brasseur,Gand,belgium,21-02-2014,22-02-2014,sabre,women,1
+2014,125,Coupe du Monde,Budapest,hungary,07-02-2014,08-02-2014,foil,women,1
+2014,467,Coupe du monde,Dakar,senegal,07-02-2014,08-02-2014,sabre,women,1
+2014,97,"Coupe du Monde ""Sparkassen-Weltcup""",Leipzig,germany,07-02-2014,08-02-2014,epee,women,1
+2014,79,"Westend Grand Prix ""in Memoriam Sakovics Jozsef""",Budapest,hungary,01-02-2014,02-02-2014,epee,women,1
+2014,458,The Artus Court PKO BP,Gdansk,poland,31-01-2014,01-02-2014,foil,women,1
+2014,152,Trophée BNP-Paribas,Orléans,france,31-01-2014,01-02-2014,sabre,women,1
+2014,80,World Cup Qatar 2014,Doha,qatar,17-01-2014,18-01-2014,epee,women,1
+2014,393,SAF Pokalen,Stockholm,sweden,12-01-2014,12-01-2014,epee,women,1
+2014,553,Belgrade Trophy,Belgrade,serbia,30-11-2013,30-11-2013,epee,women,1
+2014,175,Tournoi satellite épée féminine,Oslo,norway,24-11-2013,24-11-2013,epee,women,1
+2014,655,Tournoi satellite,Antalya,türkiye,16-11-2013,17-11-2013,epee,women,1
+2014,170,Tournoi satellite épée féminine,Arhus,denmark,09-11-2013,10-11-2013,epee,women,1
+2014,177,Tournoi satellite épée féminine,Copenhague,denmark,26-10-2013,27-10-2013,epee,women,1
+2014,1115,World Combat Games,St-Petersbourg,russia,24-10-2013,26-10-2013,epee,women,0
+2014,1117,World Combat Games,St-Petersbourg,russia,24-10-2013,26-10-2013,foil,women,0
+2014,1119,World Combat Games,St-Petersbourg,russia,24-10-2013,26-10-2013,sabre,women,0
+2014,173,"Kupittaa tournament, épée féminine",Turku,finland,13-10-2013,13-10-2013,epee,women,1

@@ -1,0 +1,128 @@
+season,competitionId,name,location,country,startDate,endDate,weapon,gender,hasResults
+2017,1042,South East Asian Games,Kuala Lumpur,malaysia,21-08-2017,23-08-2017,epee,men,0
+2017,1044,South East Asian Games,Kuala Lumpur,malaysia,21-08-2017,23-08-2017,foil,men,0
+2017,1046,South East Asian Games,Kuala Lumpur,malaysia,21-08-2017,23-08-2017,sabre,men,0
+2017,1092,2017 Summer Universiades,Taipei,chinese taipei,20-08-2017,25-08-2017,epee,men,1
+2017,1094,2017 Summer Universiades,Taipei,chinese taipei,20-08-2017,25-08-2017,foil,men,1
+2017,1096,2017 Summer Universiade,Taipei,chinese taipei,20-08-2017,25-08-2017,sabre,men,1
+2017,242,Championnats du Monde,Leipzig,germany,19-07-2017,22-07-2017,epee,men,1
+2017,244,Championnats du Monde,Leipzig,germany,20-07-2017,23-07-2017,foil,men,1
+2017,246,Championnats du Monde,Leipzig,germany,19-07-2017,21-07-2017,sabre,men,1
+2017,1010,Championnats asiatiques,Hong Kong,"hong kong, china",16-06-2017,16-06-2017,epee,men,1
+2017,1012,Championnats asiatiques,Hong Kong,"hong kong, china",15-06-2017,15-06-2017,foil,men,1
+2017,1015,Championnats asiatiques,Hong Kong,"hong kong, china",17-06-2017,17-06-2017,sabre,men,1
+2017,798,Championnats Panaméricains,Montreal,canada,13-06-2017,13-06-2017,foil,men,1
+2017,799,Championnats Panaméricains,Montreal,canada,14-06-2017,14-06-2017,epee,men,1
+2017,802,Championnats Panaméricains,Montreal,canada,15-06-2017,15-06-2017,sabre,men,1
+2017,739,Championnats d'Europe,Tbilisi,georgia,13-06-2017,13-06-2017,epee,men,1
+2017,741,Championnats d'Europe,Tbilisi,georgia,12-06-2017,12-06-2017,foil,men,1
+2017,743,Championnats d'Europe,Tbilisi,georgia,15-06-2017,15-06-2017,sabre,men,1
+2017,585,Championnats d'Afrique,Le Caire,egypt,09-06-2017,09-06-2017,epee,men,1
+2017,587,Championnats d'Afrique,Le Caire,egypt,08-06-2017,08-06-2017,foil,men,1
+2017,589,Championnats d'Afrique,Le Caire,egypt,10-06-2017,10-06-2017,sabre,men,1
+2017,162,Grand Prix,Moscow,russia,02-06-2017,04-06-2017,sabre,men,1
+2017,113, Epee Grand Prix ,Bogota,colombia,26-05-2017,28-05-2017,epee,men,1
+2017,1330,Trekanten International,Copenhague,denmark,27-05-2017,27-05-2017,foil,men,1
+2017,1317,Tournoi satellite sabre masculin,Reykjavik,iceland,28-05-2017,28-05-2017,sabre,men,1
+2017,474,Villa de Madrid,Madrid,spain,19-05-2017,20-05-2017,sabre,men,1
+2017,145,Grand Prix,Shanghai,china,19-05-2017,21-05-2017,foil,men,1
+2017,1022,St Duje Cup,Split,croatia,20-05-2017,20-05-2017,epee,men,1
+2017,111,Challenge SNCF Réseau,Paris,france,12-05-2017,13-05-2017,epee,men,1
+2017,394,Tournoi satellite,San-Jose,costa rica,14-05-2017,14-05-2017,epee,men,1
+2017,147,Fleuret de St-Petersbourg,St-Petersbourg,russia,05-05-2017,06-05-2017,foil,men,1
+2017,165,Grand Prix,Seoul,korea,31-03-2017,01-04-2017,sabre,men,1
+2017,112,WESTEND Grand Prix,Budapest,hungary,24-03-2017,26-03-2017,epee,men,1
+2017,140,Absolute Fencing Gear Long Beach Foil Grand Prix,"Long Beach, California",usa,17-03-2017,18-03-2017,foil,men,1
+2017,186,Tournoi Satellite,Turku,finland,19-03-2017,19-03-2017,sabre,men,1
+2017,796,Tournoi Satellite,Turku,finland,18-03-2017,18-03-2017,epee,men,1
+2017,160,Sabre de Wolodyjowski,Varsovie,poland,24-02-2017,25-02-2017,sabre,men,1
+2017,104,Coupe du Monde,Vancouver,canada,17-02-2017,18-02-2017,epee,men,1
+2017,138,Löwe von Bonn,Bonn,germany,10-02-2017,11-02-2017,foil,men,1
+2017,156,Trophée Luxardo,Padoue,italy,03-02-2017,04-02-2017,sabre,men,1
+2017,1280,Tournoi Satellite,Terrassa (Barcelona),spain,04-02-2017,04-02-2017,foil,men,1
+2017,98,Heidenheimer Pokal,Heidenheim,germany,26-01-2017,27-01-2017,epee,men,1
+2017,142,Challenge International de Paris,Paris,france,20-01-2017,21-01-2017,foil,men,1
+2017,554,SAF-Pokalen,Stockholm,sweden,14-01-2017,14-01-2017,epee,men,1
+2017,158,Sabre Grand Prix,Cancun,mexico,16-12-2016,18-12-2016,sabre,men,1
+2017,1219,Leon Paul CuoTournoi satellite,Londres,great britain,18-12-2016,18-12-2016,foil,men,1
+2017,176,Tournoi Satellite,Taipei,chinese taipei,17-12-2016,18-12-2016,epee,men,1
+2017,398,Satellite fleuret masculin,Antalya,türkiye,10-12-2016,10-12-2016,foil,men,1
+2017,387,Grand Prix du Qatar,Doha,qatar,09-12-2016,11-12-2016,epee,men,1
+2017,163,Coupe du Monde,Györ,hungary,02-12-2016,03-12-2016,sabre,men,1
+2017,134,Grand Prix,Turin,italy,02-12-2016,04-12-2016,foil,men,1
+2017,108,Coupe du Monde,Buenos Aires,argentina,18-11-2016,19-11-2016,epee,men,1
+2017,656,Tournoi satellite ,Dublin,ireland,12-11-2016,12-11-2016,epee,men,1
+2017,137,Prince Takamodo WC,Tokyo,japan,11-11-2016,12-11-2016,foil,men,1
+2017,164,Coupe du Monde ,Dakar,senegal,04-11-2016,05-11-2016,sabre,men,1
+2017,385,Coupe du Monde,Berne,switzerland,28-10-2016,29-10-2016,epee,men,1
+2017,184,Camden London Tournoi satellite sabre masculin,Londres,great britain,30-10-2016,30-10-2016,sabre,men,1
+2017,135,Coupe du Monde,Le Caire,egypt,21-10-2016,22-10-2016,foil,men,1
+2017,171,Belgrade Trophy,Belgrade,serbia,15-10-2016,15-10-2016,epee,men,1
+2017,391,Tournoi satellite,Cancun,mexico,15-10-2016,16-10-2016,foil,men,1
+2017,172,Tournoi satellite,Gand,belgium,16-10-2016,16-10-2016,sabre,men,1
+2017,178,Tournoi Satellite,Oslo,norway,08-10-2016,08-10-2016,epee,men,1
+2017,174,Tournoi Satellite,Genève,switzerland,01-10-2016,01-10-2016,epee,men,1
+2017,182,Tournoi satellite sabre masculin,Amsterdam,netherlands,25-09-2016,25-09-2016,sabre,men,1
+2017,392,Tournoi satellite fleuret masculin,Amsterdam,netherlands,24-09-2016,24-09-2016,foil,men,1
+2017,1041,South East Asian Games,Kuala Lumpur,malaysia,21-08-2017,23-08-2017,epee,women,0
+2017,1043,South East Asian Games,Kuala Lumpur,malaysia,21-08-2017,23-08-2017,foil,women,0
+2017,1045,South East Asian Games,Kuala Lumpur,malaysia,21-08-2017,23-08-2017,sabre,women,0
+2017,1091,2017 Summer Universiade,Taipei,chinese taipei,20-08-2017,25-08-2017,epee,women,1
+2017,1093,2017 Summer Universiades,Taipei,chinese taipei,20-08-2017,25-08-2017,foil,women,1
+2017,1095,2017 Summer Universiades,Taipei,chinese taipei,20-08-2017,25-08-2017,sabre,women,1
+2017,241,Championnats du Monde,Leipzig,germany,20-07-2017,23-07-2017,epee,women,1
+2017,243,Championnats du Monde,Leipzig,germany,19-07-2017,21-07-2017,foil,women,1
+2017,245,Championnats du Monde,Leipzig,germany,20-07-2017,22-07-2017,sabre,women,1
+2017,1011,Championnats asiatiques,Hong Kong,"hong kong, china",15-06-2017,15-06-2017,sabre,women,1
+2017,1013,Championnats asiatiques,Hong Kong,"hong kong, china",17-06-2017,17-06-2017,epee,women,1
+2017,1014,Championnats asiatiques,Hong Kong,"hong kong, china",16-06-2017,16-06-2017,foil,women,1
+2017,797,Championnats Panaméricains,Montreal,canada,13-06-2017,13-06-2017,epee,women,1
+2017,800,Championnats Panaméricains,Montreal,canada,15-06-2017,15-06-2017,foil,women,1
+2017,801,Championnats Panaméricains,Montreal,canada,14-06-2017,14-06-2017,sabre,women,1
+2017,738,Championnats d'Europe,Tbilisi,georgia,15-06-2017,15-06-2017,epee,women,1
+2017,740,Championnats d'Europe,Tbilisi,georgia,13-06-2017,13-06-2017,foil,women,1
+2017,742,Championnats d'Europe,Tbilisi,georgia,12-06-2017,12-06-2017,sabre,women,1
+2017,584,Championnats d'Afrique,Le Caire,egypt,08-06-2017,08-06-2017,epee,women,1
+2017,586,Championnats d'Afrique,Le Caire,egypt,10-06-2017,10-06-2017,foil,women,1
+2017,588,Championnats d'Afrique,Le Caire,egypt,09-06-2017,09-06-2017,sabre,women,1
+2017,676,Grand Prix,Moscow,russia,02-06-2017,04-06-2017,sabre,women,1
+2017,95,Epee Grand Prix,Bogota,colombia,26-05-2017,28-05-2017,epee,women,1
+2017,1281,Trekanten International,Copenhague,denmark,28-05-2017,28-05-2017,foil,women,1
+2017,1224,Tournoi satellite,Reykjavik,iceland,27-05-2017,27-05-2017,sabre,women,1
+2017,457,Grand Prix,Shanghai,china,19-05-2017,21-05-2017,foil,women,1
+2017,520,St. Duje Cup,Split,croatia,20-05-2017,20-05-2017,epee,women,1
+2017,486,Tournoi Satellite,Sofia,bulgaria,13-05-2017,13-05-2017,epee,women,1
+2017,471,Coupe du Monde,Tunis,tunisia,12-05-2017,13-05-2017,sabre,women,1
+2017,451,Coupe du Monde,Rio de Janeiro,brazil,05-05-2017,06-05-2017,epee,women,1
+2017,393,Cole Cup,Sheffield,great britain,29-04-2017,29-04-2017,epee,women,1
+2017,122,Reinhold-Würth-Cup,Tauberbischofsheim,germany,28-04-2017,29-04-2017,foil,women,1
+2017,468,Grand Prix,Seoul,korea,31-03-2017,01-04-2017,sabre,women,1
+2017,449,WESTEND Grand Prix,Budapest,hungary,24-03-2017,26-03-2017,epee,women,1
+2017,151,Coupe du Monde,Yangzhou,china,24-03-2017,25-03-2017,sabre,women,1
+2017,121,Absolute Fencing Gear Long Beach Foil Grand Prix,"Long Beach, California",usa,17-03-2017,18-03-2017,foil,women,1
+2017,484,Tournoi satellite,Turku,finland,19-03-2017,19-03-2017,sabre,women,1
+2017,553,Tournoi satellite,Turku,finland,19-03-2017,19-03-2017,epee,women,1
+2017,469,Coupe du Monde,Athènes,greece,17-02-2017,18-02-2017,sabre,women,1
+2017,92,Coupe du Monde,Legnano,italy,10-02-2017,11-02-2017,epee,women,1
+2017,485,Tournoi satellite,Cancun,mexico,04-02-2017,05-02-2017,sabre,women,1
+2017,129,The Artus Court PKO BP,Gdansk,poland,03-02-2017,04-02-2017,foil,women,1
+2017,470,Coupe du Monde,New York,usa,27-01-2017,28-01-2017,sabre,women,1
+2017,85,Ciudad de Barcelona,Barcelone,spain,20-01-2017,21-01-2017,epee,women,1
+2017,127,Coupe du Monde de fleuret d'Alger by Ooredoo,Alger,algeria,13-01-2017,14-01-2017,foil,women,1
+2017,175,Rehbinder Prize,Stockholm,sweden,15-01-2017,15-01-2017,epee,women,1
+2017,152,Sabre Grand Prix,Cancun,mexico,16-12-2016,18-12-2016,sabre,women,1
+2017,655,Tournoi Satellite,Taipei,chinese taipei,17-12-2016,18-12-2016,epee,women,1
+2017,1230,Tournoi satellite,Antalya,türkiye,11-12-2016,11-12-2016,foil,women,1
+2017,79,Grand Prix du Qatar,Doha,qatar,09-12-2016,11-12-2016,epee,women,1
+2017,458,Grand Prix,Turin,italy,02-12-2016,04-12-2016,foil,women,1
+2017,467,Trophée BNP Paribas,Orléans,france,18-11-2016,19-11-2016,sabre,women,1
+2017,97,Coupe du Monde,Suzhou,china,11-11-2016,12-11-2016,epee,women,1
+2017,118,Coupe du Monde,St-Maur,france,04-11-2016,05-11-2016,foil,women,1
+2017,80,Coupe du Monde,Tallin,estonia,21-10-2016,22-10-2016,epee,women,1
+2017,170,Tournoi satellite épée féminine,Belgrade,serbia,15-10-2016,15-10-2016,epee,women,1
+2017,125,Coupe du Monde,Cancun,mexico,14-10-2016,15-10-2016,foil,women,1
+2017,1218,Tournoi satellite,Cancun,mexico,12-10-2016,13-10-2016,foil,women,1
+2017,1319,Tournoi satellite,Gand,belgium,16-10-2016,16-10-2016,sabre,women,1
+2017,177,Tournoi Satellite,Oslo,norway,09-10-2016,09-10-2016,epee,women,1
+2017,173,Tournoi Satellite,Genève,switzerland,02-10-2016,02-10-2016,epee,women,1
+2017,397,Tournoi satellite,Amsterdam,netherlands,25-09-2016,25-09-2016,foil,women,1

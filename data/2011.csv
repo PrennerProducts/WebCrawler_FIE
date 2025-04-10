@@ -1,0 +1,116 @@
+season,competitionId,name,location,country,startDate,endDate,weapon,gender,hasResults
+2011,244,Championnats du Monde,Catania,italy,10-10-2011,13-10-2011,foil,men,1
+2011,242,Championnats du Monde,Catania,italy,09-10-2011,12-10-2011,epee,men,1
+2011,246,Championnats du Monde,Catania,italy,09-10-2011,11-10-2011,sabre,men,1
+2011,1027,26th Summer Universiade,Shenzhen,china,15-08-2011,15-08-2011,foil,men,0
+2011,1024,26th Summer Universiade,Shenzhen,china,13-08-2011,13-08-2011,sabre,men,0
+2011,1025,26th Summer Universiade,Shenzhen,china,14-08-2011,14-08-2011,epee,men,0
+2011,585,Championnats d'Afrique,Le Caire,egypt,21-07-2011,25-07-2011,epee,men,1
+2011,587,Championnats d'Afrique,Le Caire,egypt,21-07-2011,25-07-2011,foil,men,1
+2011,589,Championnats d'Afrique,Le Caire,egypt,21-07-2011,25-07-2011,sabre,men,1
+2011,739,Championnats d'Europe,Sheffield,great britain,14-07-2011,19-07-2011,epee,men,1
+2011,741,Championnats d'Europe,Sheffield,great britain,14-07-2011,19-07-2011,foil,men,1
+2011,743,Championnats d'Europe,Sheffield,great britain,14-07-2011,19-07-2011,sabre,men,1
+2011,798,Championnats Panaméricains,Reno - Nevada,usa,04-07-2011,09-07-2011,foil,men,1
+2011,799,Championnats Panaméricains,Reno - Nevada,usa,04-07-2011,09-07-2011,epee,men,1
+2011,802,Championnats Panaméricains,Reno - Nevada,usa,04-07-2011,09-07-2011,sabre,men,1
+2011,1010,Championnats asiatiques,Séoul,korea,10-07-2011,10-07-2011,epee,men,1
+2011,1012,Championnats asiatiques,Séoul,korea,09-07-2011,09-07-2011,foil,men,1
+2011,1015,Championnats asiatiques,Séoul,korea,08-07-2011,08-07-2011,sabre,men,1
+2011,474,Coupe du Monde,New York,usa,24-06-2011,25-06-2011,sabre,men,1
+2011,111,Jockey Club Argentino,Buenos Aires,argentina,17-06-2011,18-06-2011,epee,men,1
+2011,147,Copa Villa La Habana,La Havane,cuba,17-06-2011,18-06-2011,foil,men,1
+2011,186,Cole Cup,Newcastle,great britain,18-06-2011,19-06-2011,sabre,men,1
+2011,113,Grand Prix de Berne,Berne,switzerland,04-06-2011,05-06-2011,epee,men,1
+2011,185,Tournoi satellite sabre masculin,Reykjavik,iceland,04-06-2011,05-06-2011,sabre,men,1
+2011,134,Fleuret de St-Petersbourg,St-Petersbourg,russia,03-06-2011,04-06-2011,foil,men,1
+2011,165,Sabre de Wolodyjowski,Varsovie,poland,04-06-2011,05-06-2011,sabre,men,1
+2011,960,Aphrodite Cup 2009,Limassol,cyprus,28-05-2011,28-05-2011,epee,men,1
+2011,138,SK Trophée Séoul,Séoul,korea,20-05-2011,21-05-2011,foil,men,1
+2011,793,St Duje's Cup,Split,croatia,21-05-2011,22-05-2011,epee,men,1
+2011,164,Villa de Madrid,Madrid,spain,13-05-2011,14-05-2011,sabre,men,1
+2011,145,Grand Prix,Shanghai,china,09-05-2011,10-05-2011,foil,men,1
+2011,112,Challenge Bernadotte Stockholm,Stockholm,sweden,14-05-2011,15-05-2011,epee,men,1
+2011,656,Tournoi satellite,Istanbul,türkiye,07-05-2011,08-05-2011,epee,men,1
+2011,160,Coupe Akropolis,Athènes,greece,28-04-2011,29-04-2011,sabre,men,1
+2011,108,Heidenheimer Pokal,Heidenheim,germany,29-04-2011,30-04-2011,epee,men,1
+2011,398,Tournoi satellite fleuret masculin,Copenhague,denmark,26-03-2011,26-03-2011,foil,men,1
+2011,142,Löwe von Bonn,Bonn,germany,18-03-2011,19-03-2011,foil,men,1
+2011,184,Tournoi satellite sabre masculin,Helsinki,finland,19-03-2011,19-03-2011,sabre,men,1
+2011,156,Sabre de Moscou,Moscow,russia,18-03-2011,19-03-2011,sabre,men,1
+2011,104,Challenge Monal,Paris,france,18-03-2011,19-03-2011,epee,men,1
+2011,158,Gerevich-Kovacs-Karpati Grand Prix for the Mol Cup,Budapest,hungary,05-03-2011,06-03-2011,sabre,men,1
+2011,98,Glaive de Tallin,Tallin,estonia,04-03-2011,05-03-2011,epee,men,1
+2011,140,Coupe Ville de Venise,Venise,italy,05-03-2011,06-03-2011,foil,men,1
+2011,1022,Int. Hapoel games,Ashkelon,israel,18-02-2011,18-02-2011,epee,men,1
+2011,137,Tournoi Ciudad de A Coruña,La Coruña,spain,18-02-2011,19-02-2011,foil,men,1
+2011,163,Trophée Luxardo,Padoue,italy,18-02-2011,19-02-2011,sabre,men,1
+2011,387,Grand Prix du Qatar 2011,Doha,qatar,11-02-2011,12-02-2011,epee,men,1
+2011,180,Tournoi satellite sabre masculin,Orebro,sweden,12-02-2011,13-02-2011,sabre,men,1
+2011,162,Glaive D’Asparoukh,Plovdiv,bulgaria,05-02-2011,06-02-2011,sabre,men,1
+2011,135,Challenge International de Paris,Paris,france,28-01-2011,29-01-2011,foil,men,1
+2011,394,SAF Pokalen,Stockholm,sweden,22-01-2011,22-01-2011,epee,men,1
+2011,385,Coupe du monde,Legnano,italy,14-01-2011,15-01-2011,epee,men,1
+2011,796,Tournoi satellite,Dublin,ireland,04-12-2010,04-12-2010,epee,men,1
+2011,391,Leon Paul satellite fleuret masculin,Londres,great britain,05-12-2010,05-12-2010,foil,men,1
+2011,176,Tournoi satellite épée masculine,Oslo,norway,27-11-2010,27-11-2010,epee,men,1
+2011,172,Tournoi satellite sabre masculin,Amsterdam,netherlands,13-11-2010,14-11-2010,sabre,men,1
+2011,392,Tournoi satellite fleuret masculin,Amsterdam,netherlands,13-11-2010,14-11-2010,foil,men,1
+2011,171,Tournoi satellite épée masculine,Arhus,denmark,13-11-2010,14-11-2010,epee,men,1
+2011,178,Tournoi satellite épée masculine,Copenhague,denmark,30-10-2010,31-10-2010,epee,men,1
+2011,182,Tournoi satellite sabre masculin,Gand,belgium,23-10-2010,24-10-2010,sabre,men,1
+2011,174,"Kupittaa tournament, épée masculine",Turku,finland,16-10-2010,16-10-2010,epee,men,1
+2011,554,51 Trophy of Belgrade,Belgrade,serbia,10-10-2010,10-10-2010,epee,men,1
+2011,241,Championnats du Monde,Catania,italy,10-10-2011,13-10-2011,epee,women,1
+2011,245,Championnats du Monde,Catania,italy,10-10-2011,12-10-2011,sabre,women,1
+2011,243,Championnats du Monde,Catania,italy,09-10-2011,11-10-2011,foil,women,1
+2011,1028,26th Summer Universiade,Shenzhen,china,15-08-2011,15-08-2011,sabre,women,0
+2011,1023,26th Summer Universiade,Shenzhen,china,13-08-2011,13-08-2011,epee,women,0
+2011,1026,26th Summer Universiade,Shenzhen,china,14-08-2011,14-08-2011,foil,women,0
+2011,584,Championnats d'Afrique,Le Caire,egypt,21-07-2011,25-07-2011,epee,women,1
+2011,586,Championnats d'Afrique,Le Caire,egypt,21-07-2011,25-07-2011,foil,women,1
+2011,588,Championnats d'Afrique,Le Caire,egypt,21-07-2011,25-07-2011,sabre,women,1
+2011,738,Championnats d'Europe,Sheffield,great britain,14-07-2011,19-07-2011,epee,women,1
+2011,740,Championnats d'Europe,Sheffield,great britain,14-07-2011,19-07-2011,foil,women,1
+2011,742,Championnats d'Europe,Sheffield,great britain,14-07-2011,19-07-2011,sabre,women,1
+2011,797,Championnats Panaméricains,Reno - Nevada,usa,04-07-2011,09-07-2011,epee,women,1
+2011,800,Championnats Panaméricains,Reno - Nevada,usa,04-07-2011,09-07-2011,foil,women,1
+2011,801,Championnats Panaméricains,Reno - Nevada,usa,04-07-2011,09-07-2011,sabre,women,1
+2011,1011,Championnats asiatiques,Séoul,korea,10-07-2011,10-07-2011,sabre,women,1
+2011,1013,Championnats asiatiques,Séoul,korea,09-07-2011,09-07-2011,epee,women,1
+2011,1014,Championnats asiatiques,Séoul,korea,08-07-2011,08-07-2011,foil,women,1
+2011,471,Coupe du Monde,New York,usa,24-06-2011,25-06-2011,sabre,women,1
+2011,97,Challenge Australia,Sydney,australia,24-06-2011,25-06-2011,epee,women,1
+2011,485,Cole Cup,Newcastle,great britain,18-06-2011,19-06-2011,sabre,women,1
+2011,486,Cole Cup,Newcastle,great britain,18-06-2011,19-06-2011,epee,women,1
+2011,470,Challenge Yves Brasseur,Gand,belgium,10-06-2011,11-06-2011,sabre,women,1
+2011,449,Tournoi international,Nankin,china,11-06-2011,12-06-2011,epee,women,1
+2011,484,Tournoi satellite sabre féminin,Reykjavik,iceland,04-06-2011,05-06-2011,sabre,women,1
+2011,118,Fleuret de St-Petersbourg,St-Petersbourg,russia,05-06-2011,06-06-2011,foil,women,1
+2011,95,Grand Prix,La Havane,cuba,21-05-2011,22-05-2011,epee,women,1
+2011,121,SK Trophée Séoul,Séoul,korea,21-05-2011,22-05-2011,foil,women,1
+2011,520,St Duje's Cup,Split,croatia,21-05-2011,22-05-2011,epee,women,1
+2011,676,Coupe du Monde,Tianjin,china,21-05-2011,22-05-2011,sabre,women,1
+2011,469,Coupe du Monde,Bologne,italy,06-05-2011,07-05-2011,sabre,women,1
+2011,655,Tournoi satellite,Istanbul,türkiye,07-05-2011,08-05-2011,epee,women,1
+2011,451,Epée internationale,Rio de Janeiro,brazil,06-05-2011,07-05-2011,epee,women,1
+2011,122,Coupe du Monde,Shanghai,china,06-05-2011,07-05-2011,foil,women,1
+2011,125,Cup Eximbank,Budapest,hungary,25-03-2011,26-03-2011,foil,women,1
+2011,397,Tournoi satellite fleuret féminin,Copenhague,denmark,27-03-2011,27-03-2011,foil,women,1
+2011,85,Coupe du Monde,Leipzig,germany,25-03-2011,26-03-2011,epee,women,1
+2011,468,Coupe du Monde,Moscow,russia,26-03-2011,27-03-2011,sabre,women,1
+2011,92,Ciudad de Barcelona,Barcelone,spain,11-03-2011,12-03-2011,epee,women,1
+2011,151,Tournoi international,Istanbul,türkiye,11-03-2011,12-03-2011,sabre,women,1
+2011,129,Coupe du Monde,Turin,italy,11-03-2011,12-03-2011,foil,women,1
+2011,79,"Westend Grand Prix ""in Memoriam Sakovics Jozsef""",Budapest,hungary,26-02-2011,27-02-2011,epee,women,1
+2011,458,The Artus Court PKO BP,Gdansk,poland,25-02-2011,26-02-2011,foil,women,1
+2011,467,England Cup,Londres,great britain,25-02-2011,26-02-2011,sabre,women,1
+2011,80,Grand Prix,Doha,qatar,12-02-2011,13-02-2011,epee,women,1
+2011,152,Trophée BNP-Paribas,Orléans,france,11-02-2011,12-02-2011,sabre,women,1
+2011,127,Reinhold-Würth-Cup,Tauberbischofsheim,germany,11-02-2011,12-02-2011,foil,women,1
+2011,393,SAF Pokalen,Stockholm,sweden,23-01-2011,23-01-2011,epee,women,1
+2011,175,Tournoi satellite épée féminine,Oslo,norway,28-11-2010,28-11-2010,epee,women,1
+2011,170,Tournoi satellite épée féminine,Arhus,denmark,13-11-2010,14-11-2010,epee,women,1
+2011,177,Tournoi satellite épée féminine,Copenhague,denmark,30-10-2010,31-10-2010,epee,women,1
+2011,173,"Kupittaa tournament, épée féminine",Turku,finland,17-10-2010,17-10-2010,epee,women,1
+2011,553,51 Trophy of Belgrade,Belgrade,serbia,10-10-2010,10-10-2010,epee,women,1

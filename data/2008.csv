@@ -1,0 +1,179 @@
+season,competitionId,name,location,country,startDate,endDate,weapon,gender,hasResults
+2008,949,ME-IND,RANKING,fie,20-08-2008,21-08-2008,epee,men,0
+2008,952,MF-IND,RANKING,fie,20-08-2008,21-08-2008,foil,men,0
+2008,954,MS-IND,RANKING,fie,20-08-2008,21-08-2008,sabre,men,0
+2008,244,JO,Pekin,china,13-08-2008,13-08-2008,foil,men,1
+2008,246,JO,Pekin,china,12-08-2008,12-08-2008,sabre,men,1
+2008,242,JO,Pekin,china,10-08-2008,10-08-2008,epee,men,1
+2008,902,EM-IND,pekin,china,09-08-2008,17-08-2008,epee,men,0
+2008,919,FM-IND,pekin,china,09-08-2008,17-08-2008,foil,men,0
+2008,921,SM-IND,pekin,china,09-08-2008,17-08-2008,sabre,men,0
+2008,798,Championnats Panaméricains,Queretaro,mexico,08-07-2008,12-07-2008,foil,men,1
+2008,799,Championnats Panaméricains,Queretaro,mexico,08-07-2008,12-07-2008,epee,men,1
+2008,802,Championnats Panaméricains,Queretaro,mexico,08-07-2008,12-07-2008,sabre,men,1
+2008,739,Championnats d'Europe,Kiev,ukraine,04-07-2008,11-07-2008,epee,men,1
+2008,741,Championnats d'Europe,Kiev,ukraine,04-07-2008,11-07-2008,foil,men,1
+2008,743,Championnats d'Europe,Kiev,ukraine,04-07-2008,11-07-2008,sabre,men,1
+2008,111,Jockey Club Argentino,Buenos Aires,argentina,21-06-2008,22-06-2008,epee,men,1
+2008,474,Coupe du Monde,Las Vegas,usa,21-06-2008,22-06-2008,sabre,men,1
+2008,106,Coupe du Monde,Cali,colombia,14-06-2008,15-06-2008,epee,men,1
+2008,146,Copa Gobernador Eduardo Manuitt Carpio,Estado Guarico,venezuela,13-06-2008,14-06-2008,foil,men,1
+2008,476,Copa Gobernador Eduardo Manuitt Carpio,Estado Guarico,venezuela,13-06-2008,14-06-2008,sabre,men,1
+2008,186,Cole Cup,Newcastle,great britain,14-06-2008,15-06-2008,sabre,men,1
+2008,115,Copa Mundial de Puerto Rico,Caguas,puerto rico,06-06-2008,07-06-2008,epee,men,1
+2008,147,Copa Villa La Habana,La Havane,cuba,08-06-2008,09-06-2008,foil,men,1
+2008,185,Tournoi satellite sabre masculin,Reykjavik,iceland,07-06-2008,08-06-2008,sabre,men,1
+2008,105,Epée internationale,Montréal,canada,30-05-2008,31-05-2008,epee,men,1
+2008,463,Epée internationale,Montréal,canada,29-05-2008,30-05-2008,foil,men,1
+2008,163,Trophée Luxardo,Padoue,italy,30-05-2008,31-05-2008,sabre,men,1
+2008,184,Tournoi satellite sabre masculin,Helsinki,finland,24-05-2008,24-05-2008,sabre,men,1
+2008,164,Villa de Madrid,Madrid,spain,23-05-2008,24-05-2008,sabre,men,1
+2008,793,Tournoi satellite,Split,croatia,24-05-2008,25-05-2008,epee,men,1
+2008,138,SK Trophée Séoul,Jéju,korea,17-05-2008,18-05-2008,foil,men,1
+2008,165,Sabre de Wolodyjowski,Varsovie,poland,17-05-2008,18-05-2008,sabre,men,1
+2008,656,Tournoi satellite,Istanbul,türkiye,10-05-2008,11-05-2008,epee,men,1
+2008,104,Challenge Monal,Paris,france,10-05-2008,11-05-2008,epee,men,1
+2008,145,Prince Takamado WC,Tokyo,japan,10-05-2008,11-05-2008,foil,men,1
+2008,413,Coupe du Monde,Bangkok,thailand,03-05-2008,04-05-2008,sabre,men,1
+2008,139,Coupe du Monde,Shanghai,china,02-05-2008,03-05-2008,foil,men,1
+2008,782,Championnats asiatiques seniors,Bangkok,thailand,24-04-2008,29-04-2008,epee,men,1
+2008,784,Championnats asiatiques seniors,Bangkok,thailand,24-04-2008,29-04-2008,foil,men,1
+2008,786,Championnats asiatiques seniors,Bangkok,thailand,24-04-2008,29-04-2008,sabre,men,1
+2008,862,Championnats de qualification de zones,Bangkok,thailand,22-04-2008,23-04-2008,epee,men,0
+2008,864,Championnats de qualification de zones,Bangkok,thailand,22-04-2008,23-04-2008,foil,men,0
+2008,866,Championnats de qualification de zones,Bangkok,thailand,22-04-2008,23-04-2008,sabre,men,0
+2008,585,Championnats d'Afrique,Casablanca,morocco,27-04-2008,27-04-2008,epee,men,1
+2008,587,Championnats d'Afrique,Casablanca,morocco,26-04-2008,26-04-2008,foil,men,1
+2008,589,Championnats d'Afrique,Casablanca,morocco,27-04-2008,27-04-2008,sabre,men,1
+2008,868,Championnats de qualification de zones,Casablanca,morocco,25-04-2008,25-04-2008,epee,men,0
+2008,870,Championnats de qualification de zones,Casablanca,morocco,25-04-2008,25-04-2008,foil,men,0
+2008,872,Championnats de qualification de zones,Casablanca,morocco,25-04-2008,25-04-2008,sabre,men,0
+2008,880,Championnats de qualification de zones,Istanbul,türkiye,26-04-2008,26-04-2008,sabre,men,0
+2008,884,Championnats de qualification de zones,Lisbonne,portugal,26-04-2008,26-04-2008,foil,men,0
+2008,882,Championnats de qualification de zones,Prague,czechia,26-04-2008,26-04-2008,epee,men,0
+2008,874,Championnats de qualification de zones,Queretaro,mexico,26-04-2008,27-04-2008,epee,men,0
+2008,876,Championnats de qualification de zones,Queretaro,mexico,26-04-2008,27-04-2008,foil,men,0
+2008,878,Championnats de qualification de zones,Queretaro,mexico,26-04-2008,27-04-2008,sabre,men,0
+2008,854,"Test event, fleuret masculin ind.",Pékin,china,20-04-2008,20-04-2008,foil,men,0
+2008,398,Tournoi satellite fleuret masculin,Copenhague,denmark,29-03-2008,29-03-2008,foil,men,1
+2008,108,Heidenheimer Pokal,Heidenheim,germany,28-03-2008,29-03-2008,epee,men,1
+2008,491,Coupe du Monde,Alger,algeria,22-03-2008,23-03-2008,sabre,men,1
+2008,143,Coupe du Monde Cidade de Espinho,Espinho,portugal,15-03-2008,16-03-2008,foil,men,1
+2008,475,Coupe du Monde,Tunis,tunisia,14-03-2008,15-03-2008,sabre,men,1
+2008,134,Fleuret de St-Petersbourg,St-Petersbourg,russia,07-03-2008,08-03-2008,foil,men,1
+2008,112,Challenge Bernadotte Stockholm,Stockholm,sweden,07-03-2008,08-03-2008,epee,men,1
+2008,113,Grand Prix de Berne,Berne,switzerland,01-03-2008,02-03-2008,epee,men,1
+2008,142,Löwe von Bonn,Bonn,germany,01-03-2008,02-03-2008,foil,men,1
+2008,162,Glaive D’Asparoukh,Plovdiv,bulgaria,29-02-2008,01-03-2008,sabre,men,1
+2008,156,Sabre de Moscou,Moscow,russia,16-02-2008,17-02-2008,sabre,men,1
+2008,180,Tournoi satellite sabre masculin,Orebro,sweden,16-02-2008,17-02-2008,sabre,men,1
+2008,98,Glaive de Tallin,Tallin,estonia,16-02-2008,17-02-2008,epee,men,1
+2008,140,Coupe Ville de Venise,Venise,italy,15-02-2008,16-02-2008,foil,men,1
+2008,158,Coupe Gerevich-Kovacs-Karpati,Budapest,hungary,08-02-2008,09-02-2008,sabre,men,1
+2008,99,Coupe du Monde Cidade de Lisboa,Lisbonne,portugal,09-02-2008,10-02-2008,epee,men,1
+2008,394,SAF Pokalen,Stockholm,sweden,09-02-2008,10-02-2008,epee,men,1
+2008,160,Coupe Akropolis,Athènes,greece,01-02-2008,02-02-2008,sabre,men,1
+2008,137,Tournoi Ciudad de A Coruña,La Coruña,spain,02-02-2008,03-02-2008,foil,men,1
+2008,109,Trophée Carroccio,Legnano,italy,01-02-2008,02-02-2008,epee,men,1
+2008,385,CM Cheikh Fahed Al-Ahmed Al-Soubah,Koweit City,kuwait,25-01-2008,26-01-2008,epee,men,1
+2008,135,Challenge International de Paris,Paris,france,25-01-2008,26-01-2008,foil,men,1
+2008,387,Grand Prix du Qatar 2008,Doha,qatar,18-01-2008,19-01-2008,epee,men,1
+2008,519,Coupe du Monde,Istanbul,türkiye,19-01-2008,20-01-2008,sabre,men,1
+2008,116,Coupe du Monde,Kish Island,iran,12-01-2008,13-01-2008,epee,men,1
+2008,168,Coupe du Monde,Kish Island,iran,12-01-2008,13-01-2008,sabre,men,1
+2008,132,Copenhagen Cup,Copenhague,denmark,05-01-2008,06-01-2008,foil,men,1
+2008,179,Tournoi satellite sabre masculin,Copenhague,denmark,05-01-2008,06-01-2008,sabre,men,1
+2008,796,Tournoi satellite,Dublin,ireland,01-12-2007,01-12-2007,epee,men,1
+2008,554,51 Trophy of Belgrade,Belgrade,serbia,24-11-2007,24-11-2007,epee,men,1
+2008,172,Tournoi satellite sabre masculin,Amsterdam,netherlands,17-11-2007,18-11-2007,sabre,men,1
+2008,392,Tournoi satellite fleuret masculin,Amsterdam,netherlands,17-11-2007,18-11-2007,foil,men,1
+2008,171,Tournoi satellite épée masculine,Arhus,denmark,17-11-2007,18-11-2007,epee,men,1
+2008,176,Tournoi satellite épée masculine,Oslo,norway,10-11-2007,11-11-2007,epee,men,1
+2008,178,Tournoi satellite épée masculine,Copenhague,denmark,27-10-2007,28-10-2007,epee,men,1
+2008,182,Tournoi satellite sabre masculin,Gand,belgium,20-10-2007,21-10-2007,sabre,men,1
+2008,391,Leon Paul satellite fleuret masculin,Londres,great britain,21-10-2007,21-10-2007,foil,men,1
+2008,174,Kupittaa tournament,Turku,finland,13-10-2007,13-10-2007,epee,men,1
+2008,950,WE-IND,RANKING,fie,20-08-2008,21-08-2008,epee,women,0
+2008,951,WF-IND,RANKING,fie,20-08-2008,21-08-2008,foil,women,0
+2008,953,WS-IND,RANKING,fie,20-08-2008,21-08-2008,sabre,women,0
+2008,241,JO,Pekin,china,13-08-2008,13-08-2008,epee,women,1
+2008,243,JO,Pekin,china,11-08-2008,11-08-2008,foil,women,1
+2008,245,JO,Pekin,china,09-08-2008,09-08-2008,sabre,women,1
+2008,917,EF-IND,pekin,china,09-08-2008,17-08-2008,epee,women,0
+2008,918,FF-IND,pekin,china,09-08-2008,17-08-2008,foil,women,0
+2008,920,SF-IND,pekin,china,09-08-2008,17-08-2008,sabre,women,0
+2008,797,Championnats Panaméricains,Queretaro,mexico,08-07-2008,12-07-2008,epee,women,1
+2008,800,Championnats Panaméricains,Queretaro,mexico,08-07-2008,12-07-2008,foil,women,1
+2008,801,Championnats Panaméricains,Queretaro,mexico,08-07-2008,12-07-2008,sabre,women,1
+2008,738,Championnats d'Europe,Kiev,ukraine,04-07-2008,11-07-2008,epee,women,1
+2008,740,Championnats d'Europe,Kiev,ukraine,04-07-2008,11-07-2008,foil,women,1
+2008,742,Championnats d'Europe,Kiev,ukraine,04-07-2008,11-07-2008,sabre,women,1
+2008,130,World Cup competition,Las Vegas,usa,21-06-2008,22-06-2008,foil,women,1
+2008,471,Coupe du Monde,Las Vegas,usa,19-06-2008,20-06-2008,sabre,women,1
+2008,131,Tournoi Nancy Uranga,La Havane,cuba,11-06-2008,12-06-2008,foil,women,1
+2008,155,Coupe du Monde,La Havane,cuba,14-06-2008,15-06-2008,sabre,women,1
+2008,485,Cole Cup,Newcastle,great britain,14-06-2008,15-06-2008,sabre,women,1
+2008,486,Cole Cup,Newcastle,great britain,14-06-2008,15-06-2008,epee,women,1
+2008,555,Cole Cup,Newcastle,great britain,14-06-2008,15-06-2008,foil,women,1
+2008,95,Coupe du Monde,La Havane,cuba,06-06-2008,07-06-2008,epee,women,1
+2008,484,Tournoi satellite sabre féminin,Reykjavik,iceland,07-06-2008,08-06-2008,sabre,women,1
+2008,128,Coupe Buenos Aires,Buenos Aires,argentina,31-05-2008,01-06-2008,foil,women,1
+2008,451,Epée internationale,Montréal,canada,30-05-2008,31-05-2008,epee,women,1
+2008,676,Coupe du Monde,Tianjin,china,30-05-2008,31-05-2008,sabre,women,1
+2008,520,Tournoi satellite epee feminine,Split,croatia,24-05-2008,25-05-2008,epee,women,1
+2008,121,SK Trophée Séoul,Jéju,korea,16-05-2008,17-05-2008,foil,women,1
+2008,522,Candidature A,Koblenz,germany,17-05-2008,18-05-2008,sabre,women,1
+2008,449,Tournoi international,Nankin,china,16-05-2008,17-05-2008,epee,women,1
+2008,470,Challenge Yves Brasseur,Gand,belgium,10-05-2008,11-05-2008,sabre,women,1
+2008,655,Tournoi satellite,Istanbul,türkiye,10-05-2008,11-05-2008,epee,women,1
+2008,129,Prince Takamado WC,Tokyo,japan,09-05-2008,10-05-2008,foil,women,1
+2008,469,Coupe du Monde,Klagenfurt,austria,03-05-2008,04-05-2008,sabre,women,1
+2008,122,Coupe du Monde,Shanghai,china,03-05-2008,04-05-2008,foil,women,1
+2008,781,Championnats asiatiques seniors,Bangkok,thailand,24-04-2008,29-04-2008,epee,women,1
+2008,783,Championnats asiatiques seniors,Bangkok,thailand,24-04-2008,29-04-2008,foil,women,1
+2008,785,Championnats asiatiques seniors,Bangkok,thailand,24-04-2008,29-04-2008,sabre,women,1
+2008,861,Championnats de qualification de zones,Bangkok,thailand,22-04-2008,23-04-2008,foil,women,0
+2008,863,Championnats de qualification de zones,Bangkok,thailand,22-04-2008,23-04-2008,epee,women,0
+2008,865,Championnats de qualification de zones,Bangkok,thailand,22-04-2008,23-04-2008,sabre,women,0
+2008,584,Championnats d'Afrique,Casablanca,morocco,26-04-2008,26-04-2008,epee,women,1
+2008,586,Championnats d'Afrique,Casablanca,morocco,27-04-2008,27-04-2008,foil,women,1
+2008,588,Championnats d'Afrique,Casablanca,morocco,26-04-2008,26-04-2008,sabre,women,1
+2008,867,Championnats de qualification de zones,Casablanca,morocco,25-04-2008,25-04-2008,epee,women,0
+2008,869,Championnats de qualification de zones,Casablanca,morocco,25-04-2008,25-04-2008,foil,women,0
+2008,871,Championnats de qualification de zones,Casablanca,morocco,25-04-2008,25-04-2008,sabre,women,0
+2008,879,Championnats de qualification de zones,Istanbul,türkiye,26-04-2008,26-04-2008,sabre,women,0
+2008,883,Championnats de qualification de zones,Lisbonne,portugal,26-04-2008,26-04-2008,foil,women,0
+2008,881,Championnats de qualification de zones,Prague,czechia,26-04-2008,26-04-2008,epee,women,0
+2008,873,Championnats de qualification de zones,Queretaro,mexico,26-04-2008,27-04-2008,epee,women,0
+2008,875,Championnats de qualification de zones,Queretaro,mexico,26-04-2008,27-04-2008,foil,women,0
+2008,877,Championnats de qualification de zones,Queretaro,mexico,26-04-2008,27-04-2008,sabre,women,0
+2008,397,Tournoi satellite fleuret féminin,Copenhague,denmark,30-03-2008,30-03-2008,foil,women,1
+2008,518,Challenge Jeanty,Marseille,france,28-03-2008,29-03-2008,foil,women,1
+2008,468,Coupe du Monde,Alger,algeria,20-03-2008,21-03-2008,sabre,women,1
+2008,125,Cup Eximbank,Budapest,hungary,15-03-2008,16-03-2008,foil,women,1
+2008,447,Coupe du Monde,Florina,greece,15-03-2008,16-03-2008,epee,women,1
+2008,151,Tournoi international,Lamezia Terme,italy,14-03-2008,15-03-2008,sabre,women,1
+2008,118,Fleuret de St-Petersbourg,St-Petersbourg,russia,05-03-2008,06-03-2008,foil,women,1
+2008,516,Epee de St-Petersbourg,St-Petersbourg,russia,08-03-2008,09-03-2008,epee,women,1
+2008,458,The Artus Court PKO BP,Gdansk,poland,29-02-2008,01-03-2008,foil,women,1
+2008,82,Würth Cup,Tauberbischofsheim,germany,01-03-2008,02-03-2008,epee,women,1
+2008,689,Coupe du Monde,V.Leganés-Madrid,spain,01-03-2008,02-03-2008,sabre,women,1
+2008,150,Coupe du Monde,Budapest,hungary,23-02-2008,24-02-2008,sabre,women,1
+2008,127,Cup der Sparkasse Leipzig,Leipzig,germany,23-02-2008,24-02-2008,foil,women,1
+2008,86,Challenge international de St-Maur,Saint-Maur,france,22-02-2008,23-02-2008,epee,women,1
+2008,92,Ciudad de Barcelona,Barcelone,spain,16-02-2008,17-02-2008,epee,women,1
+2008,149,Sabre de Moscou,Moscow,russia,16-02-2008,17-02-2008,sabre,women,1
+2008,124,Coupe du Monde,Salzbourg,austria,16-02-2008,17-02-2008,foil,women,1
+2008,627,Star Cup Belgrade,Belgrade,serbia,09-02-2008,10-02-2008,foil,women,1
+2008,152,Trophée BNP-Paribas,Orléans,france,08-02-2008,09-02-2008,sabre,women,1
+2008,517,Tournoi international,Rome,italy,08-02-2008,09-02-2008,epee,women,1
+2008,393,SAF Pokalen,Stockholm,sweden,09-02-2008,10-02-2008,epee,women,1
+2008,467,England Cup,Londres,great britain,02-02-2008,03-02-2008,sabre,women,1
+2008,85,Souvenir J. Nowara,Luxembourg,luxembourg,02-02-2008,03-02-2008,epee,women,1
+2008,80,Prague d’Or,Prague,czechia,26-01-2008,27-01-2008,epee,women,1
+2008,79,Westend Cup,Budapest,hungary,18-01-2008,19-01-2008,epee,women,1
+2008,553,51 Trophy of Belgrade,Belgrade,serbia,24-11-2007,24-11-2007,epee,women,1
+2008,170,Tournoi satellite épée féminine,Arhus,denmark,17-11-2007,18-11-2007,epee,women,1
+2008,175,Tournoi satellite épée féminine,Oslo,norway,10-11-2007,11-11-2007,epee,women,1
+2008,177,Tournoi satellite épée féminine,Copenhague,denmark,27-10-2007,28-10-2007,epee,women,1
+2008,173,Kupittaa tournament,Turku,finland,13-10-2007,13-10-2007,epee,women,1
