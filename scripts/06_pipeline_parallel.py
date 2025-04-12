@@ -1,8 +1,12 @@
 import subprocess
 import os
-from concurrent.futures import ProcessPoolExecutor, as_completed
+from datetime import datetime
 
-SEASONS = list(range(2004, 2024))  # oder +1 für 2024
+SEASONS = list(range(2013, 2003, -1))  # von 2024 abwärts
+SCRIPT_DIR = "scripts"
+LOG_DIR = "logs"
+os.makedirs(LOG_DIR, exist_ok=True)
+
 SCRIPTS = [
     "01_fetch_competitions.py",
     "02_parse_matches.py",
@@ -12,30 +16,44 @@ SCRIPTS = [
 ]
 
 def run_pipeline_for_season(season):
-    try:
+    log_file_path = os.path.join(LOG_DIR, f"{season}.log")
+    with open(log_file_path, "w") as log_file:
+        print(f"\n=== 🔁 Starte Pipeline für {season} ===")
+        log_file.write(f"=== Pipeline Start für {season} @ {datetime.now().isoformat()} ===\n\n")
+
         env = os.environ.copy()
         env["SEASON"] = str(season)
 
         for script in SCRIPTS:
+            script_path = os.path.join(SCRIPT_DIR, script)
             print(f"[{season}] ▶️ {script}")
-            subprocess.run(
-                ["python", os.path.join("scripts", script)],
+            log_file.write(f"▶️ {script}\n")
+
+            process = subprocess.Popen(
+                ["python", script_path, str(season)],
                 env=env,
-                check=True
+                stdout=subprocess.PIPE,
+                stderr=subprocess.STDOUT,
+                text=True,
+                bufsize=1
             )
-        return f"[{season}] ✅ erfolgreich abgeschlossen"
-    except subprocess.CalledProcessError as e:
-        return f"[{season}] ❌ Fehler bei: {e.cmd}"
 
-def main():
-    max_parallel = os.cpu_count() // 2 or 2  # Sicherheitshalber nicht alles gleichzeitig
-    print(f"🚀 Starte parallele Verarbeitung mit {max_parallel} Workers...\n")
+            # Echtzeit-Ausgabe an stdout UND log schreiben
+            for line in process.stdout:
+                print(line, end="")       # Konsole
+                log_file.write(line)      # Logdatei
 
-    with ProcessPoolExecutor(max_workers=max_parallel) as executor:
-        futures = [executor.submit(run_pipeline_for_season, s) for s in SEASONS]
+            process.wait()
+            if process.returncode != 0:
+                print(f"[{season}] ❌ Fehler in {script} (siehe {log_file_path})")
+                log_file.write("\n--- Fehler ---\n")
+                break
+            else:
+                log_file.write("✅ Success\n\n")
 
-        for future in as_completed(futures):
-            print(future.result())
+        log_file.write(f"\n=== Pipeline fertig für {season} @ {datetime.now().isoformat()} ===\n")
+        print(f"[{season}] ✅ Pipeline abgeschlossen")
 
 if __name__ == "__main__":
-    main()
+    for season in SEASONS:
+        run_pipeline_for_season(season)

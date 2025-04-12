@@ -1,6 +1,21 @@
 import requests
 import pandas as pd
+import os
+import sys
 
+# === CLI-Argument prüfen ===
+if len(sys.argv) != 2:
+    print("Usage: python 01_fetch_competitions.py <season>")
+    sys.exit(1)
+
+SEASON = sys.argv[1]
+
+# === Ausgabeordner & Dateiname vorbereiten ===
+OUTPUT_DIR = os.path.join("outputs", SEASON)
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+OUTPUT_FILE = os.path.join(OUTPUT_DIR, f"competitions_{SEASON}.csv")
+
+# === Request-Konfiguration ===
 url = "https://fie.org/competitions/search"
 headers = {
     "Content-Type": "application/json;charset=UTF-8",
@@ -10,7 +25,7 @@ headers = {
     "User-Agent": "Mozilla/5.0"
 }
 
-def scrape_competitions_2023():
+def scrape_competitions(season):
     all_items = []
     page = 0
     while True:
@@ -20,7 +35,7 @@ def scrape_competitions_2023():
             "gender": ["f", "m"],
             "weapon": ["e", "f", "s"],
             "type": ["i"],
-            "season": "2023",
+            "season": season,
             "level": "s",
             "competitionCategory": "",
             "fromDate": "",
@@ -54,8 +69,8 @@ def save_to_csv(competitions, filename):
         "Weapon", "Gender", "Season"
     ]]
     final_df.to_csv(filename, index=False)
-    print(f"Saved {len(final_df)} competitions to {filename}")
+    print(f"✅ Saved {len(final_df)} competitions to {filename}")
 
 if __name__ == "__main__":
-    data = scrape_competitions_2023()
-    save_to_csv(data, "competitions_2023.csv")
+    data = scrape_competitions(SEASON)
+    save_to_csv(data, OUTPUT_FILE)
