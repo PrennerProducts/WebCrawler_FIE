@@ -9,6 +9,10 @@ OUTPUT_FILE = "fencing_enriched_2023.csv"
 df_matches = pd.read_csv(MATCH_FILE)
 df_comps = pd.read_csv(COMPETITION_FILE)
 
+# Season-Mapping einfügen von zb 2023 auf 2023/2024
+season_map = {str(y): f"{y}/{y+1}" for y in range(2004, 2025)}
+df_comps["Season"] = df_comps["Season"].astype(str).map(season_map).fillna(df_comps["Season"])
+
 # === Competition-Metadaten joinen ===
 df = df_matches.merge(
     df_comps[["Competition ID", "Gender", "Weapon", "Season", "Competition Name", "Start Date"]],
