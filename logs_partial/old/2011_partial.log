@@ -1,0 +1,29 @@
+=== Teilpipeline Start für 2011 @ 2025-04-13T10:27:05.194785 ===
+
+▶️ 04.5_renrich_matches_with_repaired_info.py
+⚠️ Keine Athleteninfos vorhanden für 2011, breche ab.
+✅ Success
+
+▶️ 05_enrich_and_format.py
+⚠️ Eingabedateien fehlen für 2011, überspringe.
+✅ Success
+
+▶️ 07_merge_enriched_results.py
+📦 11 Dateien gefunden zum Zusammenführen.
+🔗 Lade outputs/2014/fencing_enriched_2014.csv
+🔗 Lade outputs/2015/fencing_enriched_2015.csv
+🔗 Lade outputs/2016/fencing_enriched_2016.csv
+🔗 Lade outputs/2017/fencing_enriched_2017.csv
+🔗 Lade outputs/2018/fencing_enriched_2018.csv
+🔗 Lade outputs/2019/fencing_enriched_2019.csv
+🔗 Lade outputs/2020/fencing_enriched_2020.csv
+🔗 Lade outputs/2021/fencing_enriched_2021.csv
+🔗 Lade outputs/2022/fencing_enriched_2022.csv
+🔗 Lade outputs/2023/fencing_enriched_2023.csv
+🔗 Lade outputs/2024/fencing_enriched_2024.csv
+
+✅ Alle Ergebnisse zusammengeführt und gespeichert in: fencing_enriched_all_years.csv
+✅ Success
+
+
+=== Teilpipeline fertig für 2011 @ 2025-04-13T10:27:06.821219 ===

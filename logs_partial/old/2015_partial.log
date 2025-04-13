@@ -1,0 +1,55 @@
+=== Teilpipeline Start für 2015 @ 2025-04-13T10:26:35.032995 ===
+
+▶️ 04.5_renrich_matches_with_repaired_info.py
+🔍 Starte Livescraping für 22 fehlende Händigkeiten ...
+
+  0%|          | 0/22 [00:00<?, ?it/s]
+  5%|▍         | 1/22 [00:01<00:24,  1.16s/it]
+  9%|▉         | 2/22 [00:02<00:21,  1.05s/it]
+ 14%|█▎        | 3/22 [00:03<00:19,  1.01s/it]
+ 18%|█▊        | 4/22 [00:04<00:17,  1.02it/s]
+ 23%|██▎       | 5/22 [00:04<00:16,  1.04it/s]
+ 27%|██▋       | 6/22 [00:05<00:15,  1.05it/s]
+ 32%|███▏      | 7/22 [00:06<00:12,  1.19it/s]
+ 36%|███▋      | 8/22 [00:07<00:10,  1.33it/s]
+ 41%|████      | 9/22 [00:08<00:10,  1.23it/s]
+ 45%|████▌     | 10/22 [00:08<00:10,  1.18it/s]
+ 50%|█████     | 11/22 [00:09<00:09,  1.17it/s]
+ 55%|█████▍    | 12/22 [00:10<00:08,  1.14it/s]
+ 59%|█████▉    | 13/22 [00:11<00:08,  1.09it/s]
+ 64%|██████▎   | 14/22 [00:12<00:07,  1.10it/s]
+ 68%|██████▊   | 15/22 [00:13<00:06,  1.07it/s]
+ 73%|███████▎  | 16/22 [00:14<00:05,  1.08it/s]
+ 77%|███████▋  | 17/22 [00:15<00:04,  1.08it/s]
+ 82%|████████▏ | 18/22 [00:16<00:03,  1.08it/s]
+ 86%|████████▋ | 19/22 [00:17<00:02,  1.09it/s]
+ 91%|█████████ | 20/22 [00:18<00:01,  1.07it/s]
+ 95%|█████████▌| 21/22 [00:19<00:00,  1.06it/s]
+100%|██████████| 22/22 [00:20<00:00,  1.04it/s]
+100%|██████████| 22/22 [00:20<00:00,  1.09it/s]
+✅ Matchdaten angereichert + repariert + live ergänzt gespeichert für 2015: outputs/2015/fencing_match_analysis_2015_master.csv
+✅ Success
+
+▶️ 05_enrich_and_format.py
+✅ Fertige Datei gespeichert unter: outputs/2015/fencing_enriched_2015.csv
+✅ Success
+
+▶️ 07_merge_enriched_results.py
+📦 11 Dateien gefunden zum Zusammenführen.
+🔗 Lade outputs/2014/fencing_enriched_2014.csv
+🔗 Lade outputs/2015/fencing_enriched_2015.csv
+🔗 Lade outputs/2016/fencing_enriched_2016.csv
+🔗 Lade outputs/2017/fencing_enriched_2017.csv
+🔗 Lade outputs/2018/fencing_enriched_2018.csv
+🔗 Lade outputs/2019/fencing_enriched_2019.csv
+🔗 Lade outputs/2020/fencing_enriched_2020.csv
+🔗 Lade outputs/2021/fencing_enriched_2021.csv
+🔗 Lade outputs/2022/fencing_enriched_2022.csv
+🔗 Lade outputs/2023/fencing_enriched_2023.csv
+🔗 Lade outputs/2024/fencing_enriched_2024.csv
+
+✅ Alle Ergebnisse zusammengeführt und gespeichert in: fencing_enriched_all_years.csv
+✅ Success
+
+
+=== Teilpipeline fertig für 2015 @ 2025-04-13T10:26:58.339797 ===

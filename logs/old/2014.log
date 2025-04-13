@@ -1,0 +1,48 @@
+=== Pipeline Start für 2014 @ 2025-04-13T12:34:32.061790 ===
+
+▶️ 04_enrich_matches.py
+
+🔁 Nachscrape fehlender Daten:   0%|          | 0/33 [00:00<?, ?it/s]
+🔁 Nachscrape fehlender Daten:   3%|▎         | 1/33 [00:04<02:33,  4.79s/it]
+🔁 Nachscrape fehlender Daten:   6%|▌         | 2/33 [00:05<01:18,  2.53s/it]
+🔁 Nachscrape fehlender Daten:   9%|▉         | 3/33 [00:06<00:49,  1.64s/it]
+🔁 Nachscrape fehlender Daten:  12%|█▏        | 4/33 [00:07<00:39,  1.35s/it]
+🔁 Nachscrape fehlender Daten:  15%|█▌        | 5/33 [00:07<00:30,  1.08s/it]
+🔁 Nachscrape fehlender Daten:  18%|█▊        | 6/33 [00:08<00:28,  1.05s/it]
+🔁 Nachscrape fehlender Daten:  21%|██        | 7/33 [00:09<00:26,  1.00s/it]
+🔁 Nachscrape fehlender Daten:  24%|██▍       | 8/33 [00:10<00:24,  1.01it/s]
+🔁 Nachscrape fehlender Daten:  27%|██▋       | 9/33 [00:11<00:23,  1.01it/s]
+🔁 Nachscrape fehlender Daten:  30%|███       | 10/33 [00:12<00:22,  1.04it/s]
+🔁 Nachscrape fehlender Daten:  33%|███▎      | 11/33 [00:13<00:21,  1.04it/s]
+🔁 Nachscrape fehlender Daten:  36%|███▋      | 12/33 [00:14<00:20,  1.03it/s]
+🔁 Nachscrape fehlender Daten:  39%|███▉      | 13/33 [00:15<00:19,  1.03it/s]
+🔁 Nachscrape fehlender Daten:  42%|████▏     | 14/33 [00:16<00:18,  1.03it/s]
+🔁 Nachscrape fehlender Daten:  45%|████▌     | 15/33 [00:17<00:17,  1.05it/s]
+🔁 Nachscrape fehlender Daten:  48%|████▊     | 16/33 [00:18<00:16,  1.05it/s]
+🔁 Nachscrape fehlender Daten:  52%|█████▏    | 17/33 [00:19<00:15,  1.05it/s]
+🔁 Nachscrape fehlender Daten:  55%|█████▍    | 18/33 [00:20<00:13,  1.07it/s]
+🔁 Nachscrape fehlender Daten:  58%|█████▊    | 19/33 [00:21<00:13,  1.07it/s]
+🔁 Nachscrape fehlender Daten:  61%|██████    | 20/33 [00:22<00:12,  1.07it/s]
+🔁 Nachscrape fehlender Daten:  64%|██████▎   | 21/33 [00:22<00:11,  1.08it/s]
+🔁 Nachscrape fehlender Daten:  67%|██████▋   | 22/33 [00:24<00:10,  1.02it/s]
+🔁 Nachscrape fehlender Daten:  70%|██████▉   | 23/33 [00:24<00:09,  1.05it/s]
+🔁 Nachscrape fehlender Daten:  73%|███████▎  | 24/33 [00:25<00:08,  1.05it/s]
+🔁 Nachscrape fehlender Daten:  76%|███████▌  | 25/33 [00:26<00:07,  1.06it/s]
+🔁 Nachscrape fehlender Daten:  79%|███████▉  | 26/33 [00:27<00:06,  1.04it/s]
+🔁 Nachscrape fehlender Daten:  82%|████████▏ | 27/33 [00:28<00:05,  1.02it/s]
+🔁 Nachscrape fehlender Daten:  85%|████████▍ | 28/33 [00:29<00:04,  1.02it/s]
+🔁 Nachscrape fehlender Daten:  88%|████████▊ | 29/33 [00:30<00:03,  1.03it/s]
+🔁 Nachscrape fehlender Daten:  91%|█████████ | 30/33 [00:31<00:02,  1.03it/s]
+🔁 Nachscrape fehlender Daten:  94%|█████████▍| 31/33 [00:32<00:01,  1.01it/s]
+🔁 Nachscrape fehlender Daten:  97%|█████████▋| 32/33 [00:33<00:00,  1.01it/s]
+🔁 Nachscrape fehlender Daten: 100%|██████████| 33/33 [00:34<00:00,  1.01it/s]
+🔁 Nachscrape fehlender Daten: 100%|██████████| 33/33 [00:34<00:00,  1.05s/it]
+✅ Matchdaten (inkl. Live-Reparatur) gespeichert für 2014: outputs/2014/fencing_match_analysis_2014_master.csv
+✅ Success
+
+▶️ 05_enrich_and_format.py
+✅ Fertige Datei gespeichert unter: outputs/2014/fencing_enriched_2014.csv
+✅ Success
+
+
+=== Pipeline fertig für 2014 @ 2025-04-13T12:35:08.218698 ===

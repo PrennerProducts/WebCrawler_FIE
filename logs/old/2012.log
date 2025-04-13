@@ -1,0 +1,12 @@
+=== Pipeline Start für 2012 @ 2025-04-13T12:35:08.942962 ===
+
+▶️ 04_enrich_matches.py
+⚠️ Keine Athleteninfos vorhanden für 2012, breche ab.
+✅ Success
+
+▶️ 05_enrich_and_format.py
+⚠️ Eingabedateien fehlen für 2012, überspringe.
+✅ Success
+
+
+=== Pipeline fertig für 2012 @ 2025-04-13T12:35:09.626653 ===

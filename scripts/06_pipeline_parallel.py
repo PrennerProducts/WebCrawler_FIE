@@ -2,7 +2,7 @@ import subprocess
 import os
 from datetime import datetime
 
-SEASONS = list(range(2013, 2003, -1))  # von 2024 abwärts
+SEASONS = list(range(2024, 2003, -1))  # von 2024 bis einschließlich 2004
 SCRIPT_DIR = "scripts"
 LOG_DIR = "logs"
 os.makedirs(LOG_DIR, exist_ok=True)
@@ -16,6 +16,7 @@ SCRIPTS = [
 ]
 
 def run_pipeline_for_season(season):
+    
     log_file_path = os.path.join(LOG_DIR, f"{season}.log")
     with open(log_file_path, "w") as log_file:
         print(f"\n=== 🔁 Starte Pipeline für {season} ===")
@@ -34,6 +35,8 @@ def run_pipeline_for_season(season):
                 env=env,
                 stdout=subprocess.PIPE,
                 stderr=subprocess.STDOUT,
+                # stdout=None,      # direkte Weiterleitung an Terminal
+                # stderr=None,       # auch Fehler anzeigen (inkl. tqdm!)
                 text=True,
                 bufsize=1
             )

@@ -44,22 +44,26 @@ def extract_year_end_rank_from_text(text, season=SEASON_LABEL):
             if match:
                 return int(match.group(1))
     return None
+def scrape_athlete_profile(athlete_id, page, retries=3):
+    url = f"https://fie.org/athletes/{athlete_id}"
+    for attempt in range(1, retries + 1):
+        try:
+            page.goto(url, timeout=10000)
+            page.wait_for_timeout(WAIT_AFTER_LOAD)
+            text = page.inner_text("body")
 
-def scrape_athlete_profile(athlete_id, page):
-    try:
-        url = f"https://fie.org/athletes/{athlete_id}"
-        page.goto(url, timeout=10000)
-        page.wait_for_timeout(WAIT_AFTER_LOAD)
-        text = page.inner_text("body")
+            hand = extract_hand_from_text(text)
+            rank = extract_year_end_rank_from_text(text)
 
-        hand = extract_hand_from_text(text)
-        rank = extract_year_end_rank_from_text(text)
+            return {"athleteId": athlete_id, "hand": hand, "rank": rank}
+        except Exception as e:
+            if attempt == retries:
+                with open(ERROR_LOG_FILE, "a") as log:
+                    log.write(f"{athlete_id}: {e}\n")
+                return {"athleteId": athlete_id, "hand": "", "rank": None}
+            else:
+                time.sleep(1)  # optional: kurzer Delay zwischen Versuchen
 
-        return {"athleteId": athlete_id, "hand": hand, "rank": rank}
-    except Exception as e:
-        with open(ERROR_LOG_FILE, "a") as log:
-            log.write(f"{athlete_id}: {e}\n")
-        return {"athleteId": athlete_id, "hand": "", "rank": None}
 
 def scrape_ids_worker(id_list, output_file):
     results = []

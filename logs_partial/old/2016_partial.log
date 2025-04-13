@@ -1,0 +1,43 @@
+=== Teilpipeline Start für 2016 @ 2025-04-13T10:26:22.705342 ===
+
+▶️ 04.5_renrich_matches_with_repaired_info.py
+🔍 Starte Livescraping für 10 fehlende Händigkeiten ...
+
+  0%|          | 0/10 [00:00<?, ?it/s]
+ 10%|█         | 1/10 [00:01<00:09,  1.06s/it]
+ 20%|██        | 2/10 [00:01<00:06,  1.32it/s]
+ 30%|███       | 3/10 [00:02<00:06,  1.12it/s]
+ 40%|████      | 4/10 [00:03<00:05,  1.11it/s]
+ 50%|█████     | 5/10 [00:04<00:04,  1.08it/s]
+ 60%|██████    | 6/10 [00:05<00:03,  1.07it/s]
+ 70%|███████   | 7/10 [00:06<00:02,  1.21it/s]
+ 80%|████████  | 8/10 [00:07<00:01,  1.01it/s]
+ 90%|█████████ | 9/10 [00:08<00:00,  1.04it/s]
+100%|██████████| 10/10 [00:09<00:00,  1.04it/s]
+100%|██████████| 10/10 [00:09<00:00,  1.07it/s]
+✅ Matchdaten angereichert + repariert + live ergänzt gespeichert für 2016: outputs/2016/fencing_match_analysis_2016_master.csv
+✅ Success
+
+▶️ 05_enrich_and_format.py
+✅ Fertige Datei gespeichert unter: outputs/2016/fencing_enriched_2016.csv
+✅ Success
+
+▶️ 07_merge_enriched_results.py
+📦 11 Dateien gefunden zum Zusammenführen.
+🔗 Lade outputs/2014/fencing_enriched_2014.csv
+🔗 Lade outputs/2015/fencing_enriched_2015.csv
+🔗 Lade outputs/2016/fencing_enriched_2016.csv
+🔗 Lade outputs/2017/fencing_enriched_2017.csv
+🔗 Lade outputs/2018/fencing_enriched_2018.csv
+🔗 Lade outputs/2019/fencing_enriched_2019.csv
+🔗 Lade outputs/2020/fencing_enriched_2020.csv
+🔗 Lade outputs/2021/fencing_enriched_2021.csv
+🔗 Lade outputs/2022/fencing_enriched_2022.csv
+🔗 Lade outputs/2023/fencing_enriched_2023.csv
+🔗 Lade outputs/2024/fencing_enriched_2024.csv
+
+✅ Alle Ergebnisse zusammengeführt und gespeichert in: fencing_enriched_all_years.csv
+✅ Success
+
+
+=== Teilpipeline fertig für 2016 @ 2025-04-13T10:26:35.032774 ===
