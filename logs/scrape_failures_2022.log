@@ -1,0 +1,8 @@
+43601: Page.goto: Timeout 10000ms exceeded.
+Call log:
+  - navigating to "https://fie.org/athletes/43601", waiting until "load"
+
+53156: Page.goto: Timeout 10000ms exceeded.
+Call log:
+  - navigating to "https://fie.org/athletes/53156", waiting until "load"
+

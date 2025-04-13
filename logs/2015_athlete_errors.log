@@ -1,0 +1,8 @@
+5621: Page.goto: Navigation to "https://fie.org/athletes/5621" is interrupted by another navigation to "https://fie.org/athletes/5621"
+Call log:
+  - navigating to "https://fie.org/athletes/5621", waiting until "load"
+
+5629: Page.goto: Navigation to "https://fie.org/athletes/5629" is interrupted by another navigation to "https://fie.org/athletes/5629"
+Call log:
+  - navigating to "https://fie.org/athletes/5629", waiting until "load"
+
